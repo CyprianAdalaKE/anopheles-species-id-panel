@@ -1,0 +1,11 @@
+Locus	Position (AgamP4)	Ref>Alt	Best-discriminated pair	Freq in sp. A	Freq in sp. B	|Freq diff|	freq_gambiae	freq_coluzzii	freq_arabiensis	freq_funestus	freq_stephensi	freq_coustani
+AGAP002151	16504406	C>A	coluzzii vs stephensi	0.01	0.97	0.97	0.04	0.01	0.05	0.13	0.97	0.30
+AGAP001804	10619585	C>T	coluzzii vs stephensi	0.01	0.97	0.96	0.03	0.01	0.08	0.19	0.97	0.36
+AGAP001805	10622123	A>G	coluzzii vs stephensi	0.01	0.97	0.96	0.04	0.01	0.08	0.15	0.97	0.40
+AGAP004522	57347911	T>G	coluzzii vs stephensi	0.01	0.97	0.96	0.04	0.01	0.04	0.15	0.97	0.33
+AGAP007827	1485752	C>T	coluzzii vs stephensi	0.01	0.96	0.96	0.03	0.01	0.03	0.06	0.96	0.27
+AGAP005134	10356930	A>T	coluzzii vs stephensi	0.01	0.96	0.95	0.03	0.01	0.08	0.23	0.96	0.44
+AGAP004422	55870664	G>C	gambiae vs stephensi	0.02	0.96	0.94	0.02	0.05	0.13	0.52	0.96	0.46
+AGAP002141	16402820	C>T	gambiae vs stephensi	0.00	0.93	0.93	0.00	0.01	0.01	0.00	0.93	0.09
+AGAP003240	34375309	G>A	funestus vs stephensi	0.59	0.00	0.59	0.09	0.13	0.24	0.59	0.00	0.46
+AGAP003262	34569374	A>G	coluzzii vs coustani	0.05	0.49	0.44	0.13	0.05	0.25	0.34	0.16	0.49

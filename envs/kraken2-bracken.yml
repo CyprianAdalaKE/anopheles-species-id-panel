@@ -1,0 +1,8 @@
+name: kraken2-bracken
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - kraken2
+  - bracken
+  - seqtk
