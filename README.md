@@ -58,11 +58,24 @@ with environment variables:
 | `02_aggregate_and_plot_v2.py` | Aggregates coverage and draws the depth heatmap |
 | `figures_v2/replot_depth_and_sens.py` | Log-scale depth boxplots (Figures 7–8) and sensitivity/specificity with Wilson 95% CIs (Figure 10, Table 4). Output filenames use the draft figure numbers (8, 9, 12) |
 
-### 3. Taxonomic classification (Figure 9, Table 4, Table 6)
+### 3. Taxonomic classification
 
 | Script | Purpose |
 |---|---|
 | `run_kraken_bracken.sh` | Kraken2 + Bracken species-level classification of all samples |
+
+### 3b. Species-identification accuracy: `species_id_accuracy/` (Figure 9, Table 4, Figure 10)
+
+`confusion_matrix_sens_spec.py` builds the confusion matrix of panel calls against reference
+species identification and computes one-vs-rest sensitivity and specificity per species with
+Wilson 95% CIs, plus overall accuracy (445/478 = 93.1%). The input CSV has one row per sample
+with columns `panel` and `reference_species_id`:
+
+```bash
+python species_id_accuracy/confusion_matrix_sens_spec.py species_id_joined_k2_Bracken_updated_Jul26_latest.csv species_id_accuracy/out
+```
+
+`crosstab_original_colab.ipynb` is the original Google Colab notebook used for the manuscript.
 
 ### 4. Genotype-based validation: `pca_validation/` (Figures 11, 12, 14)
 
