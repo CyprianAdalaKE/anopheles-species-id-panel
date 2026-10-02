@@ -72,7 +72,7 @@ Wilson 95% CIs, plus overall accuracy (445/478 = 93.1%). The input CSV has one r
 with columns `panel` and `reference_species_id`:
 
 ```bash
-python species_id_accuracy/confusion_matrix_sens_spec.py species_id_joined_k2_Bracken_updated_Jul26_latest.csv species_id_accuracy/out
+python species_id_accuracy/confusion_matrix_sens_spec.py species_id_accuracy/species_id_joined_k2_Bracken_updated_Jul26_latest.csv species_id_accuracy/out
 ```
 
 `crosstab_original_colab.ipynb` is the original Google Colab notebook used for the manuscript.
