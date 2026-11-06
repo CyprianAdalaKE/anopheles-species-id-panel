@@ -32,8 +32,8 @@ declare -A TAXIDS=(
     ["VectorBase-67_AcoustaniAcouGA1_Genome"]=139045
     ["PlasmoDB-67_Pfalciparum3D7_Genome"]=5833
     ["PlasmoDB-67_PvivaxP01_Genome"]=5855
-    ["PlasmoDB-67_PmalariaeUG01_Genome"]=5863
-    ["PlasmoDB-67_PovalecurtisiGH01_Genome"]=5800
+    ["PlasmoDB-67_PmalariaeUG01_Genome"]=5858     # the original database used 5863 (Piroplasmida) in error
+    ["PlasmoDB-67_PovalecurtisiGH01_Genome"]=864141 # the original database used 5800 (Eimeria) in error
 )
 
 for name in "${!TAXIDS[@]}"; do
