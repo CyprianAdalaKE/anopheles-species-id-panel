@@ -1,0 +1,8 @@
+median % of reads per sample
+true                  own     hi_gamcx  hi_funestus hi_stephensi        90_95         lt90   samples with >5% foreign
+arabiensis           71.7          0.0          0.8          0.5         18.2          5.4   31/78 (max 33.1)
+coluzzii             81.2          0.0          0.6          0.0         14.4          3.2   6/30 (max 13.8)
+gambiae              83.9          0.0          0.2          0.0         12.9          2.8   7/78 (max 40.2)
+funestus             62.9          8.9          0.0          0.8         16.3          3.5   54/79 (max 81.5)
+stephensi            83.0          0.4          0.0          0.0         14.6          1.9   6/79 (max 84.1)
+coustani              0.3         17.6         13.9          6.4         44.4         16.3   30/30 (max 59.9)

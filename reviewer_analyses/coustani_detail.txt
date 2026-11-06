@@ -1,0 +1,46 @@
+Kraken per-locus vote accuracy by species (%), samples with >=10 reads at locus
+locus         arabi  coluz  coust  funes  gambi  steph  all
+AGAP001804       74     50     23     52     12     97  55.3
+AGAP001805       58     62      0     82     54     97  66.3
+AGAP002141       94      3      0     91     81     95  75.8
+AGAP002151      100      0      0      0      0     97  41.5
+AGAP003240       29     96      0     93      0    100  55.6
+AGAP003262        3     97      0      0      5      0  11.7
+AGAP004422       52     11      0     65     67     95  60.3
+AGAP004522       75     68      0     67     19     97  59.2
+AGAP005134       57      0      3     95     88     97  71.2
+AGAP007827       12      3      3     96     94     97  63.3
+
+coustani-labelled samples: median read identity (%) to each reference, by locus
+locus         arabi  coluz  coust  funes  gambi  steph
+AGAP001804     86.3   86.3   80.8   84.4   86.3   84.9
+AGAP001805     78.9   78.9   91.7   79.5   78.7   74.6
+AGAP002141     78.9   78.5   75.9   88.3   78.5   78.0
+AGAP002151     91.0   91.3   77.1   77.5   91.3   92.7
+AGAP003240     80.9   79.5   74.5   89.0   79.3   83.9
+AGAP003262     92.9   93.6   71.4   73.4   93.9   74.8
+AGAP004422     91.2   90.7   75.1   74.8   91.4   76.1
+AGAP004522     90.6   89.5   73.1   79.1   90.8   84.5
+AGAP005134     85.4   85.0   85.7   91.5   85.2   89.1
+AGAP007827     90.9   90.6   87.8   91.2   90.9   86.7
+  per-sample mean identity to coustani: min 79.6 median 80.7 max 86.7
+  per-sample mean identity to funestus: min 80.1 median 85.3 max 87.0
+  per-sample mean identity to gambiae: min 84.1 median 85.3 max 90.2
+  samples whose highest mean identity is to the coustani reference: 1/30; to funestus: 15
+
+funestus-labelled samples: median read identity (%) to each reference, by locus
+locus         arabi  coluz  coust  funes  gambi  steph
+AGAP001804     89.0   89.0   80.9   87.4   89.1   86.5
+AGAP001805     79.5   79.6   49.4   94.4   79.2   74.5
+AGAP002141     70.4   71.5   77.0   97.2   71.5   80.0
+AGAP002151     96.2   96.3   77.6   78.5   96.3   86.7
+AGAP003240     77.5   75.9   74.2   96.2   76.5   80.8
+AGAP003262     94.9   95.3   71.8   74.2   96.1   75.8
+AGAP004422     72.8   72.7   75.0   97.0   72.7   76.0
+AGAP004522     79.9   79.6   74.1   97.2   80.2   79.6
+AGAP005134     86.0   85.7   86.1   97.6   86.0   90.0
+AGAP007827     86.5   87.5   88.7   97.2   85.0   85.3
+  per-sample mean identity to coustani: min 77.9 median 80.1 max 84.4
+  per-sample mean identity to funestus: min 80.6 median 94.8 max 96.6
+  per-sample mean identity to gambiae: min 76.5 median 80.1 max 95.0
+  samples whose highest mean identity is to the funestus reference: 58/79; to funestus: 58
