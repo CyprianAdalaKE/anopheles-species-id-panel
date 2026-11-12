@@ -1,86 +1,71 @@
 == Six species (true label = species folder)
-Samples: 374  (arabiensis 78, coluzzii 30, coustani 30, funestus 79, gambiae 78, stephensi 79)
-Overall accuracy: 85.8% (321/374), 95% CI 81.9-89.0
+Samples: 349  (arabiensis 72, coluzzii 21, coustani 28, funestus 77, gambiae 76, stephensi 75)
+Overall accuracy: 88.0% (307/349), 95% CI 84.1-91.0
 
 Confusion matrix (rows = true label, columns = top Bracken call):
 true\pred            arabiensis       coluzzii       coustani       funestus        gambiae      stephensi
-arabiensis                   76              0              0              0              2              0
-coluzzii                      0             12              0              0             18              0
-coustani                      1              0              3             25              0              1
-funestus                      1              0              0             78              0              0
-gambiae                       3              0              0              0             75              0
-stephensi                     1              0              0              0              1             77
+arabiensis                   70              0              0              0              2              0
+coluzzii                      0             12              0              0              9              0
+coustani                      1              0              3             23              0              1
+funestus                      1              0              0             76              0              0
+gambiae                       3              0              0              0             73              0
+stephensi                     1              0              0              0              1             73
 
 species            n   TP   sens%        95% CI   FP   spec%        95% CI    PPV%
-arabiensis        78   76    97.4     91.1-99.3    6    98.0     95.6-99.1    92.7
-coluzzii          30   12    40.0     24.6-57.7    0   100.0    98.9-100.0   100.0
-coustani          30    3    10.0      3.5-25.6    0   100.0    98.9-100.0   100.0
-funestus          79   78    98.7     93.2-99.8   25    91.5     87.8-94.2    75.7
-gambiae           78   75    96.2     89.3-98.7   21    92.9     89.4-95.3    78.1
-stephensi         79   77    97.5     91.2-99.3    1    99.7     98.1-99.9    98.7
+arabiensis        72   70    97.2     90.4-99.2    6    97.8     95.4-99.0    92.1
+coluzzii          21   12    57.1     36.5-75.5    0   100.0    98.8-100.0   100.0
+coustani          28    3    10.7      3.7-27.2    0   100.0    98.8-100.0   100.0
+funestus          77   76    98.7     93.0-99.8   23    91.5     87.6-94.3    76.8
+gambiae           76   73    96.1     89.0-98.6   12    95.6     92.5-97.5    85.9
+stephensi         75   73    97.3     90.8-99.3    1    99.6     98.0-99.9    98.6
 
 == gambiae and coluzzii merged (An. gambiae s.s./An. coluzzii)
-Samples: 374  (arabiensis 78, coustani 30, funestus 79, gambiae/coluzzii 108, stephensi 79)
-Overall accuracy: 90.6% (339/374), 95% CI 87.3-93.2
+Samples: 349  (arabiensis 72, coustani 28, funestus 77, gambiae/coluzzii 97, stephensi 75)
+Overall accuracy: 90.5% (316/349), 95% CI 87.0-93.2
 
 Confusion matrix (rows = true label, columns = top Bracken call):
 true\pred            arabiensis       coustani       funestus gambiae/coluzz      stephensi
-arabiensis                   76              0              0              2              0
-coustani                      1              3             25              0              1
-funestus                      1              0             78              0              0
-gambiae/coluzzii              3              0              0            105              0
-stephensi                     1              0              0              1             77
+arabiensis                   70              0              0              2              0
+coustani                      1              3             23              0              1
+funestus                      1              0             76              0              0
+gambiae/coluzzii              3              0              0             94              0
+stephensi                     1              0              0              1             73
 
 species            n   TP   sens%        95% CI   FP   spec%        95% CI    PPV%
-arabiensis        78   76    97.4     91.1-99.3    6    98.0     95.6-99.1    92.7
-coustani          30    3    10.0      3.5-25.6    0   100.0    98.9-100.0   100.0
-funestus          79   78    98.7     93.2-99.8   25    91.5     87.8-94.2    75.7
-gambiae/coluzzii 108  105    97.2     92.1-99.1    3    98.9     96.7-99.6    97.2
-stephensi         79   77    97.5     91.2-99.3    1    99.7     98.1-99.9    98.7
+arabiensis        72   70    97.2     90.4-99.2    6    97.8     95.4-99.0    92.1
+coustani          28    3    10.7      3.7-27.2    0   100.0    98.8-100.0   100.0
+funestus          77   76    98.7     93.0-99.8   23    91.5     87.6-94.3    76.8
+gambiae/coluzzii  97   94    96.9     91.3-98.9    3    98.8     96.6-99.6    96.9
+stephensi         75   73    97.3     90.8-99.3    1    99.6     98.0-99.9    98.6
 
 == Four species only (previous table, for reference)
-Samples: 314  (arabiensis 78, funestus 79, gambiae 78, stephensi 79)
-Overall accuracy: 97.5% (306/314), 95% CI 95.1-98.7
+Samples: 300  (arabiensis 72, funestus 77, gambiae 76, stephensi 75)
+Overall accuracy: 97.3% (292/300), 95% CI 94.8-98.6
 
 Confusion matrix (rows = true label, columns = top Bracken call):
 true\pred            arabiensis       funestus        gambiae      stephensi
-arabiensis                   76              0              2              0
-funestus                      1             78              0              0
-gambiae                       3              0             75              0
-stephensi                     1              0              1             77
+arabiensis                   70              0              2              0
+funestus                      1             76              0              0
+gambiae                       3              0             73              0
+stephensi                     1              0              1             73
 
 species            n   TP   sens%        95% CI   FP   spec%        95% CI    PPV%
-arabiensis        78   76    97.4     91.1-99.3    5    97.9     95.1-99.1    93.8
-funestus          79   78    98.7     93.2-99.8    0   100.0    98.4-100.0   100.0
-gambiae           78   75    96.2     89.3-98.7    3    98.7     96.3-99.6    96.2
-stephensi         79   77    97.5     91.2-99.3    0   100.0    98.4-100.0   100.0
+arabiensis        72   70    97.2     90.4-99.2    5    97.8     95.0-99.1    93.3
+funestus          77   76    98.7     93.0-99.8    0   100.0    98.3-100.0   100.0
+gambiae           76   73    96.1     89.0-98.6    3    98.7     96.1-99.5    96.1
+stephensi         75   73    97.3     90.8-99.3    0   100.0    98.3-100.0   100.0
 
-Misclassified samples (53):
+Misclassified samples (42):
   arabiensis  combined.barcode21         -> gambiae     38.2%  (2nd arabiensis 23.8%)  classified reads 300454
   arabiensis  combined.barcode22         -> gambiae     45.6%  (2nd arabiensis 27.1%)  classified reads 319699
-  funestus    combined.barcode79         -> arabiensis  44.4%  (2nd gambiae 16.6%)  classified reads 53471
-  gambiae     combined.barcode77         -> arabiensis  53.0%  (2nd gambiae 30.7%)  classified reads 149884
-  gambiae     combined.barcode78         -> arabiensis  52.4%  (2nd gambiae 30.2%)  classified reads 66308
-  gambiae     combined.barcode79         -> arabiensis  48.9%  (2nd gambiae 29.6%)  classified reads 9867
-  stephensi   combined.barcode11         -> gambiae     39.6%  (2nd arabiensis 28.4%)  classified reads 44714
-  stephensi   combined.barcode76         -> arabiensis  77.7%  (2nd gambiae 11.5%)  classified reads 47236
   coluzzii    combined.barcode15.fastq   -> gambiae     46.7%  (2nd coluzzii 32.3%)  classified reads 38512
   coluzzii    combined.barcode16.fastq   -> gambiae     40.5%  (2nd arabiensis 30.1%)  classified reads 35746
   coluzzii    combined.barcode17.fastq   -> gambiae     39.6%  (2nd arabiensis 32.2%)  classified reads 5158
-  coluzzii    combined.barcode18.fastq   -> gambiae     40.3%  (2nd arabiensis 36.2%)  classified reads 2082
   coluzzii    combined.barcode19.fastq   -> gambiae     43.1%  (2nd coluzzii 31.7%)  classified reads 7164
-  coluzzii    combined.barcode20.fastq   -> gambiae     41.8%  (2nd arabiensis 32.2%)  classified reads 2475
   coluzzii    combined.barcode21.fastq   -> gambiae     48.5%  (2nd arabiensis 29.9%)  classified reads 68000
   coluzzii    combined.barcode22.fastq   -> gambiae     42.2%  (2nd arabiensis 32.7%)  classified reads 15674
-  coluzzii    combined.barcode23.fastq   -> gambiae     41.1%  (2nd arabiensis 32.8%)  classified reads 2072
-  coluzzii    combined.barcode24.fastq   -> gambiae     38.4%  (2nd arabiensis 33.9%)  classified reads 1068
-  coluzzii    combined.barcode25.fastq   -> gambiae     40.7%  (2nd arabiensis 32.5%)  classified reads 2197
   coluzzii    combined.barcode26.fastq   -> gambiae     51.8%  (2nd arabiensis 26.2%)  classified reads 98949
-  coluzzii    combined.barcode27.fastq   -> gambiae     39.3%  (2nd arabiensis 36.3%)  classified reads 1552
-  coluzzii    combined.barcode28.fastq   -> gambiae     38.9%  (2nd arabiensis 34.0%)  classified reads 2051
-  coluzzii    combined.barcode29.fastq   -> gambiae     45.7%  (2nd arabiensis 30.6%)  classified reads 2460
   coluzzii    combined.barcode30.fastq   -> gambiae     66.0%  (2nd arabiensis 17.8%)  classified reads 80447
-  coluzzii    combined.barcode31.fastq   -> gambiae     39.5%  (2nd arabiensis 33.4%)  classified reads 2203
   coluzzii    combined.barcode32.fastq   -> gambiae     29.4%  (2nd funestus 29.3%)  classified reads 2889
   coustani    combined.barcode04.fastq   -> arabiensis  32.4%  (2nd funestus 27.3%)  classified reads 56040
   coustani    combined.barcode05.fastq   -> funestus    30.7%  (2nd stephensi 22.4%)  classified reads 83648
@@ -88,14 +73,12 @@ Misclassified samples (53):
   coustani    combined.barcode07.fastq   -> funestus    34.9%  (2nd stephensi 18.5%)  classified reads 85142
   coustani    combined.barcode08.fastq   -> funestus    27.7%  (2nd stephensi 20.9%)  classified reads 127615
   coustani    combined.barcode09.fastq   -> funestus    32.1%  (2nd stephensi 20.3%)  classified reads 44643
-  coustani    combined.barcode10.fastq   -> funestus    30.0%  (2nd arabiensis 24.7%)  classified reads 1381
   coustani    combined.barcode11.fastq   -> funestus    39.4%  (2nd stephensi 20.0%)  classified reads 89886
   coustani    combined.barcode12.fastq   -> funestus    36.7%  (2nd stephensi 20.3%)  classified reads 94783
   coustani    combined.barcode13.fastq   -> funestus    32.5%  (2nd stephensi 22.7%)  classified reads 96994
   coustani    combined.barcode14.fastq   -> funestus    34.4%  (2nd stephensi 22.5%)  classified reads 50694
   coustani    combined.barcode15.fastq   -> funestus    36.6%  (2nd stephensi 21.5%)  classified reads 90260
   coustani    combined.barcode16.fastq   -> funestus    34.0%  (2nd stephensi 22.0%)  classified reads 60654
-  coustani    combined.barcode17.fastq   -> funestus    33.4%  (2nd stephensi 21.9%)  classified reads 2851
   coustani    combined.barcode18.fastq   -> funestus    31.6%  (2nd gambiae 16.9%)  classified reads 32025
   coustani    combined.barcode19.fastq   -> funestus    28.9%  (2nd stephensi 23.6%)  classified reads 44311
   coustani    combined.barcode20.fastq   -> funestus    36.5%  (2nd stephensi 18.6%)  classified reads 56968
@@ -109,3 +92,9 @@ Misclassified samples (53):
   coustani    combined.barcode28.fastq   -> funestus    27.4%  (2nd stephensi 17.7%)  classified reads 16512
   coustani    combined.barcode29.fastq   -> funestus    34.1%  (2nd stephensi 27.3%)  classified reads 65357
   coustani    combined.barcode30.fastq   -> funestus    31.9%  (2nd stephensi 22.0%)  classified reads 21001
+  funestus    combined.barcode79         -> arabiensis  44.4%  (2nd gambiae 16.6%)  classified reads 53471
+  gambiae     combined.barcode77         -> arabiensis  53.0%  (2nd gambiae 30.7%)  classified reads 149884
+  gambiae     combined.barcode78         -> arabiensis  52.4%  (2nd gambiae 30.2%)  classified reads 66308
+  gambiae     combined.barcode79         -> arabiensis  48.9%  (2nd gambiae 29.6%)  classified reads 9867
+  stephensi   combined.barcode11         -> gambiae     39.6%  (2nd arabiensis 28.4%)  classified reads 44714
+  stephensi   combined.barcode76         -> arabiensis  77.7%  (2nd gambiae 11.5%)  classified reads 47236

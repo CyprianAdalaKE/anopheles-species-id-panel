@@ -1,0 +1,3 @@
+label	flow_cell	started	fastq_pass
+SLCA020	FBA58185	2026-10-19T15:11	/var/lib/minknow/data/2026-10-19_seqLib_SLCA020/no_sample_id/20261019_1505_MN30463_FBA58185_9dc3edd6/fastq_pass
+SLCA021	FBA58542	2026-10-20T12:32	/var/lib/minknow/data/2026-10-20_SeqLib_SLCA021/no_sample_id/20261020_1228_MN30463_FBA58542_4228b2cd/fastq_pass

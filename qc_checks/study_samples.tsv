@@ -1,0 +1,479 @@
+folder	file	reads	run	flow_cell	barcode	basecall_model	provenance
+arabiensis	combined.barcode01	261960	SLCA003_BatchKT	FBA66584	barcode01	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode02	299603	SLCA003_BatchKT	FBA66584	barcode02	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode03	6007	Anoph_Speciation	FBA66226	barcode02	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode04	126732	SLCA003_BatchKT	FBA66584	barcode04	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode05	150817	SLCA003_BatchKT	FBA66584	barcode05	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode06	11067	SLCA003_BatchKT	FBA66584	barcode06	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode07	7189	SLCA003_BatchKT	FBA66584	barcode07	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode08	9345	NA	NA	NA	NA	no header; source run unknown
+arabiensis	combined.barcode09	46727	SLCA003_BatchKT	FBA66584	barcode09	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode10	132895	SLCA003_BatchKT	FBA66584	barcode10	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode11	16458	Anoph_Speciation	FBA66226	barcode11	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode12	2694	Anoph_Speciation	FBA66226	barcode12	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode13	14208	Anoph_Speciation	FBA66226	barcode13	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode14	6067	Anoph_Speciation	FBA66226	barcode14	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode15	4791	Anoph_Speciation	FBA66226	barcode15	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode16	8931	Anoph_Speciation	FBA66226	barcode16	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode17	5287	Anoph_Speciation	FBA66226	barcode17	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode18	9983	Anoph_Speciation	FBA66226	barcode18	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode19	143040	SLCA003_BatchKT	FBA66584	barcode19	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode20	507266	SLCA003_BatchKT	FBA66584	barcode20	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode21	381806	SLCA003_BatchKT	FBA66584	barcode21	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode22	378280	SLCA003_BatchKT	FBA66584	barcode22	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode23	19363	SLCA003_BatchKT	FBA66584	barcode23	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode24	47	SLCA003_BatchKT	FBA66584	barcode24	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode25	7681	Anoph_Speciation	FBA66226	barcode25	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode26	13848	Anoph_Speciation	FBA66226	barcode26	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode27	12183	Anoph_Speciation	FBA66226	barcode27	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode28	11663	Anoph_Speciation	FBA66226	barcode28	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode29	9998	Anoph_Speciation	FBA66226	barcode29	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode30	11891	Anoph_Speciation	FBA66226	barcode30	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode31	2207	Anoph_Speciation	FBA66226	barcode31	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode32	14860	Anoph_Speciation	FBA66226	barcode32	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode33	11593	Anoph_Speciation	FBA66226	barcode33	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode34	9473	Anoph_Speciation	FBA66226	barcode34	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode35	11180	Anoph_Speciation	FBA66226	barcode35	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode36	14780	Anoph_Speciation	FBA66226	barcode36	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode37	11903	Anoph_Speciation	FBA66226	barcode37	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode38	8550	Anoph_Speciation	FBA66226	barcode38	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode39	947	Anoph_Speciation	FBA66226	barcode39	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode40	5308	Anoph_Speciation	FBA66226	barcode40	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode41	19852	Anoph_Speciation	FBA66226	barcode41	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode42	22672	Anoph_Speciation	FBA66226	barcode42	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode43	23403	Anoph_Speciation	FBA66226	barcode43	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode44	17971	SLCA003_BatchKT	FBA66584	barcode44	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode45	147	Anoph_Speciation	FBA66226	barcode45	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode46	5914	Anoph_Speciation	FBA66226	barcode81	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode47	8541	SLCA003_BatchKT	FBA66584	barcode47	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode48	11539	SLCA003_BatchKT	FBA66584	barcode48	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode49	113433	SLCA003_BatchKT	FBA66584	barcode49	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode50	681094	SLCA003_BatchKT	FBA66584	barcode50	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode51	326439	SLCA003_BatchKT	FBA66584	barcode51	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode52	180703	SLCA003_BatchKT	FBA66584	barcode52	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode53	153099	SLCA003_BatchKT	FBA66584	barcode53	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+arabiensis	combined.barcode54	14341	Anoph_Speciation	FBA66226	barcode54	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode55	10041	Anoph_Speciation	FBA66226	barcode55	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode56	27696	Anoph_Speciation	FBA66226	barcode56	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode57	10740	SLCA011	FBA66584	barcode57	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+arabiensis	combined.barcode58	46488	NA	NA	NA	NA	no header; source run unknown
+arabiensis	combined.barcode59	5865	SLCA013_BatchCOL	FBA66584	barcode59	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+arabiensis	combined.barcode60	5801	NA	NA	NA	NA	no header; source run unknown
+arabiensis	combined.barcode61	4479	Anoph_Speciation	FBA66226	barcode92	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode62	5236	Anoph_Speciation	FBA66226	barcode03	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode63	422	Anoph_Speciation	FBA66226	barcode88	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode64	1143	Anoph_Speciation	FBA66226	barcode82	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode65	41872	SLCA011	FBA66584	barcode65	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+arabiensis	combined.barcode66	28886	SLCA011	FBA66584	barcode66	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+arabiensis	combined.barcode67	4849	SLCA013_BatchCOL	FBA66584	barcode67	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+arabiensis	combined.barcode68	4126	SLCA013_BatchCOL	FBA66584	barcode68	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+arabiensis	combined.barcode69	160	Anoph_Speciation	FBA66226	barcode69	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode70	40394	SLCA011	FBA66584	barcode70	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+arabiensis	combined.barcode71	7894	Anoph_Speciation	FBA66226	barcode07	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode72	7745	Anoph_Speciation	FBA66226	barcode10	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode73	6974	Anoph_Speciation	FBA66226	barcode73	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode74	41258	SLCA011	FBA66584	barcode74	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+arabiensis	combined.barcode75	5485	Anoph_Speciation	FBA66226	barcode75	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode76	62338	SLCA011	FBA66584	barcode76	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+arabiensis	combined.barcode77	2401	SLCA011	FBA66584	barcode77	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+arabiensis	combined.barcode78	5656	Anoph_Speciation	FBA66226	barcode78	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode79	492	Anoph_Speciation	FBA66226	barcode79	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	combined.barcode80	15670	Anoph_Speciation	FBA66226	barcode80	NA	raw read-ID trace (Anoph_Speciation)
+arabiensis	SLCA003_BatchKT_barcode89_NTC.fastq	1	SLCA003_BatchKT	FBA66584	barcode89	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+coluzzii_rebuilt	combined.barcode01.fastq	1030	SLCA015_BatchFUN	FBD61062	barcode12	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode02.fastq	17664	Anoph_Speciation	FBA66226	barcode19	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+coluzzii_rebuilt	combined.barcode03.fastq	53153	SLCA013_BatchCOL2	FBD61062	barcode10	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode04.fastq	3545	SLCA013_BatchCOL2	FBD61062	barcode30	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode05.fastq	26729	SLCA013_BatchCOL2	FBD61062	barcode52	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode06.fastq	16112	SLCA013_BatchCOL2	FBD61062	barcode60	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode07.fastq	32112	SLCA013_BatchCOL2	FBD61062	barcode77	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode08.fastq	67615	SLCA013_BatchCOL2	FBD61062	barcode79	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode09.fastq	117279	SLCA003_BatchKT	FBA66584	barcode27	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+coluzzii_rebuilt	combined.barcode10.fastq	167313	SLCA003_BatchKT	FBA66584	barcode38	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+coluzzii_rebuilt	combined.barcode11.fastq	76313	SLCA003_BatchKT	FBA66584	barcode39	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+coluzzii_rebuilt	combined.barcode12.fastq	38904	NA	NA	NA	NA	no header; source run unknown
+coluzzii_rebuilt	combined.barcode13.fastq	73008	SLCA011	FBA66584	barcode56	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode14.fastq	197805	SLCA011	FBA66584	barcode58	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode15.fastq	57530	SLCA020	FBA58185	barcode23	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode16.fastq	11107	SLCA020	FBA58185	barcode24	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode17.fastq	1759	SLCA020	FBA58185	barcode25	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode18.fastq	2303	SLCA020	FBA58185	barcode26	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode19.fastq	2040	SLCA020	FBA58185	barcode27	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode20.fastq	1663	SLCA020	FBA58185	barcode28	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode21.fastq	1894	SLCA020	FBA58185	barcode29	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode22.fastq	2074	SLCA020	FBA58185	barcode30	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode23.fastq	17728	SLCA020	FBA58185	barcode32	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode24.fastq	1070	SLCA020	FBA58185	barcode33	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode25.fastq	2205	SLCA020	FBA58185	barcode34	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode26.fastq	98973	SLCA020	FBA58185	barcode36	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode27.fastq	1557	SLCA020	FBA58185	barcode37	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode28.fastq	2064	SLCA020	FBA58185	barcode38	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode29.fastq	2466	SLCA020	FBA58185	barcode39	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode30.fastq	80499	SLCA020	FBA58185	barcode40	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode31.fastq	2217	SLCA020	FBA58185	barcode41	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode32.fastq	2915	SLCA020	FBA58185	barcode42	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode33.fastq	112628	SLCA020	FBA58185	barcode43	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode34.fastq	4108	SLCA020	FBA58185	barcode44	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode35.fastq	1665	SLCA020	FBA58185	barcode45	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode36.fastq	64106	SLCA020	FBA58185	barcode46	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode37.fastq	78179	SLCA020	FBA58185	barcode47	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode38.fastq	21787	SLCA020	FBA58185	barcode48	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode39.fastq	2445	SLCA020	FBA58185	barcode50	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode40.fastq	1790	SLCA020	FBA58185	barcode51	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode41.fastq	1722	SLCA020	FBA58185	barcode52	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode42.fastq	72355	SLCA020	FBA58185	barcode54	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode43.fastq	15107	SLCA020	FBA58185	barcode55	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode44.fastq	105186	SLCA020	FBA58185	barcode56	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode45.fastq	2102	SLCA020	FBA58185	barcode57	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode46.fastq	1885	SLCA020	FBA58185	barcode58	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode47.fastq	32876	SLCA020	FBA58185	barcode59	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode48.fastq	9542	SLCA020	FBA58185	barcode60	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode49.fastq	2021	SLCA020	FBA58185	barcode61	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode50.fastq	111228	SLCA020	FBA58185	barcode63	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode51.fastq	56780	SLCA020	FBA58185	barcode64	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode52.fastq	123324	SLCA020	FBA58185	barcode65	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode56.fastq	38554	SLCA020	FBA58185	barcode04	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode57.fastq	35757	SLCA020	FBA58185	barcode05	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode58.fastq	5178	SLCA020	FBA58185	barcode06	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode59.fastq	2082	SLCA020	FBA58185	barcode09	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode60.fastq	7167	SLCA020	FBA58185	barcode11	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode61.fastq	2477	SLCA020	FBA58185	barcode12	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode62.fastq	68019	SLCA020	FBA58185	barcode13	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode63.fastq	15691	SLCA020	FBA58185	barcode15	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode64.fastq	12966	SLCA020	FBA58185	barcode17	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode65.fastq	10675	SLCA020	FBA58185	barcode18	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode66.fastq	107164	SLCA020	FBA58185	barcode66	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode67.fastq	31838	SLCA020	FBA58185	barcode20	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode68.fastq	1720	SLCA020	FBA58185	barcode21	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode69.fastq	2258	SLCA020	FBA58185	barcode69	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode70.fastq	117402	SLCA020	FBA58185	barcode70	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode71.fastq	3229	SLCA020	FBA58185	barcode71	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode72.fastq	2141	SLCA020	FBA58185	barcode72	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode73.fastq	27634	SLCA020	FBA58185	barcode73	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode74.fastq	2370	SLCA020	FBA58185	barcode74	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode75.fastq	2109	SLCA020	FBA58185	barcode75	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode76.fastq	2671	SLCA020	FBA58185	barcode76	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode77.fastq	2101	SLCA020	FBA58185	barcode77	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode78.fastq	17696	SLCA020	FBA58185	barcode78	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode79.fastq	1963	SLCA020	FBA58185	barcode19	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	combined.barcode80.fastq	66225	SLCA020	FBA58185	barcode22	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coluzzii_rebuilt	SLCA013_BatchCOL_barcode81_NTC.fastq	1	SLCA013_BatchCOL	FBA66584	barcode81	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode10.fastq	56953	SLCA021	FBA58542	barcode02	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode11.fastq	84439	SLCA021	FBA58542	barcode03	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode12.fastq	212153	SLCA021	FBA58542	barcode04	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode13.fastq	86008	SLCA021	FBA58542	barcode05	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode14.fastq	128731	SLCA021	FBA58542	barcode06	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode15.fastq	45324	SLCA021	FBA58542	barcode07	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode16.fastq	1450	SLCA021	FBA58542	barcode08	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode17.fastq	12966	SLCA020	FBA58185	barcode17	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode18.fastq	10675	SLCA020	FBA58185	barcode18	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode19.fastq	1963	SLCA020	FBA58185	barcode19	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode20.fastq	31838	SLCA020	FBA58185	barcode20	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode21.fastq	1720	SLCA020	FBA58185	barcode21	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode22.fastq	66225	SLCA020	FBA58185	barcode22	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode23.fastq	57530	SLCA020	FBA58185	barcode23	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode24.fastq	11107	SLCA020	FBA58185	barcode24	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode25.fastq	1759	SLCA020	FBA58185	barcode25	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode26.fastq	2303	SLCA020	FBA58185	barcode26	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode27.fastq	2040	SLCA020	FBA58185	barcode27	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode28.fastq	1663	SLCA020	FBA58185	barcode28	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode29.fastq	1894	SLCA020	FBA58185	barcode29	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode30.fastq	91270	SLCA021	FBA58542	barcode09	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode31.fastq	96097	SLCA021	FBA58542	barcode10	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode32.fastq	17728	SLCA020	FBA58185	barcode32	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode33.fastq	98090	SLCA021	FBA58542	barcode11	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode34.fastq	51464	SLCA021	FBA58542	barcode12	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode35.fastq	91055	SLCA021	FBA58542	barcode13	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode36.fastq	61952	SLCA021	FBA58542	barcode14	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode37.fastq	2939	SLCA021	FBA58542	barcode15	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode38.fastq	32374	SLCA021	FBA58542	barcode16	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode39.fastq	45652	SLCA021	FBA58542	barcode17	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode40.fastq	57455	SLCA021	FBA58542	barcode18	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode41.fastq	158474	SLCA021	FBA58542	barcode19	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode42.fastq	85068	SLCA021	FBA58542	barcode20	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode43.fastq	55204	SLCA021	FBA58542	barcode21	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode44.fastq	69310	SLCA021	FBA58542	barcode22	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode45.fastq	80219	SLCA021	FBA58542	barcode23	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode46.fastq	48610	SLCA021	FBA58542	barcode25	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode47.fastq	18263	SLCA021	FBA58542	barcode26	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode48.fastq	16672	SLCA021	FBA58542	barcode28	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode51.fastq	67016	SLCA021	FBA58542	barcode29	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode52.fastq	21258	SLCA021	FBA58542	barcode30	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode53.fastq	19645	SLCA021	FBA58542	barcode31	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode54.fastq	32628	SLCA021	FBA58542	barcode32	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode55.fastq	36184	SLCA021	FBA58542	barcode33	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode56.fastq	26439	SLCA021	FBA58542	barcode34	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode57.fastq	88426	SLCA021	FBA58542	barcode35	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode58.fastq	19571	SLCA021	FBA58542	barcode36	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode59.fastq	26457	SLCA021	FBA58542	barcode37	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode60.fastq	74146	SLCA021	FBA58542	barcode38	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode61.fastq	25595	SLCA021	FBA58542	barcode39	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode62.fastq	23679	SLCA021	FBA58542	barcode40	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode63.fastq	11131	SLCA021	FBA58542	barcode41	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode64.fastq	3514	SLCA021	FBA58542	barcode42	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode65.fastq	88581	SLCA021	FBA58542	barcode43	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode66.fastq	38354	SLCA021	FBA58542	barcode44	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode67.fastq	33516	SLCA021	FBA58542	barcode45	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode68.fastq	61019	SLCA021	FBA58542	barcode46	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode69.fastq	45922	SLCA021	FBA58542	barcode47	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode70.fastq	22355	SLCA021	FBA58542	barcode48	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode71.fastq	61290	SLCA021	FBA58542	barcode49	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode72.fastq	83578	SLCA021	FBA58542	barcode50	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode73.fastq	92876	SLCA021	FBA58542	barcode51	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode74.fastq	63946	SLCA021	FBA58542	barcode71	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode75.fastq	7677	SLCA021	FBA58542	barcode73	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode76.fastq	7467	SLCA021	FBA58542	barcode74	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode77.fastq	19848	SLCA021	FBA58542	barcode76	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode78.fastq	2290	SLCA021	FBA58542	barcode77	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode79.fastq	2592	SLCA021	FBA58542	barcode78	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	barcode80.fastq	2067	SLCA021	FBA58542	barcode79	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	combined.barcode01	115635	SLCA011	FBA66584	barcode04	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	combined.barcode02	3459	SLCA011	FBA66584	barcode13	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	combined.barcode03	31462	SLCA011	FBA66584	barcode21	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	combined.barcode04	5153	SLCA011	FBA66584	barcode31	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	combined.barcode05	6271	SLCA021	FBA58542	barcode01	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	combined.barcode06	3495	SLCA021	FBA58542	barcode24	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	combined.barcode07	5671	SLCA021	FBA58542	barcode27	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	combined.barcode08	18222	SLCA021	FBA58542	barcode72	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	combined.barcode09	8148	SLCA021	FBA58542	barcode75	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+coustani_rebuilt	SLCA011_barcode95_NTC.fastq	1	SLCA011	FBA66584	barcode95	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode01	1212	SLCA015_BatchFUN	FBD61062	barcode02	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode02	1021	SLCA015_BatchFUN	FBD61062	barcode17	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode03	242488	SLCA015_BatchFUN	FBD61062	barcode49	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode04	442213	SLCA015_BatchFUN	FBD61062	barcode50	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode05	291750	SLCA015_BatchFUN	FBD61062	barcode51	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode06	344491	SLCA015_BatchFUN	FBD61062	barcode53	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode07	184386	SLCA015_BatchFUN	FBD61062	barcode54	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode08	198940	SLCA015_BatchFUN	FBD61062	barcode55	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode09	184222	SLCA015_BatchFUN	FBD61062	barcode57	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode10	171467	SLCA015_BatchFUN	FBD61062	barcode58	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode11	221749	SLCA015_BatchFUN	FBD61062	barcode59	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode12	175935	SLCA015_BatchFUN	FBD61062	barcode60	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode13	172023	SLCA015_BatchFUN	FBD61062	barcode61	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode14	141333	SLCA015_BatchFUN	FBD61062	barcode62	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode15	214829	SLCA015_BatchFUN	FBD61062	barcode63	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode16	153583	SLCA015_BatchFUN	FBD61062	barcode64	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode17	153527	SLCA015_BatchFUN	FBD61062	barcode65	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode18	109789	SLCA015_BatchFUN	FBD61062	barcode66	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode19	135225	SLCA015_BatchFUN	FBD61062	barcode67	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode20	190330	SLCA015_BatchFUN	FBD61062	barcode68	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode21	4356	SLCA015_BatchFUN	FBD61062	barcode69	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode22	74889	SLCA015_BatchFUN	FBD61062	barcode70	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode23	36580	SLCA015_BatchFUN	FBD61062	barcode71	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode24	119717	SLCA015_BatchFUN	FBD61062	barcode72	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode25	91946	SLCA015_BatchFUN	FBD61062	barcode73	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode26	37343	SLCA015_BatchFUN	FBD61062	barcode75	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode27	116613	SLCA015_BatchFUN	FBD61062	barcode76	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode28	16271	Anoph_Speciation	FBA66226	barcode06	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode29	2352	Anoph_Speciation	FBA66226	barcode44	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode30	8107	Anoph_Speciation	FBA66226	barcode49	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode31	18109	Anoph_Speciation	FBA66226	barcode50	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode32	8689	Anoph_Speciation	FBA66226	barcode51	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode33	6535	Anoph_Speciation	FBA66226	barcode52	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode34	13723	Anoph_Speciation	FBA66226	barcode53	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode35	9544	Anoph_Speciation	FBA66226	barcode57	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode36	22279	Anoph_Speciation	FBA66226	barcode58	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode37	9582	Anoph_Speciation	FBA66226	barcode59	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode38	3023	Anoph_Speciation	FBA66226	barcode60	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode39	15054	Anoph_Speciation	FBA66226	barcode61	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode40	11977	Anoph_Speciation	FBA66226	barcode62	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode41	11282	Anoph_Speciation	FBA66226	barcode64	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode42	7170	Anoph_Speciation	FBA66226	barcode65	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode43	2522	Anoph_Speciation	FBA66226	barcode66	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode44	18239	Anoph_Speciation	FBA66226	barcode68	dna_r10.4.1_e8.2_400bps_hac@v4.2.0	raw read-ID trace (Anoph_Speciation)
+funestus	combined.barcode45	85482	SLCA013_BatchCOL2	FBD61062	barcode07	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode46	84772	SLCA013_BatchCOL2	FBD61062	barcode08	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode47	12193	SLCA013_BatchCOL2	FBD61062	barcode11	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode48	43780	SLCA013_BatchCOL2	FBD61062	barcode16	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode49	62336	SLCA013_BatchCOL2	FBD61062	barcode18	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode50	117800	SLCA013_BatchCOL2	FBD61062	barcode21	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode51	41885	SLCA013_BatchCOL2	FBD61062	barcode28	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode52	88117	SLCA013_BatchCOL2	FBD61062	barcode46	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode53	185720	SLCA013_BatchCOL2	FBD61062	barcode48	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode54	76272	SLCA013_BatchCOL2	FBD61062	barcode53	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode55	14123	SLCA013_BatchCOL2	FBD61062	barcode61	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode56	58379	SLCA013_BatchCOL2	FBD61062	barcode62	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode57	28697	SLCA013_BatchCOL2	FBD61062	barcode66	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode58	41342	SLCA003_BatchKT	FBA66584	barcode11	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+funestus	combined.barcode59	127838	SLCA003_BatchKT	FBA66584	barcode18	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+funestus	combined.barcode60	121164	SLCA003_BatchKT	FBA66584	barcode37	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+funestus	combined.barcode61	107524	SLCA011	FBA66584	barcode02	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode62	81625	SLCA011	FBA66584	barcode03	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode63	43403	SLCA011	FBA66584	barcode07	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode64	80673	SLCA011	FBA66584	barcode14	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode65	12282	SLCA011	FBA66584	barcode19	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode66	22989	SLCA011	FBA66584	barcode36	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode67	21162	SLCA011	FBA66584	barcode37	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode68	15922	SLCA011	FBA66584	barcode44	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode69	40214	SLCA011	FBA66584	barcode45	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode70	52136	SLCA011	FBA66584	barcode46	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode71	62579	SLCA011	FBA66584	barcode48	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode72	24974	SLCA011	FBA66584	barcode49	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode73	13220	SLCA011	FBA66584	barcode51	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode74	45453	SLCA011	FBA66584	barcode53	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode75	46145	SLCA011	FBA66584	barcode55	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode76	33653	SLCA011	FBA66584	barcode61	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode77	21559	SLCA011	FBA66584	barcode72	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode78	109278	SLCA011	FBA66584	barcode78	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+funestus	combined.barcode79	131959	SLCA003_BatchKT	FBA66584	barcode12	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+funestus	SLCA015_BatchFUN_barcode95_NTC.fastq	1	SLCA015_BatchFUN	FBD61062	barcode95	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode01	51077	SLCA013_BatchCOL2	FBD61062	barcode50	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode02	91596	SLCA013_BatchCOL2	FBD61062	barcode02	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode03	154096	SLCA003_BatchKT	FBA66584	barcode13	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+gambiae	combined.barcode04	31255	SLCA013_BatchCOL2	FBD61062	barcode27	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode05	314138	SLCA003_BatchKT	FBA66584	barcode15	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+gambiae	combined.barcode06	185364	SLCA013_BatchCOL2	FBD61062	barcode64	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode07	16848	SLCA013_BatchCOL2	FBD61062	barcode73	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode08	41358	SLCA013_BatchCOL2	FBD61062	barcode74	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode09	44623	SLCA013_BatchCOL2	FBD61062	barcode13	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode10	364127	SLCA003_BatchKT	FBA66584	barcode36	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+gambiae	combined.barcode11	86584	SLCA003_BatchKT	FBA66584	barcode41	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+gambiae	combined.barcode12	21399	SLCA013_BatchCOL2	FBD61062	barcode06	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode13	99788	SLCA013_BatchCOL2	FBD61062	barcode09	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode14	15096	SLCA003_BatchKT	FBA66584	barcode43	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+gambiae	combined.barcode15	51773	SLCA013_BatchCOL2	FBD61062	barcode12	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode16	19327	SLCA003_BatchKT	FBA66584	barcode45	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+gambiae	combined.barcode17	215741	SLCA013_BatchCOL2	FBD61062	barcode56	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode18	75251	SLCA003_BatchKT	FBA66584	barcode54	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+gambiae	combined.barcode19	85498	SLCA013_BatchCOL2	FBD61062	barcode17	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode20	92844	SLCA013_BatchCOL2	FBD61062	barcode19	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode21	152774	SLCA003_BatchKT	FBA66584	barcode56	dna_r10.4.1_e8.2_400bps_hac@v4.3.0	read headers
+gambiae	combined.barcode22	113734	SLCA013_BatchCOL2	FBD61062	barcode72	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode23	180930	SLCA013_BatchCOL2	FBD61062	barcode22	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode24	301006	SLCA013_BatchCOL2	FBD61062	barcode23	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode25	90655	SLCA013_BatchCOL2	FBD61062	barcode24	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode26	946	SLCA013_BatchCOL2	FBD61062	barcode25	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode27	75398	SLCA013_BatchCOL2	FBD61062	barcode26	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode28	82897	SLCA013_BatchCOL2	FBD61062	barcode47	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode29	41111	SLCA013_BatchCOL2	FBD61062	barcode29	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode30	101063	SLCA013_BatchCOL2	FBD61062	barcode65	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode31	147856	SLCA013_BatchCOL2	FBD61062	barcode31	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode32	142856	SLCA013_BatchCOL2	FBD61062	barcode32	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode33	66446	SLCA013_BatchCOL2	FBD61062	barcode33	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode34	42973	SLCA013_BatchCOL2	FBD61062	barcode34	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode35	22415	SLCA013_BatchCOL2	FBD61062	barcode35	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode36	16631	SLCA013_BatchCOL2	FBD61062	barcode36	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode37	11490	SLCA013_BatchCOL2	FBD61062	barcode37	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode38	107173	SLCA013_BatchCOL2	FBD61062	barcode38	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode39	61713	SLCA013_BatchCOL2	FBD61062	barcode57	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode40	244333	SLCA013_BatchCOL2	FBD61062	barcode40	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode41	73417	SLCA013_BatchCOL2	FBD61062	barcode41	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode42	78527	SLCA013_BatchCOL2	FBD61062	barcode42	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode43	2512	SLCA013_BatchCOL2	FBD61062	barcode43	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode44	14165	SLCA013_BatchCOL2	FBD61062	barcode44	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode45	100687	SLCA013_BatchCOL2	FBD61062	barcode45	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode46	55416	SLCA013_BatchCOL2	FBD61062	barcode04	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode47	84676	SLCA013_BatchCOL2	FBD61062	barcode49	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode48	65393	SLCA013_BatchCOL2	FBD61062	barcode54	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode49	1570	SLCA013_BatchCOL2	FBD61062	barcode39	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode50	11420	NA	NA	NA	NA	no header; source run unknown
+gambiae	combined.barcode51	65482	SLCA013_BatchCOL2	FBD61062	barcode55	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode52	45123	SLCA011	FBA66584	barcode54	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode53	86089	NA	NA	NA	NA	no header; source run unknown
+gambiae	combined.barcode54	51261	SLCA013_BatchCOL2	FBD61062	barcode58	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode55	71854	SLCA013_BatchCOL2	FBD61062	barcode01	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode56	2342	SLCA013_BatchCOL2	FBD61062	barcode20	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode57	20570	SLCA011	FBA66584	barcode40	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode58	104651	SLCA013_BatchCOL2	FBD61062	barcode63	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode59	68704	SLCA013_BatchCOL2	FBD61062	barcode15	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode60	96339	SLCA020	FBA58185	barcode10	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode61	44731	SLCA020	FBA58185	barcode03	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode62	123834	SLCA020	FBA58185	barcode35	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode63	92167	SLCA013_BatchCOL2	FBD61062	barcode69	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode64	62504	SLCA020	FBA58185	barcode01	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode65	108434	SLCA013_BatchCOL2	FBD61062	barcode71	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode66	97576	SLCA020	FBA58185	barcode62	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode67	57616	SLCA020	FBA58185	barcode49	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode68	63460	SLCA020	FBA58185	barcode02	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode69	48447	SLCA013_BatchCOL2	FBD61062	barcode75	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode70	87537	SLCA020	FBA58185	barcode67	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode71	139537	SLCA013_BatchCOL2	FBD61062	barcode78	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode72	98017	SLCA020	FBA58185	barcode68	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode73	7963	SLCA020	FBA58185	barcode16	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode74	15077	SLCA020	FBA58185	barcode08	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode75	27799	SLCA020	FBA58185	barcode07	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode76	2031	SLCA020	FBA58185	barcode31	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode77	149909	SLCA020	FBA58185	barcode53	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode78	66322	SLCA020	FBA58185	barcode14	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	combined.barcode79	9897	SLCA020	FBA58185	barcode81	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+gambiae	SLCA013_BatchCOL2_barcode94_NTC.fastq	4	SLCA013_BatchCOL2	FBD61062	barcode94	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode01	22094	SLCA010_BatchST	FBD61062	barcode01	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode02	8385	SLCA010_BatchST	FBD61062	barcode02	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode03	33721	SLCA010_BatchST	FBD61062	barcode03	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode04	34068	SLCA010_BatchST	FBD61062	barcode04	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode05	24678	SLCA010_BatchST	FBD61062	barcode05	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode06	75771	SLCA010_BatchST	FBD61062	barcode06	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode07	38209	SLCA010_BatchST	FBD61062	barcode07	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode08	13253	SLCA010_BatchST	FBD61062	barcode08	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode09	45617	SLCA010_BatchST	FBD61062	barcode09	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode10	42508	SLCA010_BatchST	FBD61062	barcode10	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode11	44990	SLCA010_BatchST	FBD61062	barcode11	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode12	54052	SLCA010_BatchST	FBD61062	barcode12	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode13	451	SLCA010_BatchST	FBD61062	barcode13	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode14	5397	SLCA010_BatchST	FBD61062	barcode14	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode16	401	SLCA010_BatchST	FBD61062	barcode16	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode17	33490	SLCA010_BatchST	FBD61062	barcode17	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode18	34245	SLCA010_BatchST	FBD61062	barcode18	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode19	33130	SLCA010_BatchST	FBD61062	barcode19	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode20	33792	SLCA010_BatchST	FBD61062	barcode20	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode21	27337	SLCA010_BatchST	FBD61062	barcode21	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode22	42072	SLCA010_BatchST	FBD61062	barcode22	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode23	46392	SLCA010_BatchST	FBD61062	barcode23	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode24	20088	SLCA010_BatchST	FBD61062	barcode24	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode25	29591	SLCA010_BatchST	FBD61062	barcode25	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode26	35969	SLCA010_BatchST	FBD61062	barcode26	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode27	33517	SLCA010_BatchST	FBD61062	barcode27	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode28	32353	SLCA010_BatchST	FBD61062	barcode28	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode29	27860	SLCA010_BatchST	FBD61062	barcode29	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode30	44166	SLCA010_BatchST	FBD61062	barcode30	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode31	34224	SLCA010_BatchST	FBD61062	barcode31	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode32	50899	SLCA010_BatchST	FBD61062	barcode32	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode33	25395	SLCA010_BatchST	FBD61062	barcode33	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode34	16104	SLCA010_BatchST	FBD61062	barcode34	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode35	51523	SLCA010_BatchST	FBD61062	barcode35	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode36	77963	SLCA010_BatchST	FBD61062	barcode36	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode37	29120	SLCA010_BatchST	FBD61062	barcode37	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode38	93466	SLCA010_BatchST	FBD61062	barcode38	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode39	22671	SLCA010_BatchST	FBD61062	barcode39	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode40	29916	SLCA010_BatchST	FBD61062	barcode40	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode41	27924	SLCA010_BatchST	FBD61062	barcode41	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode42	20833	SLCA010_BatchST	FBD61062	barcode42	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode43	30554	SLCA010_BatchST	FBD61062	barcode43	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode44	31017	SLCA010_BatchST	FBD61062	barcode44	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode45	51582	SLCA010_BatchST	FBD61062	barcode45	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode46	50244	SLCA010_BatchST	FBD61062	barcode46	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode47	33929	SLCA010_BatchST	FBD61062	barcode47	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode48	35584	SLCA010_BatchST	FBD61062	barcode48	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode49	49203	SLCA010_BatchST	FBD61062	barcode49	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode50	33193	SLCA010_BatchST	FBD61062	barcode50	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode51	34298	SLCA010_BatchST	FBD61062	barcode51	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode52	47519	SLCA010_BatchST	FBD61062	barcode52	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode53	59400	SLCA010_BatchST	FBD61062	barcode53	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode54	48862	SLCA010_BatchST	FBD61062	barcode54	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode55	40519	SLCA010_BatchST	FBD61062	barcode55	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode56	53430	SLCA010_BatchST	FBD61062	barcode56	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode57	17116	SLCA010_BatchST	FBD61062	barcode57	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode58	47038	SLCA010_BatchST	FBD61062	barcode58	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode59	49329	SLCA010_BatchST	FBD61062	barcode59	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode60	27955	SLCA010_BatchST	FBD61062	barcode60	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode61	50218	SLCA010_BatchST	FBD61062	barcode61	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode62	63595	SLCA010_BatchST	FBD61062	barcode62	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode63	64044	SLCA010_BatchST	FBD61062	barcode63	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode64	35300	SLCA010_BatchST	FBD61062	barcode64	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode65	39249	SLCA010_BatchST	FBD61062	barcode65	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode66	31539	SLCA010_BatchST	FBD61062	barcode66	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode67	34205	SLCA010_BatchST	FBD61062	barcode67	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode68	46508	SLCA010_BatchST	FBD61062	barcode68	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode69	5468	SLCA010_BatchST	FBD61062	barcode69	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode70	39610	SLCA010_BatchST	FBD61062	barcode70	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode71	48926	SLCA010_BatchST	FBD61062	barcode71	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode72	49226	SLCA010_BatchST	FBD61062	barcode72	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode73	32832	SLCA010_BatchST	FBD61062	barcode73	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode74	808	SLCA010_BatchST	FBD61062	barcode74	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode75	33682	SLCA010_BatchST	FBD61062	barcode75	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode76	47705	SLCA010_BatchST	FBD61062	barcode76	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode77	9654	SLCA010_BatchST	FBD61062	barcode77	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode78	69930	SLCA010_BatchST	FBD61062	barcode78	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode79	29058	SLCA010_BatchST	FBD61062	barcode79	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode80	528	SLCA010_BatchST	FBD61062	barcode80	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers
+stephensi	combined.barcode95_NTC	1	SLCA010_BatchST	FBD61062	barcode95	dna_r10.4.1_e8.2_400bps_hac@v5.0.0	read headers

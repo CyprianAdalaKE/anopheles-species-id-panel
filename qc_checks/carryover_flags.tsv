@@ -1,0 +1,479 @@
+folder	file	run	flow_cell	barcode	reads	flow_cell_use	previous_run_same_barcode(reads,dominant)	expected_carryover_reads	expected_carryover_pct	subsample_dominant	subsample_Plasmodium_pct	flag
+arabiensis	combined.barcode01	SLCA003_BatchKT	FBA66584	barcode01	261960	1		0	0.00	arabiensis	0.02	low (<1%)
+arabiensis	combined.barcode02	SLCA003_BatchKT	FBA66584	barcode02	299603	1		0	0.00	arabiensis	0.32	low (<1%)
+arabiensis	combined.barcode03	Anoph_Speciation	FBA66226	barcode02	6007	1		0	0.00	arabiensis	0.16	low (<1%)
+arabiensis	combined.barcode04	SLCA003_BatchKT	FBA66584	barcode04	126732	1		0	0.00	arabiensis	0.16	low (<1%)
+arabiensis	combined.barcode05	SLCA003_BatchKT	FBA66584	barcode05	150817	1		0	0.00	arabiensis	0.10	low (<1%)
+arabiensis	combined.barcode06	SLCA003_BatchKT	FBA66584	barcode06	11067	1		0	0.00	arabiensis	0.20	low (<1%)
+arabiensis	combined.barcode07	SLCA003_BatchKT	FBA66584	barcode07	7189	1		0	0.00	arabiensis	0.15	low (<1%)
+arabiensis	combined.barcode08	NA	NA	NA	9345	unknown						no flow-cell history on this machine
+arabiensis	combined.barcode09	SLCA003_BatchKT	FBA66584	barcode09	46727	1		0	0.00	arabiensis	0.11	low (<1%)
+arabiensis	combined.barcode10	SLCA003_BatchKT	FBA66584	barcode10	132895	1		0	0.00	arabiensis	0.09	low (<1%)
+arabiensis	combined.barcode11	Anoph_Speciation	FBA66226	barcode11	16458	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode12	Anoph_Speciation	FBA66226	barcode12	2694	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode13	Anoph_Speciation	FBA66226	barcode13	14208	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode14	Anoph_Speciation	FBA66226	barcode14	6067	1		0	0.00	arabiensis	0.37	low (<1%)
+arabiensis	combined.barcode15	Anoph_Speciation	FBA66226	barcode15	4791	1		0	0.00	arabiensis	0.03	low (<1%)
+arabiensis	combined.barcode16	Anoph_Speciation	FBA66226	barcode16	8931	1		0	0.00	arabiensis	0.02	low (<1%)
+arabiensis	combined.barcode17	Anoph_Speciation	FBA66226	barcode17	5287	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode18	Anoph_Speciation	FBA66226	barcode18	9983	1		0	0.00	arabiensis	0.02	low (<1%)
+arabiensis	combined.barcode19	SLCA003_BatchKT	FBA66584	barcode19	143040	1		0	0.00	arabiensis	0.22	low (<1%)
+arabiensis	combined.barcode20	SLCA003_BatchKT	FBA66584	barcode20	507266	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode21	SLCA003_BatchKT	FBA66584	barcode21	381806	1		0	0.00	gambiae	0.25	low (<1%)
+arabiensis	combined.barcode22	SLCA003_BatchKT	FBA66584	barcode22	378280	1		0	0.00	gambiae	0.34	low (<1%)
+arabiensis	combined.barcode23	SLCA003_BatchKT	FBA66584	barcode23	19363	1		0	0.00	arabiensis	0.05	low (<1%)
+arabiensis	combined.barcode24	SLCA003_BatchKT	FBA66584	barcode24	47	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode25	Anoph_Speciation	FBA66226	barcode25	7681	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode26	Anoph_Speciation	FBA66226	barcode26	13848	1		0	0.00	arabiensis	0.04	low (<1%)
+arabiensis	combined.barcode27	Anoph_Speciation	FBA66226	barcode27	12183	1		0	0.00	arabiensis	0.05	low (<1%)
+arabiensis	combined.barcode28	Anoph_Speciation	FBA66226	barcode28	11663	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode29	Anoph_Speciation	FBA66226	barcode29	9998	1		0	0.00	arabiensis	0.14	low (<1%)
+arabiensis	combined.barcode30	Anoph_Speciation	FBA66226	barcode30	11891	1		0	0.00	arabiensis	0.02	low (<1%)
+arabiensis	combined.barcode31	Anoph_Speciation	FBA66226	barcode31	2207	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode32	Anoph_Speciation	FBA66226	barcode32	14860	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode33	Anoph_Speciation	FBA66226	barcode33	11593	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode34	Anoph_Speciation	FBA66226	barcode34	9473	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode35	Anoph_Speciation	FBA66226	barcode35	11180	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode36	Anoph_Speciation	FBA66226	barcode36	14780	1		0	0.00	arabiensis	0.02	low (<1%)
+arabiensis	combined.barcode37	Anoph_Speciation	FBA66226	barcode37	11903	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode38	Anoph_Speciation	FBA66226	barcode38	8550	1		0	0.00	arabiensis	0.03	low (<1%)
+arabiensis	combined.barcode39	Anoph_Speciation	FBA66226	barcode39	947	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode40	Anoph_Speciation	FBA66226	barcode40	5308	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode41	Anoph_Speciation	FBA66226	barcode41	19852	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode42	Anoph_Speciation	FBA66226	barcode42	22672	1		0	0.00	arabiensis	0.14	low (<1%)
+arabiensis	combined.barcode43	Anoph_Speciation	FBA66226	barcode43	23403	1		0	0.00	arabiensis	0.02	low (<1%)
+arabiensis	combined.barcode44	SLCA003_BatchKT	FBA66584	barcode44	17971	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode45	Anoph_Speciation	FBA66226	barcode45	147	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode46	Anoph_Speciation	FBA66226	barcode81	5914	1		0	0.00	arabiensis	0.09	low (<1%)
+arabiensis	combined.barcode47	SLCA003_BatchKT	FBA66584	barcode47	8541	1		0	0.00	arabiensis	0.10	low (<1%)
+arabiensis	combined.barcode48	SLCA003_BatchKT	FBA66584	barcode48	11539	1		0	0.00	arabiensis	0.05	low (<1%)
+arabiensis	combined.barcode49	SLCA003_BatchKT	FBA66584	barcode49	113433	1		0	0.00	arabiensis	0.19	low (<1%)
+arabiensis	combined.barcode50	SLCA003_BatchKT	FBA66584	barcode50	681094	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode51	SLCA003_BatchKT	FBA66584	barcode51	326439	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode52	SLCA003_BatchKT	FBA66584	barcode52	180703	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode53	SLCA003_BatchKT	FBA66584	barcode53	153099	1		0	0.00	arabiensis	0.15	low (<1%)
+arabiensis	combined.barcode54	Anoph_Speciation	FBA66226	barcode54	14341	1		0	0.00	arabiensis	0.32	low (<1%)
+arabiensis	combined.barcode55	Anoph_Speciation	FBA66226	barcode55	10041	1		0	0.00	arabiensis	0.35	low (<1%)
+arabiensis	combined.barcode56	Anoph_Speciation	FBA66226	barcode56	27696	1		0	0.00	arabiensis	0.35	low (<1%)
+arabiensis	combined.barcode57	SLCA011	FBA66584	barcode57	10740	4	SLCA010_trial3:227(stephensi)	2	0.02	arabiensis	0.06	low (<1%)
+arabiensis	combined.barcode58	NA	NA	NA	46488	unknown						no flow-cell history on this machine
+arabiensis	combined.barcode59	SLCA013_BatchCOL	FBA66584	barcode59	5865	6	SLCA010_trial3:690(stephensi);SLCA010_trial1:253(stephensi)	1	0.02	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode60	NA	NA	NA	5801	unknown						no flow-cell history on this machine
+arabiensis	combined.barcode61	Anoph_Speciation	FBA66226	barcode92	4479	1		0	0.00	arabiensis	0.14	low (<1%)
+arabiensis	combined.barcode62	Anoph_Speciation	FBA66226	barcode03	5236	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode63	Anoph_Speciation	FBA66226	barcode88	422	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode64	Anoph_Speciation	FBA66226	barcode82	1143	1		0	0.00	arabiensis	0.09	low (<1%)
+arabiensis	combined.barcode65	SLCA011	FBA66584	barcode65	41872	4	SLCA010_trial3:522(stephensi);SLCA010_trial1:212(stephensi)	5	0.01	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode66	SLCA011	FBA66584	barcode66	28886	4	SLCA010_trial3:475(stephensi);SLCA010_trial1:183(stephensi)	5	0.02	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode67	SLCA013_BatchCOL	FBA66584	barcode67	4849	6	SLCA011:4283(stephensi);SLCA010_trial3:517(stephensi);SLCA010_trial1:185(stephensi)	5	0.10	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode68	SLCA013_BatchCOL	FBA66584	barcode68	4126	6	SLCA010_trial3:688(stephensi);SLCA010_trial1:211(stephensi)	1	0.02	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode69	Anoph_Speciation	FBA66226	barcode69	160	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode70	SLCA011	FBA66584	barcode70	40394	4	SLCA010_trial3:598(stephensi);SLCA010_trial1:227(stephensi)	6	0.02	funestus	0.02	low (<1%)
+arabiensis	combined.barcode71	Anoph_Speciation	FBA66226	barcode07	7894	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode72	Anoph_Speciation	FBA66226	barcode10	7745	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode73	Anoph_Speciation	FBA66226	barcode73	6974	1		0	0.00	arabiensis	0.69	low (<1%)
+arabiensis	combined.barcode74	SLCA011	FBA66584	barcode74	41258	4		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode75	Anoph_Speciation	FBA66226	barcode75	5485	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode76	SLCA011	FBA66584	barcode76	62338	4	SLCA010_trial3:701(arabiensis);SLCA010_trial1:228(arabiensis)	7	0.01	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode77	SLCA011	FBA66584	barcode77	2401	4	SLCA010_trial3:147(stephensi)	2	0.06	stephensi	0.09	low (<1%)
+arabiensis	combined.barcode78	Anoph_Speciation	FBA66226	barcode78	5656	1		0	0.00	arabiensis	0.15	low (<1%)
+arabiensis	combined.barcode79	Anoph_Speciation	FBA66226	barcode79	492	1		0	0.00	arabiensis	0.00	low (<1%)
+arabiensis	combined.barcode80	Anoph_Speciation	FBA66226	barcode80	15670	1		0	0.00	arabiensis	2.08	low (<1%)
+arabiensis	SLCA003_BatchKT_barcode89_NTC.fastq	SLCA003_BatchKT	FBA66584	barcode89	1	1		0	0.00	arabiensis	0.00	NTC
+coluzzii_rebuilt	combined.barcode01.fastq	SLCA015_BatchFUN	FBD61062	barcode12	1030	4	SLCA014_BatchINF:115514(arabiensis);SLCA013_BatchCOL2:51773(gambiae);SLCA010_BatchST:54052(stephensi)	1261	122.42	coluzzii	3.81	CARRY-OVER: sample reads ~ expected carry-over
+coluzzii_rebuilt	combined.barcode02.fastq	Anoph_Speciation	FBA66226	barcode19	17664	1		0	0.00	coluzzii	0.00	low (<1%)
+coluzzii_rebuilt	combined.barcode03.fastq	SLCA013_BatchCOL2	FBD61062	barcode10	53153	2	SLCA010_BatchST:42508(stephensi)	425	0.80	coluzzii	0.00	low (<1%)
+coluzzii_rebuilt	combined.barcode04.fastq	SLCA013_BatchCOL2	FBD61062	barcode30	3545	2	SLCA010_BatchST:44166(stephensi)	442	12.46	coluzzii	0.03	high (>=5%)
+coluzzii_rebuilt	combined.barcode05.fastq	SLCA013_BatchCOL2	FBD61062	barcode52	26729	2	SLCA010_BatchST:47519(stephensi)	475	1.78	coluzzii	0.00	moderate (1-5%)
+coluzzii_rebuilt	combined.barcode06.fastq	SLCA013_BatchCOL2	FBD61062	barcode60	16112	2	SLCA010_BatchST:27955(stephensi)	280	1.74	coluzzii	0.00	moderate (1-5%)
+coluzzii_rebuilt	combined.barcode07.fastq	SLCA013_BatchCOL2	FBD61062	barcode77	32112	2	SLCA010_BatchST:9654(stephensi)	97	0.30	coluzzii	0.00	low (<1%)
+coluzzii_rebuilt	combined.barcode08.fastq	SLCA013_BatchCOL2	FBD61062	barcode79	67615	2	SLCA010_BatchST:29058(stephensi)	291	0.43	coluzzii	0.00	low (<1%)
+coluzzii_rebuilt	combined.barcode09.fastq	SLCA003_BatchKT	FBA66584	barcode27	117279	1		0	0.00	coluzzii	0.00	low (<1%)
+coluzzii_rebuilt	combined.barcode10.fastq	SLCA003_BatchKT	FBA66584	barcode38	167313	1		0	0.00	arabiensis	0.05	low (<1%)
+coluzzii_rebuilt	combined.barcode11.fastq	SLCA003_BatchKT	FBA66584	barcode39	76313	1		0	0.00	coluzzii	0.08	low (<1%)
+coluzzii_rebuilt	combined.barcode12.fastq	NA	NA	NA	38904	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode13.fastq	SLCA011	FBA66584	barcode56	73008	4	SLCA010_trial3:749(stephensi);SLCA010_trial1:294(stephensi)	8	0.01	funestus	0.00	low (<1%)
+coluzzii_rebuilt	combined.barcode14.fastq	SLCA011	FBA66584	barcode58	197805	4	SLCA010_trial3:644(stephensi);SLCA010_trial1:213(stephensi)	7	0.00	funestus	0.24	low (<1%)
+coluzzii_rebuilt	combined.barcode15.fastq	SLCA020	FBA58185	barcode23	57530	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode16.fastq	SLCA020	FBA58185	barcode24	11107	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode17.fastq	SLCA020	FBA58185	barcode25	1759	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode18.fastq	SLCA020	FBA58185	barcode26	2303	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode19.fastq	SLCA020	FBA58185	barcode27	2040	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode20.fastq	SLCA020	FBA58185	barcode28	1663	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode21.fastq	SLCA020	FBA58185	barcode29	1894	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode22.fastq	SLCA020	FBA58185	barcode30	2074	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode23.fastq	SLCA020	FBA58185	barcode32	17728	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode24.fastq	SLCA020	FBA58185	barcode33	1070	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode25.fastq	SLCA020	FBA58185	barcode34	2205	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode26.fastq	SLCA020	FBA58185	barcode36	98973	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode27.fastq	SLCA020	FBA58185	barcode37	1557	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode28.fastq	SLCA020	FBA58185	barcode38	2064	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode29.fastq	SLCA020	FBA58185	barcode39	2466	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode30.fastq	SLCA020	FBA58185	barcode40	80499	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode31.fastq	SLCA020	FBA58185	barcode41	2217	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode32.fastq	SLCA020	FBA58185	barcode42	2915	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode33.fastq	SLCA020	FBA58185	barcode43	112628	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode34.fastq	SLCA020	FBA58185	barcode44	4108	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode35.fastq	SLCA020	FBA58185	barcode45	1665	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode36.fastq	SLCA020	FBA58185	barcode46	64106	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode37.fastq	SLCA020	FBA58185	barcode47	78179	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode38.fastq	SLCA020	FBA58185	barcode48	21787	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode39.fastq	SLCA020	FBA58185	barcode50	2445	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode40.fastq	SLCA020	FBA58185	barcode51	1790	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode41.fastq	SLCA020	FBA58185	barcode52	1722	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode42.fastq	SLCA020	FBA58185	barcode54	72355	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode43.fastq	SLCA020	FBA58185	barcode55	15107	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode44.fastq	SLCA020	FBA58185	barcode56	105186	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode45.fastq	SLCA020	FBA58185	barcode57	2102	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode46.fastq	SLCA020	FBA58185	barcode58	1885	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode47.fastq	SLCA020	FBA58185	barcode59	32876	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode48.fastq	SLCA020	FBA58185	barcode60	9542	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode49.fastq	SLCA020	FBA58185	barcode61	2021	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode50.fastq	SLCA020	FBA58185	barcode63	111228	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode51.fastq	SLCA020	FBA58185	barcode64	56780	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode52.fastq	SLCA020	FBA58185	barcode65	123324	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode56.fastq	SLCA020	FBA58185	barcode04	38554	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode57.fastq	SLCA020	FBA58185	barcode05	35757	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode58.fastq	SLCA020	FBA58185	barcode06	5178	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode59.fastq	SLCA020	FBA58185	barcode09	2082	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode60.fastq	SLCA020	FBA58185	barcode11	7167	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode61.fastq	SLCA020	FBA58185	barcode12	2477	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode62.fastq	SLCA020	FBA58185	barcode13	68019	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode63.fastq	SLCA020	FBA58185	barcode15	15691	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode64.fastq	SLCA020	FBA58185	barcode17	12966	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode65.fastq	SLCA020	FBA58185	barcode18	10675	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode66.fastq	SLCA020	FBA58185	barcode66	107164	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode67.fastq	SLCA020	FBA58185	barcode20	31838	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode68.fastq	SLCA020	FBA58185	barcode21	1720	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode69.fastq	SLCA020	FBA58185	barcode69	2258	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode70.fastq	SLCA020	FBA58185	barcode70	117402	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode71.fastq	SLCA020	FBA58185	barcode71	3229	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode72.fastq	SLCA020	FBA58185	barcode72	2141	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode73.fastq	SLCA020	FBA58185	barcode73	27634	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode74.fastq	SLCA020	FBA58185	barcode74	2370	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode75.fastq	SLCA020	FBA58185	barcode75	2109	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode76.fastq	SLCA020	FBA58185	barcode76	2671	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode77.fastq	SLCA020	FBA58185	barcode77	2101	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode78.fastq	SLCA020	FBA58185	barcode78	17696	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode79.fastq	SLCA020	FBA58185	barcode19	1963	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	combined.barcode80.fastq	SLCA020	FBA58185	barcode22	66225	unknown						no flow-cell history on this machine
+coluzzii_rebuilt	SLCA013_BatchCOL_barcode81_NTC.fastq	SLCA013_BatchCOL	FBA66584	barcode81	1	6		0	0.00	arabiensis	0.00	NTC
+coustani_rebuilt	barcode10.fastq	SLCA021	FBA58542	barcode02	56953	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode11.fastq	SLCA021	FBA58542	barcode03	84439	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode12.fastq	SLCA021	FBA58542	barcode04	212153	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode13.fastq	SLCA021	FBA58542	barcode05	86008	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode14.fastq	SLCA021	FBA58542	barcode06	128731	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode15.fastq	SLCA021	FBA58542	barcode07	45324	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode16.fastq	SLCA021	FBA58542	barcode08	1450	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode17.fastq	SLCA020	FBA58185	barcode17	12966	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode18.fastq	SLCA020	FBA58185	barcode18	10675	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode19.fastq	SLCA020	FBA58185	barcode19	1963	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode20.fastq	SLCA020	FBA58185	barcode20	31838	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode21.fastq	SLCA020	FBA58185	barcode21	1720	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode22.fastq	SLCA020	FBA58185	barcode22	66225	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode23.fastq	SLCA020	FBA58185	barcode23	57530	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode24.fastq	SLCA020	FBA58185	barcode24	11107	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode25.fastq	SLCA020	FBA58185	barcode25	1759	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode26.fastq	SLCA020	FBA58185	barcode26	2303	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode27.fastq	SLCA020	FBA58185	barcode27	2040	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode28.fastq	SLCA020	FBA58185	barcode28	1663	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode29.fastq	SLCA020	FBA58185	barcode29	1894	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode30.fastq	SLCA021	FBA58542	barcode09	91270	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode31.fastq	SLCA021	FBA58542	barcode10	96097	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode32.fastq	SLCA020	FBA58185	barcode32	17728	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode33.fastq	SLCA021	FBA58542	barcode11	98090	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode34.fastq	SLCA021	FBA58542	barcode12	51464	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode35.fastq	SLCA021	FBA58542	barcode13	91055	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode36.fastq	SLCA021	FBA58542	barcode14	61952	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode37.fastq	SLCA021	FBA58542	barcode15	2939	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode38.fastq	SLCA021	FBA58542	barcode16	32374	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode39.fastq	SLCA021	FBA58542	barcode17	45652	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode40.fastq	SLCA021	FBA58542	barcode18	57455	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode41.fastq	SLCA021	FBA58542	barcode19	158474	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode42.fastq	SLCA021	FBA58542	barcode20	85068	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode43.fastq	SLCA021	FBA58542	barcode21	55204	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode44.fastq	SLCA021	FBA58542	barcode22	69310	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode45.fastq	SLCA021	FBA58542	barcode23	80219	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode46.fastq	SLCA021	FBA58542	barcode25	48610	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode47.fastq	SLCA021	FBA58542	barcode26	18263	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode48.fastq	SLCA021	FBA58542	barcode28	16672	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode51.fastq	SLCA021	FBA58542	barcode29	67016	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode52.fastq	SLCA021	FBA58542	barcode30	21258	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode53.fastq	SLCA021	FBA58542	barcode31	19645	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode54.fastq	SLCA021	FBA58542	barcode32	32628	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode55.fastq	SLCA021	FBA58542	barcode33	36184	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode56.fastq	SLCA021	FBA58542	barcode34	26439	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode57.fastq	SLCA021	FBA58542	barcode35	88426	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode58.fastq	SLCA021	FBA58542	barcode36	19571	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode59.fastq	SLCA021	FBA58542	barcode37	26457	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode60.fastq	SLCA021	FBA58542	barcode38	74146	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode61.fastq	SLCA021	FBA58542	barcode39	25595	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode62.fastq	SLCA021	FBA58542	barcode40	23679	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode63.fastq	SLCA021	FBA58542	barcode41	11131	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode64.fastq	SLCA021	FBA58542	barcode42	3514	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode65.fastq	SLCA021	FBA58542	barcode43	88581	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode66.fastq	SLCA021	FBA58542	barcode44	38354	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode67.fastq	SLCA021	FBA58542	barcode45	33516	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode68.fastq	SLCA021	FBA58542	barcode46	61019	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode69.fastq	SLCA021	FBA58542	barcode47	45922	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode70.fastq	SLCA021	FBA58542	barcode48	22355	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode71.fastq	SLCA021	FBA58542	barcode49	61290	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode72.fastq	SLCA021	FBA58542	barcode50	83578	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode73.fastq	SLCA021	FBA58542	barcode51	92876	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode74.fastq	SLCA021	FBA58542	barcode71	63946	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode75.fastq	SLCA021	FBA58542	barcode73	7677	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode76.fastq	SLCA021	FBA58542	barcode74	7467	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode77.fastq	SLCA021	FBA58542	barcode76	19848	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode78.fastq	SLCA021	FBA58542	barcode77	2290	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode79.fastq	SLCA021	FBA58542	barcode78	2592	unknown						no flow-cell history on this machine
+coustani_rebuilt	barcode80.fastq	SLCA021	FBA58542	barcode79	2067	unknown						no flow-cell history on this machine
+coustani_rebuilt	combined.barcode01	SLCA011	FBA66584	barcode04	115635	4	SLCA010_trial3:556(stephensi);SLCA010_trial1:181(stephensi);SLCA003_BatchKT:126732(arabiensis)	132	0.11	coustani	0.04	low (<1%)
+coustani_rebuilt	combined.barcode02	SLCA011	FBA66584	barcode13	3459	4	SLCA003_BatchKT:154096(gambiae)	154	4.46	coustani	0.06	moderate (1-5%)
+coustani_rebuilt	combined.barcode03	SLCA011	FBA66584	barcode21	31462	4	SLCA010_trial3:399(stephensi);SLCA010_trial1:137(stephensi);SLCA003_BatchKT:381806(gambiae)	386	1.23	coustani	0.02	moderate (1-5%)
+coustani_rebuilt	combined.barcode04	SLCA011	FBA66584	barcode31	5153	4	SLCA010_trial3:424(stephensi);SLCA010_trial1:170(stephensi);SLCA003_BatchKT:7630(arabiensis)	12	0.23	coustani	0.00	low (<1%)
+coustani_rebuilt	combined.barcode05	SLCA021	FBA58542	barcode01	6271	unknown						no flow-cell history on this machine
+coustani_rebuilt	combined.barcode06	SLCA021	FBA58542	barcode24	3495	unknown						no flow-cell history on this machine
+coustani_rebuilt	combined.barcode07	SLCA021	FBA58542	barcode27	5671	unknown						no flow-cell history on this machine
+coustani_rebuilt	combined.barcode08	SLCA021	FBA58542	barcode72	18222	unknown						no flow-cell history on this machine
+coustani_rebuilt	combined.barcode09	SLCA021	FBA58542	barcode75	8148	unknown						no flow-cell history on this machine
+coustani_rebuilt	SLCA011_barcode95_NTC.fastq	SLCA011	FBA66584	barcode95	1	4		0	0.00	arabiensis	0.00	NTC
+funestus	combined.barcode01	SLCA015_BatchFUN	FBD61062	barcode02	1212	4	SLCA014_BatchINF:120339(stephensi);SLCA013_BatchCOL2:91596(gambiae);SLCA010_BatchST:8385(stephensi)	1303	107.54	funestus	91.59	CARRY-OVER: sample reads ~ expected carry-over
+funestus	combined.barcode02	SLCA015_BatchFUN	FBD61062	barcode17	1021	4	SLCA014_BatchINF:96734(stephensi);SLCA013_BatchCOL2:85498(gambiae);SLCA010_BatchST:33490(stephensi)	1086	106.40	funestus	94.09	CARRY-OVER: sample reads ~ expected carry-over
+funestus	combined.barcode03	SLCA015_BatchFUN	FBD61062	barcode49	242488	4	SLCA014_BatchINF:378(arabiensis);SLCA013_BatchCOL2:84676(gambiae);SLCA010_BatchST:49203(stephensi)	138	0.06	funestus	0.10	low (<1%)
+funestus	combined.barcode04	SLCA015_BatchFUN	FBD61062	barcode50	442213	4	SLCA014_BatchINF:227(gambiae);SLCA013_BatchCOL2:51077(gambiae);SLCA010_BatchST:33193(stephensi)	87	0.02	funestus	0.00	low (<1%)
+funestus	combined.barcode05	SLCA015_BatchFUN	FBD61062	barcode51	291750	4	SLCA014_BatchINF:186(gambiae);SLCA013_BatchCOL2:39299(arabiensis);SLCA010_BatchST:34298(stephensi)	75	0.03	funestus	0.00	low (<1%)
+funestus	combined.barcode06	SLCA015_BatchFUN	FBD61062	barcode53	344491	4	SLCA014_BatchINF:277(funestus);SLCA013_BatchCOL2:76272(funestus);SLCA010_BatchST:59400(stephensi)	138	0.04	funestus	0.16	low (<1%)
+funestus	combined.barcode07	SLCA015_BatchFUN	FBD61062	barcode54	184386	4	SLCA014_BatchINF:258(gambiae);SLCA013_BatchCOL2:65393(gambiae);SLCA010_BatchST:48862(stephensi)	117	0.06	funestus	0.00	low (<1%)
+funestus	combined.barcode08	SLCA015_BatchFUN	FBD61062	barcode55	198940	4	SLCA014_BatchINF:269(gambiae);SLCA013_BatchCOL2:65482(gambiae);SLCA010_BatchST:40519(stephensi)	109	0.05	funestus	0.00	low (<1%)
+funestus	combined.barcode09	SLCA015_BatchFUN	FBD61062	barcode57	184222	4	SLCA014_BatchINF:265(gambiae);SLCA013_BatchCOL2:61713(gambiae);SLCA010_BatchST:17116(stephensi)	81	0.04	funestus	0.00	low (<1%)
+funestus	combined.barcode10	SLCA015_BatchFUN	FBD61062	barcode58	171467	4	SLCA014_BatchINF:242(gambiae);SLCA013_BatchCOL2:51261(gambiae);SLCA010_BatchST:47038(stephensi)	101	0.06	funestus	0.02	low (<1%)
+funestus	combined.barcode11	SLCA015_BatchFUN	FBD61062	barcode59	221749	4	SLCA014_BatchINF:239(arabiensis);SLCA013_BatchCOL2:59293(arabiensis);SLCA010_BatchST:49329(stephensi)	111	0.05	funestus	0.00	low (<1%)
+funestus	combined.barcode12	SLCA015_BatchFUN	FBD61062	barcode60	175935	4	SLCA013_BatchCOL2:16112(coluzzii);SLCA010_BatchST:27955(stephensi)	45	0.03	funestus	0.14	low (<1%)
+funestus	combined.barcode13	SLCA015_BatchFUN	FBD61062	barcode61	172023	4	SLCA013_BatchCOL2:14123(funestus);SLCA010_BatchST:50218(stephensi)	65	0.04	funestus	0.00	low (<1%)
+funestus	combined.barcode14	SLCA015_BatchFUN	FBD61062	barcode62	141333	4	SLCA014_BatchINF:255(funestus);SLCA013_BatchCOL2:58379(funestus);SLCA010_BatchST:63595(stephensi)	125	0.09	funestus	0.00	low (<1%)
+funestus	combined.barcode15	SLCA015_BatchFUN	FBD61062	barcode63	214829	4	SLCA014_BatchINF:457(gambiae);SLCA013_BatchCOL2:104651(gambiae);SLCA010_BatchST:64044(stephensi)	173	0.08	funestus	0.00	low (<1%)
+funestus	combined.barcode16	SLCA015_BatchFUN	FBD61062	barcode64	153583	4	SLCA014_BatchINF:651(gambiae);SLCA013_BatchCOL2:185364(gambiae);SLCA010_BatchST:35300(stephensi)	227	0.15	funestus	0.00	low (<1%)
+funestus	combined.barcode17	SLCA015_BatchFUN	FBD61062	barcode65	153527	4	SLCA014_BatchINF:379(gambiae);SLCA013_BatchCOL2:101063(gambiae);SLCA010_BatchST:39249(stephensi)	144	0.09	funestus	0.02	low (<1%)
+funestus	combined.barcode18	SLCA015_BatchFUN	FBD61062	barcode66	109789	4	SLCA014_BatchINF:122(funestus);SLCA013_BatchCOL2:28697(funestus);SLCA010_BatchST:31539(stephensi)	61	0.06	funestus	0.02	low (<1%)
+funestus	combined.barcode19	SLCA015_BatchFUN	FBD61062	barcode67	135225	4	SLCA014_BatchINF:203(arabiensis);SLCA013_BatchCOL2:47235(arabiensis);SLCA010_BatchST:34205(stephensi)	83	0.06	funestus	0.02	low (<1%)
+funestus	combined.barcode20	SLCA015_BatchFUN	FBD61062	barcode68	190330	4	SLCA014_BatchINF:192(arabiensis);SLCA013_BatchCOL2:41058(arabiensis);SLCA010_BatchST:46508(stephensi)	89	0.05	funestus	0.00	low (<1%)
+funestus	combined.barcode21	SLCA015_BatchFUN	FBD61062	barcode69	4356	4	SLCA014_BatchINF:342(gambiae);SLCA013_BatchCOL2:92167(gambiae);SLCA010_BatchST:5468(stephensi)	101	2.32	funestus	0.00	moderate (1-5%)
+funestus	combined.barcode22	SLCA015_BatchFUN	FBD61062	barcode70	74889	4	SLCA014_BatchINF:341(stephensi);SLCA013_BatchCOL2:79473(stephensi);SLCA010_BatchST:39610(stephensi)	122	0.16	funestus	0.04	low (<1%)
+funestus	combined.barcode23	SLCA015_BatchFUN	FBD61062	barcode71	36580	4	SLCA014_BatchINF:431(gambiae);SLCA013_BatchCOL2:108434(gambiae);SLCA010_BatchST:48926(stephensi)	162	0.44	funestus	0.00	low (<1%)
+funestus	combined.barcode24	SLCA015_BatchFUN	FBD61062	barcode72	119717	4	SLCA014_BatchINF:450(gambiae);SLCA013_BatchCOL2:113734(gambiae);SLCA010_BatchST:49226(stephensi)	167	0.14	funestus	0.00	low (<1%)
+funestus	combined.barcode25	SLCA015_BatchFUN	FBD61062	barcode73	91946	4	SLCA013_BatchCOL2:16848(gambiae);SLCA010_BatchST:32832(stephensi)	50	0.05	funestus	0.06	low (<1%)
+funestus	combined.barcode26	SLCA015_BatchFUN	FBD61062	barcode75	37343	4	SLCA014_BatchINF:214(gambiae);SLCA013_BatchCOL2:48447(gambiae);SLCA010_BatchST:33682(stephensi)	84	0.23	funestus	0.00	low (<1%)
+funestus	combined.barcode27	SLCA015_BatchFUN	FBD61062	barcode76	116613	4	SLCA013_BatchCOL2:877(gambiae);SLCA010_BatchST:47705(arabiensis)	49	0.04	funestus	0.02	low (<1%)
+funestus	combined.barcode28	Anoph_Speciation	FBA66226	barcode06	16271	1		0	0.00	funestus	0.07	low (<1%)
+funestus	combined.barcode29	Anoph_Speciation	FBA66226	barcode44	2352	1		0	0.00	funestus	0.09	low (<1%)
+funestus	combined.barcode30	Anoph_Speciation	FBA66226	barcode49	8107	1		0	0.00	funestus	0.09	low (<1%)
+funestus	combined.barcode31	Anoph_Speciation	FBA66226	barcode50	18109	1		0	0.00	funestus	0.02	low (<1%)
+funestus	combined.barcode32	Anoph_Speciation	FBA66226	barcode51	8689	1		0	0.00	funestus	0.00	low (<1%)
+funestus	combined.barcode33	Anoph_Speciation	FBA66226	barcode52	6535	1		0	0.00	funestus	0.10	low (<1%)
+funestus	combined.barcode34	Anoph_Speciation	FBA66226	barcode53	13723	1		0	0.00	funestus	0.10	low (<1%)
+funestus	combined.barcode35	Anoph_Speciation	FBA66226	barcode57	9544	1		0	0.00	funestus	0.33	low (<1%)
+funestus	combined.barcode36	Anoph_Speciation	FBA66226	barcode58	22279	1		0	0.00	funestus	0.00	low (<1%)
+funestus	combined.barcode37	Anoph_Speciation	FBA66226	barcode59	9582	1		0	0.00	funestus	0.02	low (<1%)
+funestus	combined.barcode38	Anoph_Speciation	FBA66226	barcode60	3023	1		0	0.00	funestus	0.00	low (<1%)
+funestus	combined.barcode39	Anoph_Speciation	FBA66226	barcode61	15054	1		0	0.00	funestus	0.00	low (<1%)
+funestus	combined.barcode40	Anoph_Speciation	FBA66226	barcode62	11977	1		0	0.00	funestus	0.00	low (<1%)
+funestus	combined.barcode41	Anoph_Speciation	FBA66226	barcode64	11282	1		0	0.00	funestus	0.02	low (<1%)
+funestus	combined.barcode42	Anoph_Speciation	FBA66226	barcode65	7170	1		0	0.00	funestus	0.00	low (<1%)
+funestus	combined.barcode43	Anoph_Speciation	FBA66226	barcode66	2522	1		0	0.00	funestus	0.04	low (<1%)
+funestus	combined.barcode44	Anoph_Speciation	FBA66226	barcode68	18239	1		0	0.00	funestus	0.06	low (<1%)
+funestus	combined.barcode45	SLCA013_BatchCOL2	FBD61062	barcode07	85482	2	SLCA010_BatchST:38209(stephensi)	382	0.45	funestus	0.00	low (<1%)
+funestus	combined.barcode46	SLCA013_BatchCOL2	FBD61062	barcode08	84772	2	SLCA010_BatchST:13253(stephensi)	133	0.16	funestus	3.19	low (<1%)
+funestus	combined.barcode47	SLCA013_BatchCOL2	FBD61062	barcode11	12193	2	SLCA010_BatchST:44990(gambiae)	450	3.69	funestus	0.00	moderate (1-5%)
+funestus	combined.barcode48	SLCA013_BatchCOL2	FBD61062	barcode16	43780	2	SLCA010_BatchST:401(stephensi)	4	0.01	funestus	0.00	low (<1%)
+funestus	combined.barcode49	SLCA013_BatchCOL2	FBD61062	barcode18	62336	2	SLCA010_BatchST:34245(stephensi)	342	0.55	funestus	0.00	low (<1%)
+funestus	combined.barcode50	SLCA013_BatchCOL2	FBD61062	barcode21	117800	2	SLCA010_BatchST:27337(stephensi)	273	0.23	funestus	0.00	low (<1%)
+funestus	combined.barcode51	SLCA013_BatchCOL2	FBD61062	barcode28	41885	2	SLCA010_BatchST:32353(stephensi)	324	0.77	funestus	0.00	low (<1%)
+funestus	combined.barcode52	SLCA013_BatchCOL2	FBD61062	barcode46	88117	2	SLCA010_BatchST:50244(stephensi)	502	0.57	funestus	0.00	low (<1%)
+funestus	combined.barcode53	SLCA013_BatchCOL2	FBD61062	barcode48	185720	2	SLCA010_BatchST:35584(stephensi)	356	0.19	funestus	0.00	low (<1%)
+funestus	combined.barcode54	SLCA013_BatchCOL2	FBD61062	barcode53	76272	2	SLCA010_BatchST:59400(stephensi)	594	0.78	funestus	0.00	low (<1%)
+funestus	combined.barcode55	SLCA013_BatchCOL2	FBD61062	barcode61	14123	2	SLCA010_BatchST:50218(stephensi)	502	3.56	funestus	0.02	moderate (1-5%)
+funestus	combined.barcode56	SLCA013_BatchCOL2	FBD61062	barcode62	58379	2	SLCA010_BatchST:63595(stephensi)	636	1.09	funestus	0.00	moderate (1-5%)
+funestus	combined.barcode57	SLCA013_BatchCOL2	FBD61062	barcode66	28697	2	SLCA010_BatchST:31539(stephensi)	315	1.10	funestus	0.00	moderate (1-5%)
+funestus	combined.barcode58	SLCA003_BatchKT	FBA66584	barcode11	41342	1		0	0.00	funestus	0.19	low (<1%)
+funestus	combined.barcode59	SLCA003_BatchKT	FBA66584	barcode18	127838	1		0	0.00	funestus	0.09	low (<1%)
+funestus	combined.barcode60	SLCA003_BatchKT	FBA66584	barcode37	121164	1		0	0.00	funestus	0.26	low (<1%)
+funestus	combined.barcode61	SLCA011	FBA66584	barcode02	107524	4	SLCA010_trial3:134(stephensi);SLCA003_BatchKT:299603(arabiensis)	301	0.28	funestus	0.02	low (<1%)
+funestus	combined.barcode62	SLCA011	FBA66584	barcode03	81625	4	SLCA010_trial3:475(stephensi);SLCA010_trial1:186(stephensi);SLCA003_BatchKT:68516(stephensi)	73	0.09	funestus	0.02	low (<1%)
+funestus	combined.barcode63	SLCA011	FBA66584	barcode07	43403	4	SLCA010_trial3:539(stephensi);SLCA010_trial1:207(stephensi);SLCA003_BatchKT:7189(arabiensis)	13	0.03	funestus	0.44	low (<1%)
+funestus	combined.barcode64	SLCA011	FBA66584	barcode14	80673	4	SLCA003_BatchKT:31311(stephensi)	32	0.04	funestus	0.91	low (<1%)
+funestus	combined.barcode65	SLCA011	FBA66584	barcode19	12282	4	SLCA010_trial3:483(stephensi);SLCA010_trial1:171(stephensi);SLCA003_BatchKT:143040(arabiensis)	148	1.21	funestus	0.00	moderate (1-5%)
+funestus	combined.barcode66	SLCA011	FBA66584	barcode36	22989	4	SLCA010_trial3:1089(stephensi);SLCA010_trial1:356(stephensi)	11	0.05	funestus	0.02	low (<1%)
+funestus	combined.barcode67	SLCA011	FBA66584	barcode37	21162	4	SLCA010_trial3:406(stephensi);SLCA010_trial1:193(stephensi);SLCA003_BatchKT:121164(funestus)	125	0.59	funestus	0.00	low (<1%)
+funestus	combined.barcode68	SLCA011	FBA66584	barcode44	15922	4	SLCA010_trial3:486(stephensi);SLCA010_trial1:158(stephensi);SLCA003_BatchKT:17971(arabiensis)	23	0.14	funestus	0.04	low (<1%)
+funestus	combined.barcode69	SLCA011	FBA66584	barcode45	40214	4	SLCA010_trial3:724(stephensi);SLCA010_trial1:293(stephensi);SLCA003_BatchKT:19327(gambiae)	27	0.07	funestus	0.06	low (<1%)
+funestus	combined.barcode70	SLCA011	FBA66584	barcode46	52136	4	SLCA010_trial3:775(stephensi);SLCA010_trial1:256(stephensi)	8	0.02	funestus	0.00	low (<1%)
+funestus	combined.barcode71	SLCA011	FBA66584	barcode48	62579	4	SLCA010_trial3:470(stephensi);SLCA010_trial1:180(stephensi);SLCA003_BatchKT:11539(arabiensis)	16	0.03	funestus	0.27	low (<1%)
+funestus	combined.barcode72	SLCA011	FBA66584	barcode49	24974	4	SLCA010_trial3:644(stephensi);SLCA010_trial1:262(stephensi);SLCA003_BatchKT:113433(arabiensis)	120	0.48	funestus	0.02	low (<1%)
+funestus	combined.barcode73	SLCA011	FBA66584	barcode51	13220	4	SLCA010_trial3:509(stephensi);SLCA010_trial1:200(stephensi);SLCA003_BatchKT:326439(arabiensis)	332	2.51	funestus	0.19	moderate (1-5%)
+funestus	combined.barcode74	SLCA011	FBA66584	barcode53	45453	4	SLCA010_trial3:856(stephensi);SLCA010_trial1:312(stephensi);SLCA003_BatchKT:153099(arabiensis)	162	0.36	funestus	0.06	low (<1%)
+funestus	combined.barcode75	SLCA011	FBA66584	barcode55	46145	4	SLCA010_trial3:544(stephensi);SLCA010_trial1:210(stephensi);SLCA003_BatchKT:68662(arabiensis)	74	0.16	funestus	0.00	low (<1%)
+funestus	combined.barcode76	SLCA011	FBA66584	barcode61	33653	4	SLCA010_trial3:728(stephensi);SLCA010_trial1:285(stephensi);SLCA003_BatchKT:19407(stephensi)	27	0.08	funestus	0.04	low (<1%)
+funestus	combined.barcode77	SLCA011	FBA66584	barcode72	21559	4	SLCA010_trial3:738(stephensi);SLCA010_trial1:221(stephensi)	8	0.04	funestus	0.04	low (<1%)
+funestus	combined.barcode78	SLCA011	FBA66584	barcode78	109278	4	SLCA010_trial3:980(stephensi);SLCA010_trial1:359(stephensi)	10	0.01	funestus	0.11	low (<1%)
+funestus	combined.barcode79	SLCA003_BatchKT	FBA66584	barcode12	131959	1		0	0.00	arabiensis	0.15	low (<1%)
+funestus	SLCA015_BatchFUN_barcode95_NTC.fastq	SLCA015_BatchFUN	FBD61062	barcode95	1	4		0	0.10	funestus	0.00	NTC
+gambiae	combined.barcode01	SLCA013_BatchCOL2	FBD61062	barcode50	51077	2	SLCA010_BatchST:33193(stephensi)	332	0.65	gambiae	0.00	low (<1%)
+gambiae	combined.barcode02	SLCA013_BatchCOL2	FBD61062	barcode02	91596	2	SLCA010_BatchST:8385(stephensi)	84	0.09	gambiae	0.00	low (<1%)
+gambiae	combined.barcode03	SLCA003_BatchKT	FBA66584	barcode13	154096	1		0	0.00	gambiae	0.00	low (<1%)
+gambiae	combined.barcode04	SLCA013_BatchCOL2	FBD61062	barcode27	31255	2	SLCA010_BatchST:33517(stephensi)	335	1.07	gambiae	0.00	moderate (1-5%)
+gambiae	combined.barcode05	SLCA003_BatchKT	FBA66584	barcode15	314138	1		0	0.00	gambiae	0.00	low (<1%)
+gambiae	combined.barcode06	SLCA013_BatchCOL2	FBD61062	barcode64	185364	2	SLCA010_BatchST:35300(stephensi)	353	0.19	gambiae	0.00	low (<1%)
+gambiae	combined.barcode07	SLCA013_BatchCOL2	FBD61062	barcode73	16848	2	SLCA010_BatchST:32832(stephensi)	328	1.95	gambiae	0.06	moderate (1-5%)
+gambiae	combined.barcode08	SLCA013_BatchCOL2	FBD61062	barcode74	41358	2	SLCA010_BatchST:808(stephensi)	8	0.02	gambiae	0.00	low (<1%)
+gambiae	combined.barcode09	SLCA013_BatchCOL2	FBD61062	barcode13	44623	2	SLCA010_BatchST:451(stephensi)	5	0.01	gambiae	0.00	low (<1%)
+gambiae	combined.barcode10	SLCA003_BatchKT	FBA66584	barcode36	364127	1		0	0.00			low (<1%)
+gambiae	combined.barcode11	SLCA003_BatchKT	FBA66584	barcode41	86584	1		0	0.00	gambiae	0.00	low (<1%)
+gambiae	combined.barcode12	SLCA013_BatchCOL2	FBD61062	barcode06	21399	2	SLCA010_BatchST:75771(stephensi)	758	3.54	gambiae	0.00	moderate (1-5%)
+gambiae	combined.barcode13	SLCA013_BatchCOL2	FBD61062	barcode09	99788	2	SLCA010_BatchST:45617(stephensi)	456	0.46	gambiae	0.00	low (<1%)
+gambiae	combined.barcode14	SLCA003_BatchKT	FBA66584	barcode43	15096	1		0	0.00	gambiae	0.02	low (<1%)
+gambiae	combined.barcode15	SLCA013_BatchCOL2	FBD61062	barcode12	51773	2	SLCA010_BatchST:54052(stephensi)	541	1.04	gambiae	0.00	moderate (1-5%)
+gambiae	combined.barcode16	SLCA003_BatchKT	FBA66584	barcode45	19327	1		0	0.00	gambiae	0.00	low (<1%)
+gambiae	combined.barcode17	SLCA013_BatchCOL2	FBD61062	barcode56	215741	2	SLCA010_BatchST:53430(stephensi)	534	0.25	gambiae	0.00	low (<1%)
+gambiae	combined.barcode18	SLCA003_BatchKT	FBA66584	barcode54	75251	1		0	0.00	gambiae	0.04	low (<1%)
+gambiae	combined.barcode19	SLCA013_BatchCOL2	FBD61062	barcode17	85498	2	SLCA010_BatchST:33490(stephensi)	335	0.39	gambiae	0.00	low (<1%)
+gambiae	combined.barcode20	SLCA013_BatchCOL2	FBD61062	barcode19	92844	2	SLCA010_BatchST:33130(stephensi)	331	0.36	gambiae	0.00	low (<1%)
+gambiae	combined.barcode21	SLCA003_BatchKT	FBA66584	barcode56	152774	1		0	0.00			low (<1%)
+gambiae	combined.barcode22	SLCA013_BatchCOL2	FBD61062	barcode72	113734	2	SLCA010_BatchST:49226(stephensi)	492	0.43	gambiae	0.00	low (<1%)
+gambiae	combined.barcode23	SLCA013_BatchCOL2	FBD61062	barcode22	180930	2	SLCA010_BatchST:42072(stephensi)	421	0.23	gambiae	0.00	low (<1%)
+gambiae	combined.barcode24	SLCA013_BatchCOL2	FBD61062	barcode23	301006	2	SLCA010_BatchST:46392(stephensi)	464	0.15	gambiae	0.00	low (<1%)
+gambiae	combined.barcode25	SLCA013_BatchCOL2	FBD61062	barcode24	90655	2	SLCA010_BatchST:20088(stephensi)	201	0.22	gambiae	0.34	low (<1%)
+gambiae	combined.barcode26	SLCA013_BatchCOL2	FBD61062	barcode25	946	2	SLCA010_BatchST:29591(stephensi)	296	31.28	gambiae	0.11	high (>=5%)
+gambiae	combined.barcode27	SLCA013_BatchCOL2	FBD61062	barcode26	75398	2	SLCA010_BatchST:35969(stephensi)	360	0.48	gambiae	0.00	low (<1%)
+gambiae	combined.barcode28	SLCA013_BatchCOL2	FBD61062	barcode47	82897	2	SLCA010_BatchST:33929(stephensi)	339	0.41	gambiae	0.00	low (<1%)
+gambiae	combined.barcode29	SLCA013_BatchCOL2	FBD61062	barcode29	41111	2	SLCA010_BatchST:27860(stephensi)	279	0.68	gambiae	0.00	low (<1%)
+gambiae	combined.barcode30	SLCA013_BatchCOL2	FBD61062	barcode65	101063	2	SLCA010_BatchST:39249(stephensi)	392	0.39	gambiae	0.00	low (<1%)
+gambiae	combined.barcode31	SLCA013_BatchCOL2	FBD61062	barcode31	147856	2	SLCA010_BatchST:34224(stephensi)	342	0.23	gambiae	0.00	low (<1%)
+gambiae	combined.barcode32	SLCA013_BatchCOL2	FBD61062	barcode32	142856	2	SLCA010_BatchST:50899(stephensi)	509	0.36	gambiae	0.00	low (<1%)
+gambiae	combined.barcode33	SLCA013_BatchCOL2	FBD61062	barcode33	66446	2	SLCA010_BatchST:25395(stephensi)	254	0.38	gambiae	0.00	low (<1%)
+gambiae	combined.barcode34	SLCA013_BatchCOL2	FBD61062	barcode34	42973	2	SLCA010_BatchST:16104(stephensi)	161	0.37	gambiae	0.08	low (<1%)
+gambiae	combined.barcode35	SLCA013_BatchCOL2	FBD61062	barcode35	22415	2	SLCA010_BatchST:51523(stephensi)	515	2.30	gambiae	0.00	moderate (1-5%)
+gambiae	combined.barcode36	SLCA013_BatchCOL2	FBD61062	barcode36	16631	2	SLCA010_BatchST:77963(stephensi)	780	4.69	gambiae	0.06	moderate (1-5%)
+gambiae	combined.barcode37	SLCA013_BatchCOL2	FBD61062	barcode37	11490	2	SLCA010_BatchST:29120(stephensi)	291	2.53	gambiae	0.00	moderate (1-5%)
+gambiae	combined.barcode38	SLCA013_BatchCOL2	FBD61062	barcode38	107173	2	SLCA010_BatchST:93466(stephensi)	935	0.87	gambiae	0.04	low (<1%)
+gambiae	combined.barcode39	SLCA013_BatchCOL2	FBD61062	barcode57	61713	2	SLCA010_BatchST:17116(stephensi)	171	0.28	gambiae	0.00	low (<1%)
+gambiae	combined.barcode40	SLCA013_BatchCOL2	FBD61062	barcode40	244333	2	SLCA010_BatchST:29916(stephensi)	299	0.12	gambiae	0.00	low (<1%)
+gambiae	combined.barcode41	SLCA013_BatchCOL2	FBD61062	barcode41	73417	2	SLCA010_BatchST:27924(stephensi)	279	0.38	gambiae	0.00	low (<1%)
+gambiae	combined.barcode42	SLCA013_BatchCOL2	FBD61062	barcode42	78527	2	SLCA010_BatchST:20833(stephensi)	208	0.27	gambiae	0.00	low (<1%)
+gambiae	combined.barcode43	SLCA013_BatchCOL2	FBD61062	barcode43	2512	2	SLCA010_BatchST:30554(stephensi)	306	12.16	gambiae	0.04	high (>=5%)
+gambiae	combined.barcode44	SLCA013_BatchCOL2	FBD61062	barcode44	14165	2	SLCA010_BatchST:31017(stephensi)	310	2.19	gambiae	0.00	moderate (1-5%)
+gambiae	combined.barcode45	SLCA013_BatchCOL2	FBD61062	barcode45	100687	2	SLCA010_BatchST:51582(stephensi)	516	0.51	gambiae	0.00	low (<1%)
+gambiae	combined.barcode46	SLCA013_BatchCOL2	FBD61062	barcode04	55416	2	SLCA010_BatchST:34068(stephensi)	341	0.61	gambiae	0.00	low (<1%)
+gambiae	combined.barcode47	SLCA013_BatchCOL2	FBD61062	barcode49	84676	2	SLCA010_BatchST:49203(stephensi)	492	0.58	gambiae	0.00	low (<1%)
+gambiae	combined.barcode48	SLCA013_BatchCOL2	FBD61062	barcode54	65393	2	SLCA010_BatchST:48862(stephensi)	489	0.75	gambiae	0.00	low (<1%)
+gambiae	combined.barcode49	SLCA013_BatchCOL2	FBD61062	barcode39	1570	2	SLCA010_BatchST:22671(stephensi)	227	14.44	gambiae	0.13	high (>=5%)
+gambiae	combined.barcode50	NA	NA	NA	11420	unknown						no flow-cell history on this machine
+gambiae	combined.barcode51	SLCA013_BatchCOL2	FBD61062	barcode55	65482	2	SLCA010_BatchST:40519(stephensi)	405	0.62	gambiae	0.00	low (<1%)
+gambiae	combined.barcode52	SLCA011	FBA66584	barcode54	45123	4	SLCA010_trial3:665(stephensi);SLCA010_trial1:268(stephensi);SLCA003_BatchKT:75251(gambiae)	82	0.18	coustani	0.02	low (<1%)
+gambiae	combined.barcode53	NA	NA	NA	86089	unknown						no flow-cell history on this machine
+gambiae	combined.barcode54	SLCA013_BatchCOL2	FBD61062	barcode58	51261	2	SLCA010_BatchST:47038(stephensi)	470	0.92	gambiae	0.00	low (<1%)
+gambiae	combined.barcode55	SLCA013_BatchCOL2	FBD61062	barcode01	71854	2	SLCA010_BatchST:22094(stephensi)	221	0.31	gambiae	0.00	low (<1%)
+gambiae	combined.barcode56	SLCA013_BatchCOL2	FBD61062	barcode20	2342	2	SLCA010_BatchST:33792(stephensi)	338	14.43	arabiensis	0.06	high (>=5%)
+gambiae	combined.barcode57	SLCA011	FBA66584	barcode40	20570	4	SLCA010_trial3:403(stephensi);SLCA010_trial1:143(stephensi);SLCA003_BatchKT:21567(arabiensis)	26	0.13	arabiensis	0.00	low (<1%)
+gambiae	combined.barcode58	SLCA013_BatchCOL2	FBD61062	barcode63	104651	2	SLCA010_BatchST:64044(stephensi)	640	0.61	gambiae	0.00	low (<1%)
+gambiae	combined.barcode59	SLCA013_BatchCOL2	FBD61062	barcode15	68704	2	SLCA010_BatchST:596(stephensi)	6	0.01	stephensi	0.00	low (<1%)
+gambiae	combined.barcode60	SLCA020	FBA58185	barcode10	96339	unknown						no flow-cell history on this machine
+gambiae	combined.barcode61	SLCA020	FBA58185	barcode03	44731	unknown						no flow-cell history on this machine
+gambiae	combined.barcode62	SLCA020	FBA58185	barcode35	123834	unknown						no flow-cell history on this machine
+gambiae	combined.barcode63	SLCA013_BatchCOL2	FBD61062	barcode69	92167	2	SLCA010_BatchST:5468(stephensi)	55	0.06	gambiae	0.00	low (<1%)
+gambiae	combined.barcode64	SLCA020	FBA58185	barcode01	62504	unknown						no flow-cell history on this machine
+gambiae	combined.barcode65	SLCA013_BatchCOL2	FBD61062	barcode71	108434	2	SLCA010_BatchST:48926(stephensi)	489	0.45	gambiae	0.00	low (<1%)
+gambiae	combined.barcode66	SLCA020	FBA58185	barcode62	97576	unknown						no flow-cell history on this machine
+gambiae	combined.barcode67	SLCA020	FBA58185	barcode49	57616	unknown						no flow-cell history on this machine
+gambiae	combined.barcode68	SLCA020	FBA58185	barcode02	63460	unknown						no flow-cell history on this machine
+gambiae	combined.barcode69	SLCA013_BatchCOL2	FBD61062	barcode75	48447	2	SLCA010_BatchST:33682(stephensi)	337	0.70	gambiae	0.02	low (<1%)
+gambiae	combined.barcode70	SLCA020	FBA58185	barcode67	87537	unknown						no flow-cell history on this machine
+gambiae	combined.barcode71	SLCA013_BatchCOL2	FBD61062	barcode78	139537	2	SLCA010_BatchST:69930(stephensi)	699	0.50	gambiae	0.00	low (<1%)
+gambiae	combined.barcode72	SLCA020	FBA58185	barcode68	98017	unknown						no flow-cell history on this machine
+gambiae	combined.barcode73	SLCA020	FBA58185	barcode16	7963	unknown						no flow-cell history on this machine
+gambiae	combined.barcode74	SLCA020	FBA58185	barcode08	15077	unknown						no flow-cell history on this machine
+gambiae	combined.barcode75	SLCA020	FBA58185	barcode07	27799	unknown						no flow-cell history on this machine
+gambiae	combined.barcode76	SLCA020	FBA58185	barcode31	2031	unknown						no flow-cell history on this machine
+gambiae	combined.barcode77	SLCA020	FBA58185	barcode53	149909	unknown						no flow-cell history on this machine
+gambiae	combined.barcode78	SLCA020	FBA58185	barcode14	66322	unknown						no flow-cell history on this machine
+gambiae	combined.barcode79	SLCA020	FBA58185	barcode81	9897	unknown						no flow-cell history on this machine
+gambiae	SLCA013_BatchCOL2_barcode94_NTC.fastq	SLCA013_BatchCOL2	FBD61062	barcode94	4	2		0	0.25	coluzzii	0.00	NTC
+stephensi	combined.barcode01	SLCA010_BatchST	FBD61062	barcode01	22094	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode02	SLCA010_BatchST	FBD61062	barcode02	8385	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode03	SLCA010_BatchST	FBD61062	barcode03	33721	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode04	SLCA010_BatchST	FBD61062	barcode04	34068	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode05	SLCA010_BatchST	FBD61062	barcode05	24678	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode06	SLCA010_BatchST	FBD61062	barcode06	75771	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode07	SLCA010_BatchST	FBD61062	barcode07	38209	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode08	SLCA010_BatchST	FBD61062	barcode08	13253	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode09	SLCA010_BatchST	FBD61062	barcode09	45617	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode10	SLCA010_BatchST	FBD61062	barcode10	42508	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode11	SLCA010_BatchST	FBD61062	barcode11	44990	1		0	0.00	gambiae	0.02	low (<1%)
+stephensi	combined.barcode12	SLCA010_BatchST	FBD61062	barcode12	54052	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode13	SLCA010_BatchST	FBD61062	barcode13	451	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode14	SLCA010_BatchST	FBD61062	barcode14	5397	1		0	0.00	stephensi	0.04	low (<1%)
+stephensi	combined.barcode16	SLCA010_BatchST	FBD61062	barcode16	401	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode17	SLCA010_BatchST	FBD61062	barcode17	33490	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode18	SLCA010_BatchST	FBD61062	barcode18	34245	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode19	SLCA010_BatchST	FBD61062	barcode19	33130	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode20	SLCA010_BatchST	FBD61062	barcode20	33792	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode21	SLCA010_BatchST	FBD61062	barcode21	27337	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode22	SLCA010_BatchST	FBD61062	barcode22	42072	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode23	SLCA010_BatchST	FBD61062	barcode23	46392	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode24	SLCA010_BatchST	FBD61062	barcode24	20088	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode25	SLCA010_BatchST	FBD61062	barcode25	29591	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode26	SLCA010_BatchST	FBD61062	barcode26	35969	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode27	SLCA010_BatchST	FBD61062	barcode27	33517	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode28	SLCA010_BatchST	FBD61062	barcode28	32353	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode29	SLCA010_BatchST	FBD61062	barcode29	27860	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode30	SLCA010_BatchST	FBD61062	barcode30	44166	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode31	SLCA010_BatchST	FBD61062	barcode31	34224	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode32	SLCA010_BatchST	FBD61062	barcode32	50899	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode33	SLCA010_BatchST	FBD61062	barcode33	25395	1		0	0.00	stephensi	0.03	low (<1%)
+stephensi	combined.barcode34	SLCA010_BatchST	FBD61062	barcode34	16104	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode35	SLCA010_BatchST	FBD61062	barcode35	51523	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode36	SLCA010_BatchST	FBD61062	barcode36	77963	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode37	SLCA010_BatchST	FBD61062	barcode37	29120	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode38	SLCA010_BatchST	FBD61062	barcode38	93466	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode39	SLCA010_BatchST	FBD61062	barcode39	22671	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode40	SLCA010_BatchST	FBD61062	barcode40	29916	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode41	SLCA010_BatchST	FBD61062	barcode41	27924	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode42	SLCA010_BatchST	FBD61062	barcode42	20833	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode43	SLCA010_BatchST	FBD61062	barcode43	30554	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode44	SLCA010_BatchST	FBD61062	barcode44	31017	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode45	SLCA010_BatchST	FBD61062	barcode45	51582	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode46	SLCA010_BatchST	FBD61062	barcode46	50244	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode47	SLCA010_BatchST	FBD61062	barcode47	33929	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode48	SLCA010_BatchST	FBD61062	barcode48	35584	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode49	SLCA010_BatchST	FBD61062	barcode49	49203	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode50	SLCA010_BatchST	FBD61062	barcode50	33193	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode51	SLCA010_BatchST	FBD61062	barcode51	34298	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode52	SLCA010_BatchST	FBD61062	barcode52	47519	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode53	SLCA010_BatchST	FBD61062	barcode53	59400	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode54	SLCA010_BatchST	FBD61062	barcode54	48862	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode55	SLCA010_BatchST	FBD61062	barcode55	40519	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode56	SLCA010_BatchST	FBD61062	barcode56	53430	1		0	0.00	stephensi	0.04	low (<1%)
+stephensi	combined.barcode57	SLCA010_BatchST	FBD61062	barcode57	17116	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode58	SLCA010_BatchST	FBD61062	barcode58	47038	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode59	SLCA010_BatchST	FBD61062	barcode59	49329	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode60	SLCA010_BatchST	FBD61062	barcode60	27955	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode61	SLCA010_BatchST	FBD61062	barcode61	50218	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode62	SLCA010_BatchST	FBD61062	barcode62	63595	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode63	SLCA010_BatchST	FBD61062	barcode63	64044	1		0	0.00	stephensi	0.04	low (<1%)
+stephensi	combined.barcode64	SLCA010_BatchST	FBD61062	barcode64	35300	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode65	SLCA010_BatchST	FBD61062	barcode65	39249	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode66	SLCA010_BatchST	FBD61062	barcode66	31539	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode67	SLCA010_BatchST	FBD61062	barcode67	34205	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode68	SLCA010_BatchST	FBD61062	barcode68	46508	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode69	SLCA010_BatchST	FBD61062	barcode69	5468	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode70	SLCA010_BatchST	FBD61062	barcode70	39610	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode71	SLCA010_BatchST	FBD61062	barcode71	48926	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode72	SLCA010_BatchST	FBD61062	barcode72	49226	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode73	SLCA010_BatchST	FBD61062	barcode73	32832	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode74	SLCA010_BatchST	FBD61062	barcode74	808	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode75	SLCA010_BatchST	FBD61062	barcode75	33682	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode76	SLCA010_BatchST	FBD61062	barcode76	47705	1		0	0.00	arabiensis	0.00	low (<1%)
+stephensi	combined.barcode77	SLCA010_BatchST	FBD61062	barcode77	9654	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode78	SLCA010_BatchST	FBD61062	barcode78	69930	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode79	SLCA010_BatchST	FBD61062	barcode79	29058	1		0	0.00	stephensi	0.02	low (<1%)
+stephensi	combined.barcode80	SLCA010_BatchST	FBD61062	barcode80	528	1		0	0.00	stephensi	0.00	low (<1%)
+stephensi	combined.barcode95_NTC	SLCA010_BatchST	FBD61062	barcode95	1	1		0	0.00	stephensi	0.00	NTC

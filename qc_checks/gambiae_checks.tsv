@@ -1,0 +1,81 @@
+file	in_verified	run	flow_cell	raw_barcode	reads	raw_verification	kmer_call	top_pct	second	second_pct	carryover_flag	expected_carryover_pct	background_flag	recommendation
+combined.barcode01	yes	SLCA013_BatchCOL2	FBD61062	barcode50	51077	PASS (verified build)	gambiae	72.9	coluzzii	16.6	low (<1%)	0.65		KEEP
+combined.barcode02	yes	SLCA013_BatchCOL2	FBD61062	barcode02	91596	PASS (verified build)	gambiae	69.2	arabiensis	19.4	low (<1%)	0.09		KEEP
+combined.barcode03	yes	SLCA003_BatchKT	FBA66584	barcode13	154096	PASS (verified build)	gambiae	35.5	arabiensis	34.1	low (<1%)	0.00		KEEP
+combined.barcode04	yes	SLCA013_BatchCOL2	FBD61062	barcode27	31255	PASS (verified build)	gambiae	63.7	coluzzii	18.1	moderate (1-5%)	1.07		KEEP
+combined.barcode05	yes	SLCA003_BatchKT	FBA66584	barcode15	314138	PASS (verified build)	gambiae	40.0	arabiensis	31.5	low (<1%)	0.00		KEEP
+combined.barcode06	yes	SLCA013_BatchCOL2	FBD61062	barcode64	185364	PASS (verified build)	gambiae	63.6	coluzzii	19.5	low (<1%)	0.19		KEEP
+combined.barcode07	yes	SLCA013_BatchCOL2	FBD61062	barcode73	16848	PASS (verified build)	gambiae	59.9	arabiensis	21.0	moderate (1-5%)	1.95		KEEP
+combined.barcode08	yes	SLCA013_BatchCOL2	FBD61062	barcode74	41358	PASS (verified build)	gambiae	56.8	coluzzii	22.7	low (<1%)	0.02		KEEP
+combined.barcode09	yes	SLCA013_BatchCOL2	FBD61062	barcode13	44623	PASS (verified build)	gambiae	58.4	coluzzii	25.9	low (<1%)	0.01		KEEP
+combined.barcode10	yes	SLCA003_BatchKT	FBA66584	barcode36	364127	PASS (verified build)	gambiae	45.5	coluzzii	32.1	low (<1%)	0.00		KEEP
+combined.barcode11	yes	SLCA003_BatchKT	FBA66584	barcode41	86584	PASS (verified build)	gambiae	41.1	coluzzii	33.6	low (<1%)	0.00		KEEP
+combined.barcode12	yes	SLCA013_BatchCOL2	FBD61062	barcode06	21399	PASS (verified build)	gambiae	47.2	arabiensis	36.8	moderate (1-5%)	3.54		KEEP
+combined.barcode13	yes	SLCA013_BatchCOL2	FBD61062	barcode09	99788	PASS (verified build)	gambiae	56.3	arabiensis	25.8	low (<1%)	0.46		KEEP
+combined.barcode14	yes	SLCA003_BatchKT	FBA66584	barcode43	15096	PASS (verified build)	gambiae	47.6	arabiensis	26.1	low (<1%)	0.00		KEEP
+combined.barcode15	yes	SLCA013_BatchCOL2	FBD61062	barcode12	51773	PASS (verified build)	gambiae	64.1	coluzzii	18.7	moderate (1-5%)	1.04		KEEP
+combined.barcode16	yes	SLCA003_BatchKT	FBA66584	barcode45	19327	PASS (verified build)	gambiae	36.4	coluzzii	32.8	low (<1%)	0.00		KEEP
+combined.barcode17	yes	SLCA013_BatchCOL2	FBD61062	barcode56	215741	PASS (verified build)	gambiae	52.0	coluzzii	26.7	low (<1%)	0.25		KEEP
+combined.barcode18	yes	SLCA003_BatchKT	FBA66584	barcode54	75251	PASS (verified build)	gambiae	40.8	arabiensis	32.5	low (<1%)	0.00		KEEP
+combined.barcode19	yes	SLCA013_BatchCOL2	FBD61062	barcode17	85498	PASS (verified build)	gambiae	39.6	arabiensis	33.7	low (<1%)	0.39		KEEP
+combined.barcode20	yes	SLCA013_BatchCOL2	FBD61062	barcode19	92844	PASS (verified build)	gambiae	57.0	coluzzii	25.5	low (<1%)	0.36		KEEP
+combined.barcode21	yes	SLCA003_BatchKT	FBA66584	barcode56	152774	PASS (verified build)	gambiae	42.4	arabiensis	29.4	low (<1%)	0.00		KEEP
+combined.barcode22	yes	SLCA013_BatchCOL2	FBD61062	barcode72	113734	PASS (verified build)	gambiae	48.9	arabiensis	25.6	low (<1%)	0.43		KEEP
+combined.barcode23	yes	SLCA013_BatchCOL2	FBD61062	barcode22	180930	PASS (verified build)	gambiae	65.7	coluzzii	19.4	low (<1%)	0.23		KEEP
+combined.barcode24	yes	SLCA013_BatchCOL2	FBD61062	barcode23	301006	PASS (verified build)	gambiae	48.4	arabiensis	25.7	low (<1%)	0.15		KEEP
+combined.barcode25	yes	SLCA013_BatchCOL2	FBD61062	barcode24	90655	PASS (verified build)	gambiae	52.3	arabiensis	23.6	low (<1%)	0.22		KEEP
+combined.barcode26	yes	SLCA013_BatchCOL2	FBD61062	barcode25	946	PASS (verified build)	gambiae	30.7	arabiensis	20.7	high (>=5%)	31.28		KEEP - flag stephensi carry-over
+combined.barcode27	yes	SLCA013_BatchCOL2	FBD61062	barcode26	75398	PASS (verified build)	gambiae	46.3	arabiensis	35.8	low (<1%)	0.48		KEEP
+combined.barcode28	yes	SLCA013_BatchCOL2	FBD61062	barcode47	82897	PASS (verified build)	gambiae	51.0	arabiensis	30.8	low (<1%)	0.41		KEEP
+combined.barcode29	yes	SLCA013_BatchCOL2	FBD61062	barcode29	41111	PASS (verified build)	gambiae	48.9	coluzzii	26.6	low (<1%)	0.68		KEEP
+combined.barcode30	yes	SLCA013_BatchCOL2	FBD61062	barcode65	101063	PASS (verified build)	gambiae	46.8	arabiensis	27.1	low (<1%)	0.39		KEEP
+combined.barcode31	yes	SLCA013_BatchCOL2	FBD61062	barcode31	147856	PASS (verified build)	gambiae	41.4	coluzzii	31.0	low (<1%)	0.23		KEEP
+combined.barcode32	yes	SLCA013_BatchCOL2	FBD61062	barcode32	142856	PASS (verified build)	gambiae	65.7	coluzzii	23.6	low (<1%)	0.36		KEEP
+combined.barcode33	yes	SLCA013_BatchCOL2	FBD61062	barcode33	66446	PASS (verified build)	gambiae	37.6	coluzzii	31.6	low (<1%)	0.38		KEEP
+combined.barcode34	yes	SLCA013_BatchCOL2	FBD61062	barcode34	42973	PASS (verified build)	gambiae	51.8	coluzzii	34.8	low (<1%)	0.37		KEEP
+combined.barcode35	yes	SLCA013_BatchCOL2	FBD61062	barcode35	22415	PASS (verified build)	gambiae	50.7	arabiensis	25.5	moderate (1-5%)	2.30		KEEP
+combined.barcode36	yes	SLCA013_BatchCOL2	FBD61062	barcode36	16631	PASS (verified build)	gambiae	57.6	coluzzii	23.9	moderate (1-5%)	4.69		KEEP
+combined.barcode37	yes	SLCA013_BatchCOL2	FBD61062	barcode37	11490	PASS (verified build)	gambiae	51.6	arabiensis	24.1	moderate (1-5%)	2.53		KEEP
+combined.barcode38	yes	SLCA013_BatchCOL2	FBD61062	barcode38	107173	PASS (verified build)	gambiae	63.4	coluzzii	22.4	low (<1%)	0.87		KEEP
+combined.barcode39	yes	SLCA013_BatchCOL2	FBD61062	barcode57	61713	PASS (verified build)	gambiae	45.0	arabiensis	28.5	low (<1%)	0.28		KEEP
+combined.barcode40	yes	SLCA013_BatchCOL2	FBD61062	barcode40	244333	PASS (verified build)	gambiae	68.9	arabiensis	16.9	low (<1%)	0.12		KEEP
+combined.barcode41	yes	SLCA013_BatchCOL2	FBD61062	barcode41	73417	PASS (verified build)	gambiae	39.5	coluzzii	33.5	low (<1%)	0.38		KEEP
+combined.barcode42	yes	SLCA013_BatchCOL2	FBD61062	barcode42	78527	PASS (verified build)	gambiae	41.8	arabiensis	30.9	low (<1%)	0.27		KEEP
+combined.barcode43	yes	SLCA013_BatchCOL2	FBD61062	barcode43	2512	PASS (verified build)	gambiae	40.4	arabiensis	28.9	high (>=5%)	12.16		KEEP - flag stephensi carry-over
+combined.barcode44	yes	SLCA013_BatchCOL2	FBD61062	barcode44	14165	PASS (verified build)	gambiae	40.7	arabiensis	38.6	moderate (1-5%)	2.19		KEEP
+combined.barcode45	yes	SLCA013_BatchCOL2	FBD61062	barcode45	100687	PASS (verified build)	gambiae	55.3	arabiensis	25.2	low (<1%)	0.51		KEEP
+combined.barcode46	yes	SLCA013_BatchCOL2	FBD61062	barcode04	55416	PASS (verified build)	gambiae	48.5	coluzzii	32.1	low (<1%)	0.61		KEEP
+combined.barcode47	yes	SLCA013_BatchCOL2	FBD61062	barcode49	84676	PASS (verified build)	gambiae	36.2	arabiensis	35.1	low (<1%)	0.58		KEEP
+combined.barcode48	yes	SLCA013_BatchCOL2	FBD61062	barcode54	65393	PASS (verified build)	gambiae	49.5	coluzzii	34.0	low (<1%)	0.75		KEEP
+combined.barcode49	yes	SLCA013_BatchCOL2	FBD61062	barcode39	1570	PASS (verified build)	gambiae	34.0	arabiensis	23.7	high (>=5%)	14.44		KEEP - flag stephensi carry-over
+combined.barcode50	no	NA	NA	NA	11420	not traced to raw					no flow-cell history on this machine			not in verified set (no raw source)
+combined.barcode51	yes	SLCA013_BatchCOL2	FBD61062	barcode55	65482	PASS (verified build)	gambiae	39.0	arabiensis	33.9	low (<1%)	0.62		KEEP
+combined.barcode52	yes	SLCA011	FBA66584	barcode54	45123	PASS vs demultiplexed backup only (raw fastq deleted)	gambiae	25.5	coustani	22.5	low (<1%)	0.18		KEEP
+combined.barcode53	yes	SLCA003_BatchKT	FBA66584	barcode42	86089	PASS (verified build)	gambiae	37.8	coluzzii	35.5	no flow-cell history on this machine			KEEP
+combined.barcode54	yes	SLCA013_BatchCOL2	FBD61062	barcode58	51261	PASS (verified build)	gambiae	55.4	coluzzii	26.5	low (<1%)	0.92		KEEP
+combined.barcode55	yes	SLCA013_BatchCOL2	FBD61062	barcode01	71854	PASS (verified build)	gambiae	36.2	arabiensis	34.8	low (<1%)	0.31		KEEP
+combined.barcode56	yes	SLCA013_BatchCOL2	FBD61062	barcode20	2342	PASS (verified build)	gambiae	25.9	coluzzii	25.1	high (>=5%)	14.43		KEEP - flag stephensi carry-over
+combined.barcode57	yes	SLCA011	FBA66584	barcode40	20570	PASS vs demultiplexed backup only (raw fastq deleted)	gambiae	24.5	arabiensis	24.0	low (<1%)	0.13		KEEP
+combined.barcode58	yes	SLCA013_BatchCOL2	FBD61062	barcode63	104651	PASS (verified build)	gambiae	60.2	coluzzii	24.9	low (<1%)	0.61		KEEP
+combined.barcode59	yes	SLCA013_BatchCOL2	FBD61062	barcode15	68704	PASS (verified build)	gambiae	38.7	stephensi	29.8	low (<1%)	0.01		KEEP
+combined.barcode60	yes	SLCA020	FBA58185	barcode10	96339	PASS (verified build)	gambiae	68.4	arabiensis	21.5	no flow-cell history on this machine			KEEP
+combined.barcode61	yes	SLCA020	FBA58185	barcode03	44731	PASS (verified build)	gambiae	65.6	arabiensis	23.6	no flow-cell history on this machine			KEEP
+combined.barcode62	yes	SLCA020	FBA58185	barcode35	123834	PASS (verified build)	gambiae	60.4	arabiensis	22.7	no flow-cell history on this machine			KEEP
+combined.barcode63	yes	SLCA013_BatchCOL2	FBD61062	barcode69	92167	PASS (verified build)	gambiae	63.3	coluzzii	18.4	low (<1%)	0.06		KEEP
+combined.barcode64	yes	SLCA020	FBA58185	barcode01	62504	PASS (verified build)	gambiae	50.7	arabiensis	36.8	no flow-cell history on this machine			KEEP
+combined.barcode65	yes	SLCA013_BatchCOL2	FBD61062	barcode71	108434	PASS (verified build)	gambiae	56.6	arabiensis	23.0	low (<1%)	0.45		KEEP
+combined.barcode66	yes	SLCA020	FBA58185	barcode62	97576	PASS (verified build)	gambiae	50.5	coluzzii	36.8	no flow-cell history on this machine			KEEP
+combined.barcode67	yes	SLCA020	FBA58185	barcode49	57616	PASS (verified build)	gambiae	50.3	coluzzii	36.8	no flow-cell history on this machine			KEEP
+combined.barcode68	yes	SLCA020	FBA58185	barcode02	63460	PASS (verified build)	gambiae	50.0	arabiensis	36.8	no flow-cell history on this machine			KEEP
+combined.barcode69	yes	SLCA013_BatchCOL2	FBD61062	barcode75	48447	PASS (verified build)	gambiae	47.7	arabiensis	27.1	low (<1%)	0.70		KEEP
+combined.barcode70	yes	SLCA020	FBA58185	barcode67	87537	PASS (verified build)	gambiae	49.8	coluzzii	27.5	no flow-cell history on this machine			KEEP
+combined.barcode71	yes	SLCA013_BatchCOL2	FBD61062	barcode78	139537	PASS (verified build)	gambiae	48.8	coluzzii	29.0	low (<1%)	0.50		KEEP
+combined.barcode72	yes	SLCA020	FBA58185	barcode68	98017	PASS (verified build)	gambiae	46.9	arabiensis	28.3	no flow-cell history on this machine		pool-like composition	KEEP
+combined.barcode73	yes	SLCA020	FBA58185	barcode16	7963	PASS (verified build)	gambiae	41.9	arabiensis	35.0	no flow-cell history on this machine		pool-like composition	KEEP
+combined.barcode74	yes	SLCA020	FBA58185	barcode08	15077	PASS (verified build)	gambiae	41.2	arabiensis	38.1	no flow-cell history on this machine		pool-like composition	KEEP
+combined.barcode75	yes	SLCA020	FBA58185	barcode07	27799	PASS (verified build)	gambiae	40.1	arabiensis	39.7	no flow-cell history on this machine		pool-like composition	KEEP
+combined.barcode76	yes	SLCA020	FBA58185	barcode31	2031	PASS (verified build)	gambiae	43.5	arabiensis	33.9	no flow-cell history on this machine		BACKGROUND	EXCLUDE - reads indistinguishable from empty-barcode background
+combined.barcode77	yes	SLCA020	FBA58185	barcode53	149909	PASS (verified build)	arabiensis	53.0	gambiae	30.7	no flow-cell history on this machine			KEEP - flag: arabiensis-dominant, check species ID
+combined.barcode78	yes	SLCA020	FBA58185	barcode14	66322	PASS (verified build)	arabiensis	52.4	gambiae	30.2	no flow-cell history on this machine			KEEP - flag: arabiensis-dominant, check species ID
+combined.barcode79	yes	SLCA020	FBA58185	barcode81	9897	PASS (verified build)	arabiensis	48.9	gambiae	29.6	no flow-cell history on this machine			KEEP - flag: arabiensis-dominant, check species ID
+SLCA013_BatchCOL2_barcode94_NTC	no	SLCA013_BatchCOL2	FBD61062	barcode94	4	PASS (byte-identical)					NTC	0.25		NTC

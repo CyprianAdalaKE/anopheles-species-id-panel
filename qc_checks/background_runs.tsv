@@ -1,0 +1,15 @@
+run	total_reads	pool_pct_arabiensis	pool_pct_gambiae	pool_pct_coluzzii	pool_pct_funestus	pool_pct_stephensi	pool_pct_coustani	n_barcodes_pool_like_le3500
+An_funestus_08_nov_2024	5812723	64.3	11.4	3.7	14.8	1.1	0.1	1
+Anoph_Speciation	717401	40.4	12.4	8.7	23.0	4.0	0.1	0
+SLCA003_BatchKT	6101833	36.7	18.6	12.0	3.4	7.9	0.7	1
+SLCA010_BatchST	2871091	2.2	1.3	1.0	0.0	94.3	0.0	5
+SLCA010_trial1	15031	2.0	1.4	1.1	0.0	94.1	0.0	7
+SLCA010_trial3	40999	2.3	1.3	0.9	0.0	94.2	0.0	63
+SLCA011	2384539	19.9	12.6	10.7	21.1	10.5	5.5	0
+SLCA012	131804	50.6	31.2	2.2	0.5	2.6	0.1	0
+SLCA013_BatchCOL	543135	21.3	33.9	18.4	13.1	2.2	0.0	0
+SLCA013_BatchCOL2	5817946	20.5	38.4	18.5	13.5	2.2	0.0	0
+SLCA014_BatchINF	1851946	7.5	5.8	3.7	7.1	8.4	0.1	1
+SLCA015_BatchFUN	4384663	3.1	1.7	1.0	87.3	5.5	0.0	1
+SLCA020	2721032	31.2	38.7	21.0	1.7	0.1	0.0	33
+SLCA021	3596728	16.0	12.5	7.9	32.4	20.9	2.7	6

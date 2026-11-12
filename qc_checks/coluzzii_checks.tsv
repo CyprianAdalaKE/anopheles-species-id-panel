@@ -1,0 +1,31 @@
+verified_file	run	raw_barcode	reads	kmer_call	top_pct	second	second_pct	sub_col	sub_gam	sub_ara	L1_to_pool	run_pool(ara/gam/col)	expected_carryover_pct	flag
+combined.barcode02.fastq.gz	Anoph_Speciation	barcode19	17664	coluzzii	39.6	gambiae	33.4	36.62	30.33	24.68	87.0	40/12/9	0.00	
+combined.barcode03.fastq.gz	SLCA013_BatchCOL2	barcode10	58815	coluzzii	39.0	gambiae	36.7	38.49	32.78	23.48	43.5	20/38/18	0.80	
+combined.barcode04.fastq.gz	SLCA013_BatchCOL2	barcode30	3901	coluzzii	32.8	gambiae	30.4	28.01	26.12	22.46	35.5	20/38/18	12.46	
+combined.barcode05.fastq.gz	SLCA013_BatchCOL2	barcode52	29622	coluzzii	35.4	gambiae	32.0	33.78	28.93	29.77	48.7	20/38/18	1.78	
+combined.barcode06.fastq.gz	SLCA013_BatchCOL2	barcode60	17909	coluzzii	40.8	arabiensis	37.5	38.03	19.41	35.08	67.4	20/38/18	1.74	
+combined.barcode07.fastq.gz	SLCA013_BatchCOL2	barcode77	35696	coluzzii	34.5	gambiae	32.6	33.36	30.80	30.76	47.8	20/38/18	0.30	
+combined.barcode08.fastq.gz	SLCA013_BatchCOL2	barcode79	74035	coluzzii	40.2	arabiensis	32.7	38.56	24.42	31.07	59.8	20/38/18	0.43	
+combined.barcode09.fastq.gz	SLCA003_BatchKT	barcode27	117279	coluzzii	37.0	arabiensis	23.5	14.04	7.78	12.96	37.5	37/19/12	0.00	
+combined.barcode10.fastq.gz	SLCA003_BatchKT	barcode38	167313	coluzzii	24.8	arabiensis	22.6	7.00	3.55	9.27	50.1	37/19/12	0.00	
+combined.barcode11.fastq.gz	SLCA003_BatchKT	barcode39	76313	coluzzii	31.1	gambiae	23.6	25.60	19.64	19.00	46.3	37/19/12	0.00	
+combined.barcode13.fastq.gz	SLCA011	barcode56	73008	coluzzii	28.1	funestus	24.1	12.89	7.15	14.90	22.4	20/13/11	0.01	
+combined.barcode14.fastq.gz	SLCA011	barcode58	197805	coluzzii	23.5	funestus	18.2	15.72	11.21	11.40	30.1	20/13/11	0.00	
+combined.barcode15.fastq.gz	SLCA020	barcode04	38554	gambiae	46.7	coluzzii	32.3	29.14	42.57	20.34	24.6	31/39/21		
+combined.barcode16.fastq.gz	SLCA020	barcode05	35757	gambiae	40.5	arabiensis	30.1	26.46	36.32	28.30	12.5	31/39/21		pool-like composition (above background level)
+combined.barcode17.fastq.gz	SLCA020	barcode06	5178	gambiae	39.6	arabiensis	32.2	19.55	28.54	27.05	17.1	31/39/21		
+combined.barcode18.fastq.gz	SLCA020	barcode09	2082	gambiae	40.3	arabiensis	36.2	20.75	37.22	34.82	6.4	31/39/21		BACKGROUND
+combined.barcode19.fastq.gz	SLCA020	barcode11	7167	gambiae	43.1	coluzzii	31.7	29.53	40.41	23.55	19.3	31/39/21		
+combined.barcode20.fastq.gz	SLCA020	barcode12	2477	gambiae	41.8	arabiensis	32.2	22.91	38.63	31.03	2.9	31/39/21		BACKGROUND
+combined.barcode21.fastq.gz	SLCA020	barcode13	68019	gambiae	48.5	arabiensis	29.9	21.18	43.92	28.30	10.1	31/39/21		pool-like composition (above background level)
+combined.barcode22.fastq.gz	SLCA020	barcode15	15691	gambiae	42.2	arabiensis	32.7	22.54	38.79	30.93	3.5	31/39/21		pool-like composition (above background level)
+combined.barcode23.fastq.gz	SLCA020	barcode30	2074	gambiae	41.1	arabiensis	32.8	22.97	37.64	31.42	4.1	31/39/21		BACKGROUND
+combined.barcode24.fastq.gz	SLCA020	barcode33	1070	gambiae	38.4	arabiensis	33.9	23.97	34.74	32.21	8.7	31/39/21		BACKGROUND
+combined.barcode25.fastq.gz	SLCA020	barcode34	2205	gambiae	40.7	arabiensis	32.5	23.35	37.01	31.04	5.2	31/39/21		BACKGROUND
+combined.barcode26.fastq.gz	SLCA020	barcode36	98973	gambiae	51.8	arabiensis	26.2	20.67	46.69	25.38	15.9	31/39/21		
+combined.barcode27.fastq.gz	SLCA020	barcode37	1557	gambiae	39.3	arabiensis	36.3	22.04	35.95	34.60	8.4	31/39/21		BACKGROUND
+combined.barcode28.fastq.gz	SLCA020	barcode38	2064	gambiae	38.9	arabiensis	34.0	23.74	35.93	32.67	7.6	31/39/21		BACKGROUND
+combined.barcode29.fastq.gz	SLCA020	barcode39	2466	gambiae	45.7	arabiensis	30.6	20.77	41.75	29.23	6.3	31/39/21		BACKGROUND
+combined.barcode30.fastq.gz	SLCA020	barcode40	80499	gambiae	66.0	arabiensis	17.8	15.92	59.97	16.00	43.2	31/39/21		
+combined.barcode31.fastq.gz	SLCA020	barcode41	2217	gambiae	39.5	arabiensis	33.4	23.88	36.27	32.05	7.1	31/39/21		BACKGROUND
+combined.barcode32.fastq.gz	SLCA020	barcode42	2915	gambiae	29.4	funestus	29.3	16.56	26.95	22.11	52.9	31/39/21		

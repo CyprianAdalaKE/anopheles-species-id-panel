@@ -1,7 +1,7 @@
 species	n	best_clade_size	species_in_clade	purity	ufboot
-arabiensis	78	160	74	0.46	13
-coluzzii	30	227	30	0.13	58
-coustani	30	198	28	0.14	7
-funestus	79	299	79	0.26	99
-gambiae	78	235	77	0.33	64
-stephensi	79	72	72	1.00	66
+arabiensis	72	219	70	0.32	36
+coluzzii	21	190	19	0.10	9
+coustani	28	219	28	0.13	36
+funestus	77	278	77	0.28	97
+gambiae	76	190	73	0.38	9
+stephensi	75	68	68	1.00	83

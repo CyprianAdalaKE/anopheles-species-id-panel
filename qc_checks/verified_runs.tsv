@@ -1,0 +1,375 @@
+species	verified_file	reads	run	raw_barcode	pred	top_pct	second	second_pct	correct	carryover_flag
+arabiensis	combined.barcode01.fastq.gz	261960	SLCA003_BatchKT	barcode01	arabiensis	73.4	gambiae	15.5	1	low (<1%)
+arabiensis	combined.barcode02.fastq.gz	299603	SLCA003_BatchKT	barcode02	arabiensis	41.6	stephensi	23.1	1	low (<1%)
+arabiensis	combined.barcode03.fastq.gz	6007	Anoph_Speciation	barcode02	arabiensis	61.3	gambiae	21.0	1	low (<1%)
+arabiensis	combined.barcode04.fastq.gz	126732	SLCA003_BatchKT	barcode04	arabiensis	36.1	gambiae	17.7	1	low (<1%)
+arabiensis	combined.barcode05.fastq.gz	150817	SLCA003_BatchKT	barcode05	arabiensis	39.1	gambiae	18.0	1	low (<1%)
+arabiensis	combined.barcode06.fastq.gz	11067	SLCA003_BatchKT	barcode06	arabiensis	34.6	gambiae	26.0	1	low (<1%)
+arabiensis	combined.barcode07.fastq.gz	7189	SLCA003_BatchKT	barcode07	arabiensis	38.1	gambiae	28.1	1	low (<1%)
+arabiensis	combined.barcode08.fastq.gz	9345	NA	NA	arabiensis	56.6	gambiae	20.6	1	no flow-cell history on this machine
+arabiensis	combined.barcode09.fastq.gz	46727	SLCA003_BatchKT	barcode09	arabiensis	30.5	gambiae	16.9	1	low (<1%)
+arabiensis	combined.barcode10.fastq.gz	132895	SLCA003_BatchKT	barcode10	arabiensis	37.1	gambiae	29.7	1	low (<1%)
+arabiensis	combined.barcode11.fastq.gz	16458	Anoph_Speciation	barcode11	arabiensis	53.7	coluzzii	22.9	1	low (<1%)
+arabiensis	combined.barcode12.fastq.gz	2694	Anoph_Speciation	barcode12	arabiensis	54.8	gambiae	27.9	1	low (<1%)
+arabiensis	combined.barcode13.fastq.gz	14208	Anoph_Speciation	barcode13	arabiensis	46.5	coluzzii	29.8	1	low (<1%)
+arabiensis	combined.barcode14.fastq.gz	6067	Anoph_Speciation	barcode14	arabiensis	54.4	coluzzii	23.4	1	low (<1%)
+arabiensis	combined.barcode15.fastq.gz	4791	Anoph_Speciation	barcode15	arabiensis	47.7	gambiae	29.5	1	low (<1%)
+arabiensis	combined.barcode16.fastq.gz	8931	Anoph_Speciation	barcode16	arabiensis	42.6	gambiae	40.0	1	low (<1%)
+arabiensis	combined.barcode17.fastq.gz	5287	Anoph_Speciation	barcode17	arabiensis	58.7	gambiae	20.2	1	low (<1%)
+arabiensis	combined.barcode18.fastq.gz	9983	Anoph_Speciation	barcode18	arabiensis	43.2	gambiae	32.7	1	low (<1%)
+arabiensis	combined.barcode19.fastq.gz	143040	SLCA003_BatchKT	barcode19	arabiensis	23.9	gambiae	21.4	1	low (<1%)
+arabiensis	combined.barcode20.fastq.gz	507266	SLCA003_BatchKT	barcode20	arabiensis	71.3	gambiae	19.3	1	low (<1%)
+arabiensis	combined.barcode21.fastq.gz	381806	SLCA003_BatchKT	barcode21	gambiae	38.2	arabiensis	23.8	0	low (<1%)
+arabiensis	combined.barcode22.fastq.gz	378280	SLCA003_BatchKT	barcode22	gambiae	45.6	arabiensis	27.1	0	low (<1%)
+arabiensis	combined.barcode23.fastq.gz	19363	SLCA003_BatchKT	barcode23	arabiensis	33.5	gambiae	31.5	1	low (<1%)
+arabiensis	combined.barcode24.fastq.gz	47	SLCA003_BatchKT	barcode24	arabiensis	47.8	gambiae	47.8	1	low (<1%)
+arabiensis	combined.barcode25.fastq.gz	7681	Anoph_Speciation	barcode25	arabiensis	76.3	coluzzii	13.6	1	low (<1%)
+arabiensis	combined.barcode26.fastq.gz	13848	Anoph_Speciation	barcode26	arabiensis	72.5	gambiae	17.0	1	low (<1%)
+arabiensis	combined.barcode27.fastq.gz	12183	Anoph_Speciation	barcode27	arabiensis	70.4	gambiae	18.3	1	low (<1%)
+arabiensis	combined.barcode28.fastq.gz	11663	Anoph_Speciation	barcode28	arabiensis	76.7	gambiae	20.4	1	low (<1%)
+arabiensis	combined.barcode29.fastq.gz	9998	Anoph_Speciation	barcode29	arabiensis	54.5	gambiae	14.0	1	low (<1%)
+arabiensis	combined.barcode30.fastq.gz	11891	Anoph_Speciation	barcode30	arabiensis	65.7	gambiae	21.5	1	low (<1%)
+arabiensis	combined.barcode31.fastq.gz	2207	Anoph_Speciation	barcode31	arabiensis	78.3	gambiae	16.4	1	low (<1%)
+arabiensis	combined.barcode32.fastq.gz	14860	Anoph_Speciation	barcode32	arabiensis	79.9	gambiae	19.4	1	low (<1%)
+arabiensis	combined.barcode33.fastq.gz	11593	Anoph_Speciation	barcode33	arabiensis	78.3	gambiae	15.5	1	low (<1%)
+arabiensis	combined.barcode34.fastq.gz	9473	Anoph_Speciation	barcode34	arabiensis	65.7	gambiae	17.8	1	low (<1%)
+arabiensis	combined.barcode35.fastq.gz	11180	Anoph_Speciation	barcode35	arabiensis	77.2	gambiae	17.2	1	low (<1%)
+arabiensis	combined.barcode36.fastq.gz	14780	Anoph_Speciation	barcode36	arabiensis	65.8	gambiae	20.9	1	low (<1%)
+arabiensis	combined.barcode37.fastq.gz	11903	Anoph_Speciation	barcode37	arabiensis	71.8	gambiae	16.3	1	low (<1%)
+arabiensis	combined.barcode38.fastq.gz	8550	Anoph_Speciation	barcode38	arabiensis	72.9	gambiae	22.7	1	low (<1%)
+arabiensis	combined.barcode39.fastq.gz	947	Anoph_Speciation	barcode39	arabiensis	75.7	gambiae	17.1	1	low (<1%)
+arabiensis	combined.barcode40.fastq.gz	5308	Anoph_Speciation	barcode40	arabiensis	71.5	gambiae	16.5	1	low (<1%)
+arabiensis	combined.barcode41.fastq.gz	19852	Anoph_Speciation	barcode41	arabiensis	77.9	gambiae	19.9	1	low (<1%)
+arabiensis	combined.barcode42.fastq.gz	22672	Anoph_Speciation	barcode42	arabiensis	50.1	gambiae	17.3	1	low (<1%)
+arabiensis	combined.barcode43.fastq.gz	23403	Anoph_Speciation	barcode43	arabiensis	69.4	gambiae	19.0	1	low (<1%)
+arabiensis	combined.barcode44.fastq.gz	17971	SLCA003_BatchKT	barcode44	arabiensis	64.9	gambiae	19.2	1	low (<1%)
+arabiensis	combined.barcode45.fastq.gz	147	Anoph_Speciation	barcode45	arabiensis	52.3	gambiae	19.7	1	low (<1%)
+arabiensis	combined.barcode46.fastq.gz	5914	Anoph_Speciation	barcode81	arabiensis	54.3	gambiae	15.6	1	low (<1%)
+arabiensis	combined.barcode47.fastq.gz	8541	SLCA003_BatchKT	barcode47	arabiensis	37.1	gambiae	29.5	1	low (<1%)
+arabiensis	combined.barcode48.fastq.gz	11539	SLCA003_BatchKT	barcode48	arabiensis	37.9	gambiae	27.7	1	low (<1%)
+arabiensis	combined.barcode49.fastq.gz	113433	SLCA003_BatchKT	barcode49	arabiensis	30.8	coluzzii	17.7	1	low (<1%)
+arabiensis	combined.barcode50.fastq.gz	681094	SLCA003_BatchKT	barcode50	arabiensis	63.8	coluzzii	18.6	1	low (<1%)
+arabiensis	combined.barcode51.fastq.gz	326439	SLCA003_BatchKT	barcode51	arabiensis	58.9	gambiae	15.6	1	low (<1%)
+arabiensis	combined.barcode52.fastq.gz	180703	SLCA003_BatchKT	barcode52	arabiensis	69.5	gambiae	18.9	1	low (<1%)
+arabiensis	combined.barcode53.fastq.gz	153099	SLCA003_BatchKT	barcode53	arabiensis	44.9	gambiae	20.9	1	low (<1%)
+arabiensis	combined.barcode54.fastq.gz	14341	Anoph_Speciation	barcode54	arabiensis	32.6	funestus	11.6	1	low (<1%)
+arabiensis	combined.barcode55.fastq.gz	10041	Anoph_Speciation	barcode55	arabiensis	33.4	funestus	17.0	1	low (<1%)
+arabiensis	combined.barcode56.fastq.gz	27696	Anoph_Speciation	barcode56	arabiensis	35.4	funestus	23.5	1	low (<1%)
+arabiensis	combined.barcode57.fastq.gz	10740	SLCA011	barcode57	arabiensis	29.9	funestus	19.5	1	low (<1%)
+arabiensis	combined.barcode59.fastq.gz	5865	SLCA013_BatchCOL	barcode59	arabiensis	72.6	gambiae	20.1	1	low (<1%)
+arabiensis	combined.barcode61.fastq.gz	4479	Anoph_Speciation	barcode92	arabiensis	55.9	coluzzii	23.9	1	low (<1%)
+arabiensis	combined.barcode62.fastq.gz	5236	Anoph_Speciation	barcode03	arabiensis	53.5	gambiae	24.4	1	low (<1%)
+arabiensis	combined.barcode63.fastq.gz	422	Anoph_Speciation	barcode88	arabiensis	39.8	stephensi	29.6	1	low (<1%)
+arabiensis	combined.barcode64.fastq.gz	1143	Anoph_Speciation	barcode82	arabiensis	38.4	stephensi	20.0	1	low (<1%)
+arabiensis	combined.barcode65.fastq.gz	41872	SLCA011	barcode65	arabiensis	30.3	gambiae	23.7	1	low (<1%)
+arabiensis	combined.barcode66.fastq.gz	28886	SLCA011	barcode66	arabiensis	35.8	gambiae	22.7	1	low (<1%)
+arabiensis	combined.barcode67.fastq.gz	4849	SLCA013_BatchCOL	barcode67	arabiensis	38.7	coluzzii	33.2	1	low (<1%)
+arabiensis	combined.barcode68.fastq.gz	4126	SLCA013_BatchCOL	barcode68	arabiensis	45.4	coluzzii	26.9	1	low (<1%)
+arabiensis	combined.barcode69.fastq.gz	160	Anoph_Speciation	barcode69	arabiensis	47.4	gambiae	22.4	1	low (<1%)
+arabiensis	combined.barcode70.fastq.gz	40394	SLCA011	barcode70	arabiensis	26.2	funestus	21.9	1	low (<1%)
+arabiensis	combined.barcode71.fastq.gz	7894	Anoph_Speciation	barcode07	arabiensis	53.3	gambiae	30.8	1	low (<1%)
+arabiensis	combined.barcode72.fastq.gz	7745	Anoph_Speciation	barcode10	arabiensis	50.3	gambiae	18.0	1	low (<1%)
+arabiensis	combined.barcode73.fastq.gz	6974	Anoph_Speciation	barcode73	arabiensis	52.5	gambiae	16.1	1	low (<1%)
+arabiensis	combined.barcode74.fastq.gz	41258	SLCA011	barcode74	arabiensis	27.2	gambiae	27.1	1	low (<1%)
+arabiensis	combined.barcode75.fastq.gz	5485	Anoph_Speciation	barcode75	arabiensis	44.4	stephensi	27.0	1	low (<1%)
+arabiensis	combined.barcode76.fastq.gz	62338	SLCA011	barcode76	arabiensis	45.0	gambiae	16.6	1	low (<1%)
+arabiensis	combined.barcode77.fastq.gz	2401	SLCA011	barcode77	arabiensis	23.8	stephensi	22.3	1	low (<1%)
+arabiensis	combined.barcode78.fastq.gz	5656	Anoph_Speciation	barcode78	arabiensis	55.2	coluzzii	26.3	1	low (<1%)
+arabiensis	combined.barcode79.fastq.gz	492	Anoph_Speciation	barcode79	arabiensis	54.6	coluzzii	25.3	1	low (<1%)
+arabiensis	combined.barcode80.fastq.gz	15670	Anoph_Speciation	barcode80	arabiensis	58.8	gambiae	18.6	1	low (<1%)
+coluzzii	combined.barcode02.fastq.gz	17664	Anoph_Speciation		coluzzii	39.6	gambiae	33.4	1	
+coluzzii	combined.barcode03.fastq.gz	58815	SLCA013_BatchCOL2		coluzzii	39.0	gambiae	36.7	1	
+coluzzii	combined.barcode04.fastq.gz	3901	SLCA013_BatchCOL2		coluzzii	32.8	gambiae	30.4	1	
+coluzzii	combined.barcode05.fastq.gz	29622	SLCA013_BatchCOL2		coluzzii	35.4	gambiae	32.0	1	
+coluzzii	combined.barcode06.fastq.gz	17909	SLCA013_BatchCOL2		coluzzii	40.8	arabiensis	37.5	1	
+coluzzii	combined.barcode07.fastq.gz	35696	SLCA013_BatchCOL2		coluzzii	34.5	gambiae	32.6	1	
+coluzzii	combined.barcode08.fastq.gz	74035	SLCA013_BatchCOL2		coluzzii	40.2	arabiensis	32.7	1	
+coluzzii	combined.barcode09.fastq.gz	117279	SLCA003_BatchKT		coluzzii	37.0	arabiensis	23.5	1	
+coluzzii	combined.barcode10.fastq.gz	167313	SLCA003_BatchKT		coluzzii	24.8	arabiensis	22.6	1	
+coluzzii	combined.barcode11.fastq.gz	76313	SLCA003_BatchKT		coluzzii	31.1	gambiae	23.6	1	
+coluzzii	combined.barcode13.fastq.gz	73008	SLCA011		coluzzii	28.1	funestus	24.1	1	
+coluzzii	combined.barcode14.fastq.gz	197805	SLCA011		coluzzii	23.5	funestus	18.2	1	
+coluzzii	combined.barcode15.fastq.gz	38554	SLCA020	barcode04	gambiae	46.7	coluzzii	32.3	0	
+coluzzii	combined.barcode16.fastq.gz	35757	SLCA020	barcode05	gambiae	40.5	arabiensis	30.1	0	
+coluzzii	combined.barcode17.fastq.gz	5178	SLCA020	barcode06	gambiae	39.6	arabiensis	32.2	0	
+coluzzii	combined.barcode18.fastq.gz	2082	SLCA020	barcode09	gambiae	40.3	arabiensis	36.2	0	
+coluzzii	combined.barcode19.fastq.gz	7167	SLCA020	barcode11	gambiae	43.1	coluzzii	31.7	0	
+coluzzii	combined.barcode20.fastq.gz	2477	SLCA020	barcode12	gambiae	41.8	arabiensis	32.2	0	
+coluzzii	combined.barcode21.fastq.gz	68019	SLCA020	barcode13	gambiae	48.5	arabiensis	29.9	0	
+coluzzii	combined.barcode22.fastq.gz	15691	SLCA020	barcode15	gambiae	42.2	arabiensis	32.7	0	
+coluzzii	combined.barcode23.fastq.gz	2074	SLCA020	barcode30	gambiae	41.1	arabiensis	32.8	0	
+coluzzii	combined.barcode24.fastq.gz	1070	SLCA020	barcode33	gambiae	38.4	arabiensis	33.9	0	
+coluzzii	combined.barcode25.fastq.gz	2205	SLCA020	barcode34	gambiae	40.7	arabiensis	32.5	0	
+coluzzii	combined.barcode26.fastq.gz	98973	SLCA020	barcode36	gambiae	51.8	arabiensis	26.2	0	
+coluzzii	combined.barcode27.fastq.gz	1557	SLCA020	barcode37	gambiae	39.3	arabiensis	36.3	0	
+coluzzii	combined.barcode28.fastq.gz	2064	SLCA020	barcode38	gambiae	38.9	arabiensis	34.0	0	
+coluzzii	combined.barcode29.fastq.gz	2466	SLCA020	barcode39	gambiae	45.7	arabiensis	30.6	0	
+coluzzii	combined.barcode30.fastq.gz	80499	SLCA020	barcode40	gambiae	66.0	arabiensis	17.8	0	
+coluzzii	combined.barcode31.fastq.gz	2217	SLCA020	barcode41	gambiae	39.5	arabiensis	33.4	0	
+coluzzii	combined.barcode32.fastq.gz	2915	SLCA020	barcode42	gambiae	29.4	funestus	29.3	0	
+coustani	combined.barcode01.fastq.gz	115635	SLCA011		coustani	24.3	arabiensis	20.3	1	
+coustani	combined.barcode02.fastq.gz	3459	SLCA011		coustani	53.9	arabiensis	13.7	1	
+coustani	combined.barcode03.fastq.gz	31462	SLCA011		coustani	31.6	arabiensis	18.4	1	
+coustani	combined.barcode04.fastq.gz	56953	SLCA021	barcode02	arabiensis	32.4	funestus	27.3	0	
+coustani	combined.barcode05.fastq.gz	84439	SLCA021	barcode03	funestus	30.7	stephensi	22.4	0	
+coustani	combined.barcode06.fastq.gz	212153	SLCA021	barcode04	funestus	31.8	stephensi	22.4	0	
+coustani	combined.barcode07.fastq.gz	86008	SLCA021	barcode05	funestus	34.9	stephensi	18.5	0	
+coustani	combined.barcode08.fastq.gz	128731	SLCA021	barcode06	funestus	27.7	stephensi	20.9	0	
+coustani	combined.barcode09.fastq.gz	45324	SLCA021	barcode07	funestus	32.1	stephensi	20.3	0	
+coustani	combined.barcode10.fastq.gz	1450	SLCA021	barcode08	funestus	30.0	arabiensis	24.7	0	
+coustani	combined.barcode11.fastq.gz	91270	SLCA021	barcode09	funestus	39.4	stephensi	20.0	0	
+coustani	combined.barcode12.fastq.gz	96097	SLCA021	barcode10	funestus	36.7	stephensi	20.3	0	
+coustani	combined.barcode13.fastq.gz	98090	SLCA021	barcode11	funestus	32.5	stephensi	22.7	0	
+coustani	combined.barcode14.fastq.gz	51464	SLCA021	barcode12	funestus	34.4	stephensi	22.5	0	
+coustani	combined.barcode15.fastq.gz	91055	SLCA021	barcode13	funestus	36.6	stephensi	21.5	0	
+coustani	combined.barcode16.fastq.gz	61952	SLCA021	barcode14	funestus	34.0	stephensi	22.0	0	
+coustani	combined.barcode17.fastq.gz	2939	SLCA021	barcode15	funestus	33.4	stephensi	21.9	0	
+coustani	combined.barcode18.fastq.gz	32374	SLCA021	barcode16	funestus	31.6	gambiae	16.9	0	
+coustani	combined.barcode19.fastq.gz	45652	SLCA021	barcode17	funestus	28.9	stephensi	23.6	0	
+coustani	combined.barcode20.fastq.gz	57455	SLCA021	barcode18	funestus	36.5	stephensi	18.6	0	
+coustani	combined.barcode21.fastq.gz	158474	SLCA021	barcode19	funestus	32.6	stephensi	21.3	0	
+coustani	combined.barcode22.fastq.gz	85068	SLCA021	barcode20	funestus	34.5	stephensi	20.3	0	
+coustani	combined.barcode23.fastq.gz	55204	SLCA021	barcode21	funestus	27.4	stephensi	22.9	0	
+coustani	combined.barcode24.fastq.gz	69310	SLCA021	barcode22	funestus	35.4	stephensi	18.9	0	
+coustani	combined.barcode25.fastq.gz	80219	SLCA021	barcode23	funestus	33.3	stephensi	22.3	0	
+coustani	combined.barcode26.fastq.gz	48610	SLCA021	barcode25	stephensi	29.8	funestus	28.9	0	
+coustani	combined.barcode27.fastq.gz	18263	SLCA021	barcode26	funestus	35.3	stephensi	21.8	0	
+coustani	combined.barcode28.fastq.gz	16672	SLCA021	barcode28	funestus	27.4	stephensi	17.7	0	
+coustani	combined.barcode29.fastq.gz	67016	SLCA021	barcode29	funestus	34.1	stephensi	27.3	0	
+coustani	combined.barcode30.fastq.gz	21258	SLCA021	barcode30	funestus	31.9	stephensi	22.0	0	
+funestus	combined.barcode01.fastq.gz	1212	SLCA015_BatchFUN	barcode02	funestus	2.8	stephensi	0.9	1	CARRY-OVER: sample reads ~ expected carry-over
+funestus	combined.barcode02.fastq.gz	1021	SLCA015_BatchFUN	barcode17	funestus	1.4	-	0	1	CARRY-OVER: sample reads ~ expected carry-over
+funestus	combined.barcode03.fastq.gz	242488	SLCA015_BatchFUN	barcode49	funestus	86.1	arabiensis	5.9	1	low (<1%)
+funestus	combined.barcode04.fastq.gz	442213	SLCA015_BatchFUN	barcode50	funestus	94.4	arabiensis	2.2	1	low (<1%)
+funestus	combined.barcode05.fastq.gz	291750	SLCA015_BatchFUN	barcode51	funestus	91.7	arabiensis	3.8	1	low (<1%)
+funestus	combined.barcode06.fastq.gz	344491	SLCA015_BatchFUN	barcode53	funestus	92.7	stephensi	2.2	1	low (<1%)
+funestus	combined.barcode07.fastq.gz	184386	SLCA015_BatchFUN	barcode54	funestus	90.1	arabiensis	6.1	1	low (<1%)
+funestus	combined.barcode08.fastq.gz	198940	SLCA015_BatchFUN	barcode55	funestus	95.6	arabiensis	1.9	1	low (<1%)
+funestus	combined.barcode09.fastq.gz	184222	SLCA015_BatchFUN	barcode57	funestus	93.5	arabiensis	2.4	1	low (<1%)
+funestus	combined.barcode10.fastq.gz	171467	SLCA015_BatchFUN	barcode58	funestus	93.1	arabiensis	2.5	1	low (<1%)
+funestus	combined.barcode11.fastq.gz	221749	SLCA015_BatchFUN	barcode59	funestus	93.1	arabiensis	3.3	1	low (<1%)
+funestus	combined.barcode12.fastq.gz	175935	SLCA015_BatchFUN	barcode60	funestus	87.0	arabiensis	4.4	1	low (<1%)
+funestus	combined.barcode13.fastq.gz	172023	SLCA015_BatchFUN	barcode61	funestus	94.2	arabiensis	2.6	1	low (<1%)
+funestus	combined.barcode14.fastq.gz	141333	SLCA015_BatchFUN	barcode62	funestus	93.2	arabiensis	2.8	1	low (<1%)
+funestus	combined.barcode15.fastq.gz	214829	SLCA015_BatchFUN	barcode63	funestus	93.1	arabiensis	2.6	1	low (<1%)
+funestus	combined.barcode16.fastq.gz	153583	SLCA015_BatchFUN	barcode64	funestus	76.5	stephensi	20.6	1	low (<1%)
+funestus	combined.barcode17.fastq.gz	153527	SLCA015_BatchFUN	barcode65	funestus	91.4	arabiensis	3.7	1	low (<1%)
+funestus	combined.barcode18.fastq.gz	109789	SLCA015_BatchFUN	barcode66	funestus	95.2	arabiensis	2.3	1	low (<1%)
+funestus	combined.barcode19.fastq.gz	135225	SLCA015_BatchFUN	barcode67	funestus	93.8	arabiensis	2.4	1	low (<1%)
+funestus	combined.barcode20.fastq.gz	190330	SLCA015_BatchFUN	barcode68	funestus	95.5	arabiensis	2.1	1	low (<1%)
+funestus	combined.barcode21.fastq.gz	4356	SLCA015_BatchFUN	barcode69	funestus	86.5	stephensi	8.2	1	moderate (1-5%)
+funestus	combined.barcode22.fastq.gz	74889	SLCA015_BatchFUN	barcode70	funestus	93.5	arabiensis	2.6	1	low (<1%)
+funestus	combined.barcode23.fastq.gz	36580	SLCA015_BatchFUN	barcode71	funestus	85.8	arabiensis	6.2	1	low (<1%)
+funestus	combined.barcode24.fastq.gz	119717	SLCA015_BatchFUN	barcode72	funestus	95.2	arabiensis	1.9	1	low (<1%)
+funestus	combined.barcode25.fastq.gz	91946	SLCA015_BatchFUN	barcode73	funestus	68.1	arabiensis	11.5	1	low (<1%)
+funestus	combined.barcode26.fastq.gz	37343	SLCA015_BatchFUN	barcode75	funestus	73.2	stephensi	12.1	1	low (<1%)
+funestus	combined.barcode27.fastq.gz	116613	SLCA015_BatchFUN	barcode76	funestus	84.3	stephensi	5.6	1	low (<1%)
+funestus	combined.barcode28.fastq.gz	16271	Anoph_Speciation	barcode06	funestus	92.7	arabiensis	5.4	1	low (<1%)
+funestus	combined.barcode29.fastq.gz	2352	Anoph_Speciation	barcode44	funestus	32.4	arabiensis	31.7	1	low (<1%)
+funestus	combined.barcode30.fastq.gz	8107	Anoph_Speciation	barcode49	funestus	84.6	arabiensis	10.9	1	low (<1%)
+funestus	combined.barcode31.fastq.gz	18109	Anoph_Speciation	barcode50	funestus	79.7	arabiensis	8.1	1	low (<1%)
+funestus	combined.barcode32.fastq.gz	8689	Anoph_Speciation	barcode51	funestus	89.1	arabiensis	7.7	1	low (<1%)
+funestus	combined.barcode33.fastq.gz	6535	Anoph_Speciation	barcode52	funestus	66.4	arabiensis	22.8	1	low (<1%)
+funestus	combined.barcode34.fastq.gz	13723	Anoph_Speciation	barcode53	funestus	63.6	arabiensis	25.2	1	low (<1%)
+funestus	combined.barcode35.fastq.gz	9544	Anoph_Speciation	barcode57	funestus	56.0	arabiensis	18.2	1	low (<1%)
+funestus	combined.barcode36.fastq.gz	22279	Anoph_Speciation	barcode58	funestus	95.2	arabiensis	3.3	1	low (<1%)
+funestus	combined.barcode37.fastq.gz	9582	Anoph_Speciation	barcode59	funestus	59.6	arabiensis	31.1	1	low (<1%)
+funestus	combined.barcode38.fastq.gz	3023	Anoph_Speciation	barcode60	funestus	56.7	arabiensis	34.8	1	low (<1%)
+funestus	combined.barcode39.fastq.gz	15054	Anoph_Speciation	barcode61	funestus	86.3	arabiensis	7.8	1	low (<1%)
+funestus	combined.barcode40.fastq.gz	11977	Anoph_Speciation	barcode62	funestus	83.7	arabiensis	12.5	1	low (<1%)
+funestus	combined.barcode41.fastq.gz	11282	Anoph_Speciation	barcode64	funestus	87.1	arabiensis	9.4	1	low (<1%)
+funestus	combined.barcode42.fastq.gz	7170	Anoph_Speciation	barcode65	funestus	98.2	arabiensis	1.1	1	low (<1%)
+funestus	combined.barcode43.fastq.gz	2522	Anoph_Speciation	barcode66	funestus	82.7	arabiensis	10.8	1	low (<1%)
+funestus	combined.barcode44.fastq.gz	18239	Anoph_Speciation	barcode68	funestus	93.3	arabiensis	5.5	1	low (<1%)
+funestus	combined.barcode45.fastq.gz	85482	SLCA013_BatchCOL2	barcode07	funestus	94.6	arabiensis	2.1	1	low (<1%)
+funestus	combined.barcode46.fastq.gz	84772	SLCA013_BatchCOL2	barcode08	funestus	63.8	arabiensis	11.8	1	low (<1%)
+funestus	combined.barcode47.fastq.gz	12193	SLCA013_BatchCOL2	barcode11	funestus	80.5	arabiensis	7.0	1	moderate (1-5%)
+funestus	combined.barcode48.fastq.gz	43780	SLCA013_BatchCOL2	barcode16	funestus	94.9	arabiensis	2.0	1	low (<1%)
+funestus	combined.barcode49.fastq.gz	62336	SLCA013_BatchCOL2	barcode18	funestus	93.6	arabiensis	3.7	1	low (<1%)
+funestus	combined.barcode50.fastq.gz	117800	SLCA013_BatchCOL2	barcode21	funestus	91.9	arabiensis	3.3	1	low (<1%)
+funestus	combined.barcode51.fastq.gz	41885	SLCA013_BatchCOL2	barcode28	funestus	52.4	gambiae	23.0	1	low (<1%)
+funestus	combined.barcode52.fastq.gz	88117	SLCA013_BatchCOL2	barcode46	funestus	64.9	arabiensis	14.4	1	low (<1%)
+funestus	combined.barcode53.fastq.gz	185720	SLCA013_BatchCOL2	barcode48	funestus	95.7	arabiensis	1.6	1	low (<1%)
+funestus	combined.barcode54.fastq.gz	76272	SLCA013_BatchCOL2	barcode53	funestus	87.0	gambiae	4.7	1	low (<1%)
+funestus	combined.barcode55.fastq.gz	14123	SLCA013_BatchCOL2	barcode61	funestus	92.1	arabiensis	2.6	1	moderate (1-5%)
+funestus	combined.barcode56.fastq.gz	58379	SLCA013_BatchCOL2	barcode62	funestus	85.8	arabiensis	5.5	1	moderate (1-5%)
+funestus	combined.barcode57.fastq.gz	28697	SLCA013_BatchCOL2	barcode66	funestus	93.6	arabiensis	2.6	1	moderate (1-5%)
+funestus	combined.barcode58.fastq.gz	41342	SLCA003_BatchKT	barcode11	funestus	38.3	stephensi	14.4	1	low (<1%)
+funestus	combined.barcode59.fastq.gz	127838	SLCA003_BatchKT	barcode18	funestus	55.4	arabiensis	13.7	1	low (<1%)
+funestus	combined.barcode60.fastq.gz	121164	SLCA003_BatchKT	barcode37	funestus	27.3	arabiensis	22.1	1	low (<1%)
+funestus	combined.barcode61.fastq.gz	107524	SLCA011	barcode02	funestus	31.4	coluzzii	20.6	1	low (<1%)
+funestus	combined.barcode62.fastq.gz	81625	SLCA011	barcode03	funestus	27.9	arabiensis	23.6	1	low (<1%)
+funestus	combined.barcode63.fastq.gz	43403	SLCA011	barcode07	funestus	27.7	arabiensis	25.9	1	low (<1%)
+funestus	combined.barcode64.fastq.gz	80673	SLCA011	barcode14	funestus	24.1	arabiensis	22.4	1	low (<1%)
+funestus	combined.barcode65.fastq.gz	12282	SLCA011	barcode19	funestus	25.2	arabiensis	22.1	1	moderate (1-5%)
+funestus	combined.barcode66.fastq.gz	22989	SLCA011	barcode36	funestus	26.5	arabiensis	23.6	1	low (<1%)
+funestus	combined.barcode67.fastq.gz	21162	SLCA011	barcode37	funestus	23.3	stephensi	20.2	1	low (<1%)
+funestus	combined.barcode68.fastq.gz	15922	SLCA011	barcode44	funestus	30.4	arabiensis	25.7	1	low (<1%)
+funestus	combined.barcode69.fastq.gz	40214	SLCA011	barcode45	funestus	24.4	coluzzii	21.2	1	low (<1%)
+funestus	combined.barcode70.fastq.gz	52136	SLCA011	barcode46	funestus	27.5	arabiensis	21.4	1	low (<1%)
+funestus	combined.barcode71.fastq.gz	62579	SLCA011	barcode48	funestus	20.2	arabiensis	14.5	1	low (<1%)
+funestus	combined.barcode72.fastq.gz	24974	SLCA011	barcode49	funestus	28.9	arabiensis	26.4	1	low (<1%)
+funestus	combined.barcode73.fastq.gz	13220	SLCA011	barcode51	funestus	28.3	arabiensis	21.9	1	moderate (1-5%)
+funestus	combined.barcode74.fastq.gz	45453	SLCA011	barcode53	funestus	23.9	gambiae	22.7	1	low (<1%)
+funestus	combined.barcode75.fastq.gz	46145	SLCA011	barcode55	funestus	29.3	arabiensis	25.3	1	low (<1%)
+funestus	combined.barcode76.fastq.gz	33653	SLCA011	barcode61	funestus	40.6	arabiensis	19.4	1	low (<1%)
+funestus	combined.barcode77.fastq.gz	21559	SLCA011	barcode72	funestus	35.4	arabiensis	22.2	1	low (<1%)
+funestus	combined.barcode78.fastq.gz	109278	SLCA011	barcode78	funestus	35.8	arabiensis	16.6	1	low (<1%)
+funestus	combined.barcode79.fastq.gz	131959	SLCA003_BatchKT	barcode12	arabiensis	44.4	gambiae	16.6	0	low (<1%)
+gambiae	combined.barcode01.fastq.gz	51077	SLCA013_BatchCOL2	barcode50	gambiae	72.9	coluzzii	16.6	1	low (<1%)
+gambiae	combined.barcode02.fastq.gz	91596	SLCA013_BatchCOL2	barcode02	gambiae	69.2	arabiensis	19.4	1	low (<1%)
+gambiae	combined.barcode03.fastq.gz	154096	SLCA003_BatchKT	barcode13	gambiae	35.5	arabiensis	34.1	1	low (<1%)
+gambiae	combined.barcode04.fastq.gz	31255	SLCA013_BatchCOL2	barcode27	gambiae	63.7	coluzzii	18.1	1	moderate (1-5%)
+gambiae	combined.barcode05.fastq.gz	314138	SLCA003_BatchKT	barcode15	gambiae	40.0	arabiensis	31.5	1	low (<1%)
+gambiae	combined.barcode06.fastq.gz	185364	SLCA013_BatchCOL2	barcode64	gambiae	63.6	coluzzii	19.5	1	low (<1%)
+gambiae	combined.barcode07.fastq.gz	16848	SLCA013_BatchCOL2	barcode73	gambiae	59.9	arabiensis	21.0	1	moderate (1-5%)
+gambiae	combined.barcode08.fastq.gz	41358	SLCA013_BatchCOL2	barcode74	gambiae	56.8	coluzzii	22.7	1	low (<1%)
+gambiae	combined.barcode09.fastq.gz	44623	SLCA013_BatchCOL2	barcode13	gambiae	58.4	coluzzii	25.9	1	low (<1%)
+gambiae	combined.barcode10.fastq.gz	364127	SLCA003_BatchKT	barcode36	gambiae	45.5	coluzzii	32.1	1	low (<1%)
+gambiae	combined.barcode11.fastq.gz	86584	SLCA003_BatchKT	barcode41	gambiae	41.1	coluzzii	33.6	1	low (<1%)
+gambiae	combined.barcode12.fastq.gz	21399	SLCA013_BatchCOL2	barcode06	gambiae	47.2	arabiensis	36.8	1	moderate (1-5%)
+gambiae	combined.barcode13.fastq.gz	99788	SLCA013_BatchCOL2	barcode09	gambiae	56.3	arabiensis	25.8	1	low (<1%)
+gambiae	combined.barcode14.fastq.gz	15096	SLCA003_BatchKT	barcode43	gambiae	47.6	arabiensis	26.1	1	low (<1%)
+gambiae	combined.barcode15.fastq.gz	51773	SLCA013_BatchCOL2	barcode12	gambiae	64.1	coluzzii	18.7	1	moderate (1-5%)
+gambiae	combined.barcode16.fastq.gz	19327	SLCA003_BatchKT	barcode45	gambiae	36.4	coluzzii	32.8	1	low (<1%)
+gambiae	combined.barcode17.fastq.gz	215741	SLCA013_BatchCOL2	barcode56	gambiae	52.0	coluzzii	26.7	1	low (<1%)
+gambiae	combined.barcode18.fastq.gz	75251	SLCA003_BatchKT	barcode54	gambiae	40.8	arabiensis	32.5	1	low (<1%)
+gambiae	combined.barcode19.fastq.gz	85498	SLCA013_BatchCOL2	barcode17	gambiae	39.6	arabiensis	33.7	1	low (<1%)
+gambiae	combined.barcode20.fastq.gz	92844	SLCA013_BatchCOL2	barcode19	gambiae	57.0	coluzzii	25.5	1	low (<1%)
+gambiae	combined.barcode21.fastq.gz	152774	SLCA003_BatchKT	barcode56	gambiae	42.4	arabiensis	29.4	1	low (<1%)
+gambiae	combined.barcode22.fastq.gz	113734	SLCA013_BatchCOL2	barcode72	gambiae	48.9	arabiensis	25.6	1	low (<1%)
+gambiae	combined.barcode23.fastq.gz	180930	SLCA013_BatchCOL2	barcode22	gambiae	65.7	coluzzii	19.4	1	low (<1%)
+gambiae	combined.barcode24.fastq.gz	301006	SLCA013_BatchCOL2	barcode23	gambiae	48.4	arabiensis	25.7	1	low (<1%)
+gambiae	combined.barcode25.fastq.gz	90655	SLCA013_BatchCOL2	barcode24	gambiae	52.3	arabiensis	23.6	1	low (<1%)
+gambiae	combined.barcode26.fastq.gz	946	SLCA013_BatchCOL2	barcode25	gambiae	30.7	arabiensis	20.7	1	high (>=5%)
+gambiae	combined.barcode27.fastq.gz	75398	SLCA013_BatchCOL2	barcode26	gambiae	46.3	arabiensis	35.8	1	low (<1%)
+gambiae	combined.barcode28.fastq.gz	82897	SLCA013_BatchCOL2	barcode47	gambiae	51.0	arabiensis	30.8	1	low (<1%)
+gambiae	combined.barcode29.fastq.gz	41111	SLCA013_BatchCOL2	barcode29	gambiae	48.9	coluzzii	26.6	1	low (<1%)
+gambiae	combined.barcode30.fastq.gz	101063	SLCA013_BatchCOL2	barcode65	gambiae	46.8	arabiensis	27.1	1	low (<1%)
+gambiae	combined.barcode31.fastq.gz	147856	SLCA013_BatchCOL2	barcode31	gambiae	41.4	coluzzii	31.0	1	low (<1%)
+gambiae	combined.barcode32.fastq.gz	142856	SLCA013_BatchCOL2	barcode32	gambiae	65.7	coluzzii	23.6	1	low (<1%)
+gambiae	combined.barcode33.fastq.gz	66446	SLCA013_BatchCOL2	barcode33	gambiae	37.6	coluzzii	31.6	1	low (<1%)
+gambiae	combined.barcode34.fastq.gz	42973	SLCA013_BatchCOL2	barcode34	gambiae	51.8	coluzzii	34.8	1	low (<1%)
+gambiae	combined.barcode35.fastq.gz	22415	SLCA013_BatchCOL2	barcode35	gambiae	50.7	arabiensis	25.5	1	moderate (1-5%)
+gambiae	combined.barcode36.fastq.gz	16631	SLCA013_BatchCOL2	barcode36	gambiae	57.6	coluzzii	23.9	1	moderate (1-5%)
+gambiae	combined.barcode37.fastq.gz	11490	SLCA013_BatchCOL2	barcode37	gambiae	51.6	arabiensis	24.1	1	moderate (1-5%)
+gambiae	combined.barcode38.fastq.gz	107173	SLCA013_BatchCOL2	barcode38	gambiae	63.4	coluzzii	22.4	1	low (<1%)
+gambiae	combined.barcode39.fastq.gz	61713	SLCA013_BatchCOL2	barcode57	gambiae	45.0	arabiensis	28.5	1	low (<1%)
+gambiae	combined.barcode40.fastq.gz	244333	SLCA013_BatchCOL2	barcode40	gambiae	68.9	arabiensis	16.9	1	low (<1%)
+gambiae	combined.barcode41.fastq.gz	73417	SLCA013_BatchCOL2	barcode41	gambiae	39.5	coluzzii	33.5	1	low (<1%)
+gambiae	combined.barcode42.fastq.gz	78527	SLCA013_BatchCOL2	barcode42	gambiae	41.8	arabiensis	30.9	1	low (<1%)
+gambiae	combined.barcode43.fastq.gz	2512	SLCA013_BatchCOL2	barcode43	gambiae	40.4	arabiensis	28.9	1	high (>=5%)
+gambiae	combined.barcode44.fastq.gz	14165	SLCA013_BatchCOL2	barcode44	gambiae	40.7	arabiensis	38.6	1	moderate (1-5%)
+gambiae	combined.barcode45.fastq.gz	100687	SLCA013_BatchCOL2	barcode45	gambiae	55.3	arabiensis	25.2	1	low (<1%)
+gambiae	combined.barcode46.fastq.gz	55416	SLCA013_BatchCOL2	barcode04	gambiae	48.5	coluzzii	32.1	1	low (<1%)
+gambiae	combined.barcode47.fastq.gz	84676	SLCA013_BatchCOL2	barcode49	gambiae	36.2	arabiensis	35.1	1	low (<1%)
+gambiae	combined.barcode48.fastq.gz	65393	SLCA013_BatchCOL2	barcode54	gambiae	49.5	coluzzii	34.0	1	low (<1%)
+gambiae	combined.barcode49.fastq.gz	1570	SLCA013_BatchCOL2	barcode39	gambiae	34.0	arabiensis	23.7	1	high (>=5%)
+gambiae	combined.barcode51.fastq.gz	65482	SLCA013_BatchCOL2	barcode55	gambiae	39.0	arabiensis	33.9	1	low (<1%)
+gambiae	combined.barcode52.fastq.gz	45123	SLCA011	barcode54	gambiae	25.5	coustani	22.5	1	low (<1%)
+gambiae	combined.barcode53.fastq.gz	86089	NA	NA	gambiae	37.8	coluzzii	35.5	1	no flow-cell history on this machine
+gambiae	combined.barcode54.fastq.gz	51261	SLCA013_BatchCOL2	barcode58	gambiae	55.4	coluzzii	26.5	1	low (<1%)
+gambiae	combined.barcode55.fastq.gz	71854	SLCA013_BatchCOL2	barcode01	gambiae	36.2	arabiensis	34.8	1	low (<1%)
+gambiae	combined.barcode56.fastq.gz	2342	SLCA013_BatchCOL2	barcode20	gambiae	25.9	coluzzii	25.1	1	high (>=5%)
+gambiae	combined.barcode57.fastq.gz	20570	SLCA011	barcode40	gambiae	24.5	arabiensis	24.0	1	low (<1%)
+gambiae	combined.barcode58.fastq.gz	104651	SLCA013_BatchCOL2	barcode63	gambiae	60.2	coluzzii	24.9	1	low (<1%)
+gambiae	combined.barcode59.fastq.gz	68704	SLCA013_BatchCOL2	barcode15	gambiae	38.7	stephensi	29.8	1	low (<1%)
+gambiae	combined.barcode60.fastq.gz	96339	SLCA020	barcode10	gambiae	68.4	arabiensis	21.5	1	no flow-cell history on this machine
+gambiae	combined.barcode61.fastq.gz	44731	SLCA020	barcode03	gambiae	65.6	arabiensis	23.6	1	no flow-cell history on this machine
+gambiae	combined.barcode62.fastq.gz	123834	SLCA020	barcode35	gambiae	60.4	arabiensis	22.7	1	no flow-cell history on this machine
+gambiae	combined.barcode63.fastq.gz	92167	SLCA013_BatchCOL2	barcode69	gambiae	63.3	coluzzii	18.4	1	low (<1%)
+gambiae	combined.barcode64.fastq.gz	62504	SLCA020	barcode01	gambiae	50.7	arabiensis	36.8	1	no flow-cell history on this machine
+gambiae	combined.barcode65.fastq.gz	108434	SLCA013_BatchCOL2	barcode71	gambiae	56.6	arabiensis	23.0	1	low (<1%)
+gambiae	combined.barcode66.fastq.gz	97576	SLCA020	barcode62	gambiae	50.5	coluzzii	36.8	1	no flow-cell history on this machine
+gambiae	combined.barcode67.fastq.gz	57616	SLCA020	barcode49	gambiae	50.3	coluzzii	36.8	1	no flow-cell history on this machine
+gambiae	combined.barcode68.fastq.gz	63460	SLCA020	barcode02	gambiae	50.0	arabiensis	36.8	1	no flow-cell history on this machine
+gambiae	combined.barcode69.fastq.gz	48447	SLCA013_BatchCOL2	barcode75	gambiae	47.7	arabiensis	27.1	1	low (<1%)
+gambiae	combined.barcode70.fastq.gz	87537	SLCA020	barcode67	gambiae	49.8	coluzzii	27.5	1	no flow-cell history on this machine
+gambiae	combined.barcode71.fastq.gz	139537	SLCA013_BatchCOL2	barcode78	gambiae	48.8	coluzzii	29.0	1	low (<1%)
+gambiae	combined.barcode72.fastq.gz	98017	SLCA020	barcode68	gambiae	46.9	arabiensis	28.3	1	no flow-cell history on this machine
+gambiae	combined.barcode73.fastq.gz	7963	SLCA020	barcode16	gambiae	41.9	arabiensis	35.0	1	no flow-cell history on this machine
+gambiae	combined.barcode74.fastq.gz	15077	SLCA020	barcode08	gambiae	41.2	arabiensis	38.1	1	no flow-cell history on this machine
+gambiae	combined.barcode75.fastq.gz	27799	SLCA020	barcode07	gambiae	40.1	arabiensis	39.7	1	no flow-cell history on this machine
+gambiae	combined.barcode76.fastq.gz	2031	SLCA020	barcode31	gambiae	43.5	arabiensis	33.9	1	no flow-cell history on this machine
+gambiae	combined.barcode77.fastq.gz	149909	SLCA020	barcode53	arabiensis	53.0	gambiae	30.7	0	no flow-cell history on this machine
+gambiae	combined.barcode78.fastq.gz	66322	SLCA020	barcode14	arabiensis	52.4	gambiae	30.2	0	no flow-cell history on this machine
+gambiae	combined.barcode79.fastq.gz	9897	SLCA020	barcode81	arabiensis	48.9	gambiae	29.6	0	no flow-cell history on this machine
+stephensi	combined.barcode01.fastq.gz	22094	SLCA010_BatchST	barcode01	stephensi	99.5	coluzzii	0.3	1	low (<1%)
+stephensi	combined.barcode02.fastq.gz	8385	SLCA010_BatchST	barcode02	stephensi	99.6	arabiensis	0.4	1	low (<1%)
+stephensi	combined.barcode03.fastq.gz	33721	SLCA010_BatchST	barcode03	stephensi	99.7	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode04.fastq.gz	34068	SLCA010_BatchST	barcode04	stephensi	99.6	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode05.fastq.gz	24678	SLCA010_BatchST	barcode05	stephensi	99.0	arabiensis	0.5	1	low (<1%)
+stephensi	combined.barcode06.fastq.gz	75771	SLCA010_BatchST	barcode06	stephensi	97.9	coluzzii	0.2	1	low (<1%)
+stephensi	combined.barcode07.fastq.gz	38209	SLCA010_BatchST	barcode07	stephensi	99.7	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode08.fastq.gz	13253	SLCA010_BatchST	barcode08	stephensi	99.8	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode09.fastq.gz	45617	SLCA010_BatchST	barcode09	stephensi	99.2	gambiae	0.4	1	low (<1%)
+stephensi	combined.barcode10.fastq.gz	42508	SLCA010_BatchST	barcode10	stephensi	99.7	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode11.fastq.gz	44990	SLCA010_BatchST	barcode11	gambiae	39.6	arabiensis	28.4	0	low (<1%)
+stephensi	combined.barcode12.fastq.gz	54052	SLCA010_BatchST	barcode12	stephensi	99.6	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode13.fastq.gz	451	SLCA010_BatchST	barcode13	stephensi	100.0	-	0	1	low (<1%)
+stephensi	combined.barcode14.fastq.gz	5397	SLCA010_BatchST	barcode14	stephensi	45.9	gambiae	32.9	1	low (<1%)
+stephensi	combined.barcode16.fastq.gz	401	SLCA010_BatchST	barcode16	stephensi	100.0	-	0	1	low (<1%)
+stephensi	combined.barcode17.fastq.gz	33490	SLCA010_BatchST	barcode17	stephensi	99.7	arabiensis	0.1	1	low (<1%)
+stephensi	combined.barcode18.fastq.gz	34245	SLCA010_BatchST	barcode18	stephensi	99.7	arabiensis	0.1	1	low (<1%)
+stephensi	combined.barcode19.fastq.gz	33130	SLCA010_BatchST	barcode19	stephensi	99.5	arabiensis	0.3	1	low (<1%)
+stephensi	combined.barcode20.fastq.gz	33792	SLCA010_BatchST	barcode20	stephensi	99.7	coluzzii	0.2	1	low (<1%)
+stephensi	combined.barcode21.fastq.gz	27337	SLCA010_BatchST	barcode21	stephensi	99.5	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode22.fastq.gz	42072	SLCA010_BatchST	barcode22	stephensi	99.5	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode23.fastq.gz	46392	SLCA010_BatchST	barcode23	stephensi	99.6	gambiae	0.2	1	low (<1%)
+stephensi	combined.barcode24.fastq.gz	20088	SLCA010_BatchST	barcode24	stephensi	99.5	arabiensis	0.3	1	low (<1%)
+stephensi	combined.barcode25.fastq.gz	29591	SLCA010_BatchST	barcode25	stephensi	99.6	gambiae	0.2	1	low (<1%)
+stephensi	combined.barcode26.fastq.gz	35969	SLCA010_BatchST	barcode26	stephensi	99.9	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode27.fastq.gz	33517	SLCA010_BatchST	barcode27	stephensi	44.0	arabiensis	23.2	1	low (<1%)
+stephensi	combined.barcode28.fastq.gz	32353	SLCA010_BatchST	barcode28	stephensi	99.7	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode29.fastq.gz	27860	SLCA010_BatchST	barcode29	stephensi	99.5	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode30.fastq.gz	44166	SLCA010_BatchST	barcode30	stephensi	99.4	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode31.fastq.gz	34224	SLCA010_BatchST	barcode31	stephensi	99.8	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode32.fastq.gz	50899	SLCA010_BatchST	barcode32	stephensi	98.7	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode33.fastq.gz	25395	SLCA010_BatchST	barcode33	stephensi	96.9	coluzzii	1.2	1	low (<1%)
+stephensi	combined.barcode34.fastq.gz	16104	SLCA010_BatchST	barcode34	stephensi	99.7	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode35.fastq.gz	51523	SLCA010_BatchST	barcode35	stephensi	99.8	arabiensis	0.1	1	low (<1%)
+stephensi	combined.barcode36.fastq.gz	77963	SLCA010_BatchST	barcode36	stephensi	99.8	arabiensis	0.1	1	low (<1%)
+stephensi	combined.barcode37.fastq.gz	29120	SLCA010_BatchST	barcode37	stephensi	98.7	gambiae	0.6	1	low (<1%)
+stephensi	combined.barcode38.fastq.gz	93466	SLCA010_BatchST	barcode38	stephensi	95.5	gambiae	3.3	1	low (<1%)
+stephensi	combined.barcode39.fastq.gz	22671	SLCA010_BatchST	barcode39	stephensi	98.4	arabiensis	1.2	1	low (<1%)
+stephensi	combined.barcode40.fastq.gz	29916	SLCA010_BatchST	barcode40	stephensi	98.9	gambiae	0.4	1	low (<1%)
+stephensi	combined.barcode41.fastq.gz	27924	SLCA010_BatchST	barcode41	stephensi	99.7	arabiensis	0.1	1	low (<1%)
+stephensi	combined.barcode42.fastq.gz	20833	SLCA010_BatchST	barcode42	stephensi	99.5	coluzzii	0.2	1	low (<1%)
+stephensi	combined.barcode43.fastq.gz	30554	SLCA010_BatchST	barcode43	stephensi	99.7	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode44.fastq.gz	31017	SLCA010_BatchST	barcode44	stephensi	99.6	gambiae	0.2	1	low (<1%)
+stephensi	combined.barcode45.fastq.gz	51582	SLCA010_BatchST	barcode45	stephensi	98.9	gambiae	0.5	1	low (<1%)
+stephensi	combined.barcode46.fastq.gz	50244	SLCA010_BatchST	barcode46	stephensi	99.8	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode47.fastq.gz	33929	SLCA010_BatchST	barcode47	stephensi	95.5	gambiae	2.2	1	low (<1%)
+stephensi	combined.barcode48.fastq.gz	35584	SLCA010_BatchST	barcode48	stephensi	99.5	arabiensis	0.3	1	low (<1%)
+stephensi	combined.barcode49.fastq.gz	49203	SLCA010_BatchST	barcode49	stephensi	99.7	gambiae	0.2	1	low (<1%)
+stephensi	combined.barcode50.fastq.gz	33193	SLCA010_BatchST	barcode50	stephensi	99.4	arabiensis	0.3	1	low (<1%)
+stephensi	combined.barcode51.fastq.gz	34298	SLCA010_BatchST	barcode51	stephensi	99.5	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode52.fastq.gz	47519	SLCA010_BatchST	barcode52	stephensi	99.6	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode53.fastq.gz	59400	SLCA010_BatchST	barcode53	stephensi	99.6	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode54.fastq.gz	48862	SLCA010_BatchST	barcode54	stephensi	86.4	arabiensis	5.5	1	low (<1%)
+stephensi	combined.barcode55.fastq.gz	40519	SLCA010_BatchST	barcode55	stephensi	99.8	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode56.fastq.gz	53430	SLCA010_BatchST	barcode56	stephensi	99.4	arabiensis	0.5	1	low (<1%)
+stephensi	combined.barcode57.fastq.gz	17116	SLCA010_BatchST	barcode57	stephensi	99.5	gambiae	0.3	1	low (<1%)
+stephensi	combined.barcode58.fastq.gz	47038	SLCA010_BatchST	barcode58	stephensi	98.8	arabiensis	0.5	1	low (<1%)
+stephensi	combined.barcode59.fastq.gz	49329	SLCA010_BatchST	barcode59	stephensi	99.6	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode60.fastq.gz	27955	SLCA010_BatchST	barcode60	stephensi	99.7	gambiae	0.1	1	low (<1%)
+stephensi	combined.barcode61.fastq.gz	50218	SLCA010_BatchST	barcode61	stephensi	95.8	gambiae	1.7	1	low (<1%)
+stephensi	combined.barcode62.fastq.gz	63595	SLCA010_BatchST	barcode62	stephensi	98.7	gambiae	0.2	1	low (<1%)
+stephensi	combined.barcode63.fastq.gz	64044	SLCA010_BatchST	barcode63	stephensi	99.7	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode64.fastq.gz	35300	SLCA010_BatchST	barcode64	stephensi	99.2	coluzzii	0.3	1	low (<1%)
+stephensi	combined.barcode65.fastq.gz	39249	SLCA010_BatchST	barcode65	stephensi	99.5	arabiensis	0.3	1	low (<1%)
+stephensi	combined.barcode66.fastq.gz	31539	SLCA010_BatchST	barcode66	stephensi	99.6	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode67.fastq.gz	34205	SLCA010_BatchST	barcode67	stephensi	99.4	coluzzii	0.3	1	low (<1%)
+stephensi	combined.barcode68.fastq.gz	46508	SLCA010_BatchST	barcode68	stephensi	99.6	gambiae	0.2	1	low (<1%)
+stephensi	combined.barcode69.fastq.gz	5468	SLCA010_BatchST	barcode69	stephensi	99.5	arabiensis	0.3	1	low (<1%)
+stephensi	combined.barcode70.fastq.gz	39610	SLCA010_BatchST	barcode70	stephensi	99.7	coluzzii	0.1	1	low (<1%)
+stephensi	combined.barcode71.fastq.gz	48926	SLCA010_BatchST	barcode71	stephensi	99.7	gambiae	0.2	1	low (<1%)
+stephensi	combined.barcode72.fastq.gz	49226	SLCA010_BatchST	barcode72	stephensi	99.7	coluzzii	0.2	1	low (<1%)
+stephensi	combined.barcode73.fastq.gz	32832	SLCA010_BatchST	barcode73	stephensi	99.3	arabiensis	0.3	1	low (<1%)
+stephensi	combined.barcode74.fastq.gz	808	SLCA010_BatchST	barcode74	stephensi	90.9	gambiae	3.1	1	low (<1%)
+stephensi	combined.barcode75.fastq.gz	33682	SLCA010_BatchST	barcode75	stephensi	99.8	arabiensis	0.1	1	low (<1%)
+stephensi	combined.barcode76.fastq.gz	47705	SLCA010_BatchST	barcode76	arabiensis	77.7	gambiae	11.5	0	low (<1%)
+stephensi	combined.barcode77.fastq.gz	9654	SLCA010_BatchST	barcode77	stephensi	99.7	coluzzii	0.2	1	low (<1%)
+stephensi	combined.barcode78.fastq.gz	69930	SLCA010_BatchST	barcode78	stephensi	99.6	arabiensis	0.2	1	low (<1%)
+stephensi	combined.barcode79.fastq.gz	29058	SLCA010_BatchST	barcode79	stephensi	99.7	arabiensis	0.1	1	low (<1%)
+stephensi	combined.barcode80.fastq.gz	528	SLCA010_BatchST	barcode80	stephensi	95.1	coluzzii	2.7	1	low (<1%)

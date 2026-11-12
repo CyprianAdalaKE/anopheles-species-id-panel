@@ -9,7 +9,7 @@ HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 from style import SP, COL, INK, INK2, GRID, it
 R = os.path.join(os.path.dirname(HERE), "analysis_verified/pca/results")
 plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 9, "axes.edgecolor": INK2})
-EVR_ALL, EVR_CX = (49.1, 22.2), (26.7, 10.3)
+EVR_ALL, EVR_CX = (48.9, 22.6), (27.2, 10.7)
 
 def pca_plot(f, species, evr, out, n_snps):
     d = pd.read_csv(f"{R}/{f}", sep="\t")
@@ -23,8 +23,8 @@ def pca_plot(f, species, evr, out, n_snps):
     ax.legend(frameon=False, fontsize=8, loc="best", title=f"{len(d)} samples, {n_snps} SNPs", title_fontsize=8)
     fig.savefig(f"{HERE}/{out}", dpi=300, facecolor="white"); return d
 
-pca_plot("pca_scores_filtered.tsv", SP, EVR_ALL, "figure11_pca_all.png", 980)
-pca_plot("pca_scores_complex_only.tsv", ["arabiensis", "coluzzii", "gambiae"], EVR_CX, "figure12_pca_complex.png", 893)
+pca_plot("pca_scores_filtered.tsv", SP, EVR_ALL, "figure11_pca_all.png", 988)
+pca_plot("pca_scores_complex_only.tsv", ["arabiensis", "coluzzii", "gambiae"], EVR_CX, "figure12_pca_complex.png", 895)
 
 f = pd.read_csv(f"{R}/locus_fst_table.tsv", sep="\t").set_index("locus")
 pairs = [("gambiae-coluzzii", "gambiae–coluzzii"), ("gambiae-arabiensis", "gambiae–arabiensis"), ("coluzzii-arabiensis", "coluzzii–arabiensis")]
