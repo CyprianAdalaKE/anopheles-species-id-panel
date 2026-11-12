@@ -3,9 +3,23 @@
   "upload_type": "software",
   "license": "MIT",
   "creators": [
-    {"name": "Guya, Cyprian Adala", "affiliation": "Jaramogi Oginga Odinga University of Science and Technology; Kenya Medical Research Institute"},
-    {"name": "Hendry, Jason", "affiliation": "Max Planck Institute for Infection Biology"}
+    {
+      "name": "Guya, Cyprian Adala",
+      "affiliation": "Jaramogi Oginga Odinga University of Science and Technology; Kenya Medical Research Institute"
+    },
+    {
+      "name": "Hendry, Jason",
+      "affiliation": "Max Planck Institute for Infection Biology"
+    }
   ],
-  "keywords": ["Anopheles", "Plasmodium", "nanopore", "amplicon sequencing", "species identification", "malaria vector surveillance"],
-  "description": "Scripts, small input files and summary tables for the Anopheles species-identification and Plasmodium detection nanopore amplicon panel manuscript (submitted to BMC Genomics). Sequence data: NCBI SRA BioProject PRJNA1517867."
+  "keywords": [
+    "Anopheles",
+    "Plasmodium",
+    "nanopore",
+    "amplicon sequencing",
+    "species identification",
+    "malaria vector surveillance"
+  ],
+  "description": "Scripts, small input files and summary tables for the Anopheles species-identification and Plasmodium detection nanopore amplicon panel manuscript (submitted to BMC Genomics). Results are for the 349-specimen evaluation set (374 sequenced; 25 excluded by quality control), including run, carry-over and background quality-control checks. Sequence data: NCBI SRA BioProject PRJNA1517867.",
+  "version": "1.0.0"
 }
