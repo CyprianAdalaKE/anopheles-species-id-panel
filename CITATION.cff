@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "Analysis code for: A targeted nanopore amplicon sequencing panel for identification of six Anopheles species, with an evaluation of integrated Plasmodium detection"
+type: software
+license: MIT
+repository-code: "https://github.com/CyprianAdalaKE/anopheles-species-id-panel"
+version: "1.0.0"
+date-released: "2026-11-06"
+authors:
+  - family-names: Guya
+    given-names: Cyprian Adala
+  - family-names: Hendry
+    given-names: Jason
+keywords: [Anopheles, Plasmodium, nanopore, amplicon sequencing, species identification, malaria vector surveillance]

@@ -14,7 +14,7 @@ PANEL_DIR="${PANEL_DIR:-$(cd "$(dirname "$0")" && pwd)}"  # repo/data root; over
 BASE="$PANEL_DIR"
 DB="${KRAKEN_DB:?set KRAKEN_DB to the Kraken2 database directory}"
 OUT_DIR="$BASE/kraken_results"
-THREADS=4
+THREADS=16
 READ_LEN=100
 BRACKEN_LEVEL="S"
 BRACKEN_BIN="${BRACKEN_BIN:-bracken}"
@@ -76,15 +76,20 @@ for dir in "${!SOURCE_DIRS[@]}"; do
                 "$f" > /dev/null
         fi
 
-        # Bracken re-estimates abundance at species level using the kraken report
-        "$BRACKEN_BIN" \
+        # Bracken re-estimates abundance at species level using the kraken report.
+        # Samples with too few classified reads (amplification failures) make Bracken
+        # exit non-zero; log them and carry on rather than aborting the whole run.
+        if ! "$BRACKEN_BIN" \
             -d "$DB" \
             -i "$kreport" \
             -o "$bracken_out" \
             -w "$out_dir/${sample}_bracken.kreport" \
             -r "$READ_LEN" \
             -l "$BRACKEN_LEVEL" \
-            -t 10
+            -t 10 > /dev/null 2>&1; then
+            echo "    WARNING: Bracken failed for $label/$sample (too few classified reads?)"
+            echo -e "${label}\t${sample}" >> "$OUT_DIR/bracken_failed.tsv"
+        fi
     done
 done
 

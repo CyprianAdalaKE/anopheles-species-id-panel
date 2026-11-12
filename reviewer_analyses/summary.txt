@@ -1,0 +1,55 @@
+== bracken100: six-species 88.0% (307/349); gam+col merged 90.5% (316)
+true\pred    arabiensis   coluzzii   coustani   funestus    gambiae  stephensi       none
+arabiensis           70          0          0          0          2          0          0
+coluzzii              0         12          0          0          9          0          0
+coustani              1          0          3         23          0          1          0
+funestus              1          0          0         76          0          0          0
+gambiae               3          0          0          0         73          0          0
+stephensi             1          0          0          0          1         73          0
+== bracken900: six-species 86.0% (300/349); gam+col merged 88.8% (310)
+true\pred    arabiensis   coluzzii   coustani   funestus    gambiae  stephensi       none
+arabiensis           67          0          0          0          5          0          0
+coluzzii              1         10          0          0         10          0          0
+coustani              1          0          3         23          0          1          0
+funestus              1          0          0         74          2          0          0
+gambiae               3          0          0          0         73          0          0
+stephensi             1          0          0          0          1         73          0
+== kraken_vote_call: six-species 83.7% (292/349); gam+col merged 86.5% (302)
+true\pred    arabiensis   coluzzii   coustani   funestus    gambiae  stephensi       none
+arabiensis           69          0          0          1          2          0          0
+coluzzii              2          7          0          2         10          0          0
+coustani              2          0          1         25          0          0          0
+funestus              3          0          0         73          0          1          0
+gambiae               6          0          0          0         69          1          0
+stephensi             1          0          0          0          1         73          0
+== align_call: six-species 65.9% (230/349); gam+col merged 75.6% (264)
+true\pred    arabiensis   coluzzii   coustani   funestus    gambiae  stephensi       none
+arabiensis           30         24          0          3         11          4          0
+coluzzii              0         14          0          0          5          2          0
+coustani              0          1          2         25          0          0          0
+funestus              1          9          0         65          0          2          0
+gambiae               1         29          0          0         46          0          0
+stephensi             1          1          0          0          0         73          0
+
+== Mean read identity (%) to each species reference, by true species (median of per-sample means)
+true         arabiensis   coluzzii   coustani   funestus    gambiae  stephensi
+arabiensis        94.59      94.73      79.30      77.50      94.91      78.18
+coluzzii          95.29      95.86      78.71      77.32      95.97      77.74
+coustani          85.02      85.17      80.72      85.25      85.31      82.75
+funestus          79.77      80.14      80.05      94.98      80.05      80.49
+gambiae           95.45      96.05      78.48      76.73      96.20      77.39
+stephensi         80.10      80.04      82.85      80.33      80.38      96.61
+
+== Per-locus sample-level accuracy (vote of reads at that locus; samples with >=10 reads at the locus)
+locus           n  align%  kraken%  align% by species arab colu cous fune gamb step   LOLO align% / kraken%
+AGAP001804    349    61.9     54.7    49    5   25   53   78   97   61.6 (-4.3) / 81.7 (-2.0)
+AGAP001805    348    64.4     66.7    42   65    0   74   67   97   61.9 (-4.0) / 80.8 (-2.9)
+AGAP002141    349    51.0     77.7    28   90    0   78   11   95   68.5 (+2.6) / 75.6 (-8.0)
+AGAP002151    349    40.1     41.5    92    0    0    0    0   99   64.2 (-1.7) / 81.1 (-2.6)
+AGAP003240    314    57.3     54.5    40   94    0   96    0  100   65.9 (+0.0) / 83.4 (-0.3)
+AGAP003262    283    16.6      9.2     1   52    0    0   46    0   66.8 (+0.9) / 81.1 (-2.6)
+AGAP004422    338    64.5     61.2    44    5    0   64   92   95   64.5 (-1.4) / 82.2 (-1.4)
+AGAP004522    323    61.9     58.8    60    6    0   69   56   99   65.6 (-0.3) / 83.4 (-0.3)
+AGAP005134    349    60.2     73.1    51   71    7   95   13   97   65.3 (-0.6) / 82.8 (-0.9)
+AGAP007827    349    64.5     65.3     4    0    4   96   97   97   57.6 (-8.3) / 76.8 (-6.9)
+all loci: align 65.9%, kraken vote 83.7%

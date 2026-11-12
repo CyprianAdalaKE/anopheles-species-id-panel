@@ -1,0 +1,14 @@
+analysis	species	n	TP	sensitivity_%	sens_95CI	TN/negatives	specificity_%	spec_95CI	FP	PPV_%
+Six species	arabiensis	72	70	97.2	90.4-99.2	271/277	97.8	95.4-99.0	6	92.1
+Six species	coluzzii	21	12	57.1	36.5-75.5	328/328	100.0	98.8-100.0	0	100.0
+Six species	coustani	28	3	10.7	3.7-27.2	321/321	100.0	98.8-100.0	0	100.0
+Six species	funestus	77	76	98.7	93.0-99.8	249/272	91.5	87.6-94.3	23	76.8
+Six species	gambiae	76	73	96.1	89.0-98.6	261/273	95.6	92.5-97.5	12	85.9
+Six species	stephensi	75	73	97.3	90.8-99.3	273/274	99.6	98.0-99.9	1	98.6
+Six species	OVERALL ACCURACY	349	307	88.0	84.1-91.0					
+An. gambiae s.s./An. coluzzii merged	arabiensis	72	70	97.2	90.4-99.2	271/277	97.8	95.4-99.0	6	92.1
+An. gambiae s.s./An. coluzzii merged	gambiae/coluzzii	97	94	96.9	91.3-98.9	249/252	98.8	96.6-99.6	3	96.9
+An. gambiae s.s./An. coluzzii merged	coustani	28	3	10.7	3.7-27.2	321/321	100.0	98.8-100.0	0	100.0
+An. gambiae s.s./An. coluzzii merged	funestus	77	76	98.7	93.0-99.8	249/272	91.5	87.6-94.3	23	76.8
+An. gambiae s.s./An. coluzzii merged	stephensi	75	73	97.3	90.8-99.3	273/274	99.6	98.0-99.9	1	98.6
+An. gambiae s.s./An. coluzzii merged	OVERALL ACCURACY	349	316	90.5	87.0-93.2					

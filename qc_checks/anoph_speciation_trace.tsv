@@ -1,0 +1,70 @@
+folder	file	reads	read_ids_in_raw	seq_identical	raw_source(top3)	n_sources	status
+arabiensis	combined.barcode03	6007	6007	6007	Anoph_Speciation/barcode02(6007)	1	PASS
+arabiensis	combined.barcode08	9345	0	0		0	NO_MATCH
+arabiensis	combined.barcode11	16458	16458	16458	Anoph_Speciation/barcode11(16458)	1	PASS
+arabiensis	combined.barcode12	2694	2694	2694	Anoph_Speciation/barcode12(2694)	1	PASS
+arabiensis	combined.barcode13	14208	14208	14208	Anoph_Speciation/barcode13(14208)	1	PASS
+arabiensis	combined.barcode14	6067	6067	6067	Anoph_Speciation/barcode14(6067)	1	PASS
+arabiensis	combined.barcode15	4791	4791	4791	Anoph_Speciation/barcode15(4791)	1	PASS
+arabiensis	combined.barcode16	8931	8931	8931	Anoph_Speciation/barcode16(8931)	1	PASS
+arabiensis	combined.barcode17	5287	5287	5287	Anoph_Speciation/barcode17(5287)	1	PASS
+arabiensis	combined.barcode18	9983	9983	9983	Anoph_Speciation/barcode18(9983)	1	PASS
+arabiensis	combined.barcode25	7681	7681	7681	Anoph_Speciation/barcode25(7681)	1	PASS
+arabiensis	combined.barcode26	13848	13848	13848	Anoph_Speciation/barcode26(13848)	1	PASS
+arabiensis	combined.barcode27	12183	12183	12183	Anoph_Speciation/barcode27(12183)	1	PASS
+arabiensis	combined.barcode28	11663	11663	11663	Anoph_Speciation/barcode28(11663)	1	PASS
+arabiensis	combined.barcode29	9998	9998	9998	Anoph_Speciation/barcode29(9998)	1	PASS
+arabiensis	combined.barcode30	11891	11891	11891	Anoph_Speciation/barcode30(11891)	1	PASS
+arabiensis	combined.barcode31	2207	2207	2207	Anoph_Speciation/barcode31(2207)	1	PASS
+arabiensis	combined.barcode32	14860	14860	14860	Anoph_Speciation/barcode32(14860)	1	PASS
+arabiensis	combined.barcode33	11593	11593	11593	Anoph_Speciation/barcode33(11593)	1	PASS
+arabiensis	combined.barcode34	9473	9473	9473	Anoph_Speciation/barcode34(9473)	1	PASS
+arabiensis	combined.barcode35	11180	11180	11180	Anoph_Speciation/barcode35(11180)	1	PASS
+arabiensis	combined.barcode36	14780	14780	14780	Anoph_Speciation/barcode36(14780)	1	PASS
+arabiensis	combined.barcode37	11903	11903	11903	Anoph_Speciation/barcode37(11903)	1	PASS
+arabiensis	combined.barcode38	8550	8550	8550	Anoph_Speciation/barcode38(8550)	1	PASS
+arabiensis	combined.barcode39	947	947	947	Anoph_Speciation/barcode39(947)	1	PASS
+arabiensis	combined.barcode40	5308	5308	5308	Anoph_Speciation/barcode40(5308)	1	PASS
+arabiensis	combined.barcode41	19852	19852	19852	Anoph_Speciation/barcode41(19852)	1	PASS
+arabiensis	combined.barcode42	22672	22672	22672	Anoph_Speciation/barcode42(22672)	1	PASS
+arabiensis	combined.barcode43	23403	23403	23403	Anoph_Speciation/barcode43(23403)	1	PASS
+arabiensis	combined.barcode45	147	147	147	Anoph_Speciation/barcode45(147)	1	PASS
+arabiensis	combined.barcode46	5914	5914	5914	Anoph_Speciation/barcode81(5914)	1	PASS
+arabiensis	combined.barcode54	14341	14341	14341	Anoph_Speciation/barcode54(14341)	1	PASS
+arabiensis	combined.barcode55	10041	10041	10041	Anoph_Speciation/barcode55(10041)	1	PASS
+arabiensis	combined.barcode56	27696	27696	27696	Anoph_Speciation/barcode56(27696)	1	PASS
+arabiensis	combined.barcode58	46488	0	0		0	NO_MATCH
+arabiensis	combined.barcode60	5801	0	0		0	NO_MATCH
+arabiensis	combined.barcode61	4479	4479	4479	Anoph_Speciation/barcode92(4479)	1	PASS
+arabiensis	combined.barcode62	5236	5236	5236	Anoph_Speciation/barcode03(5236)	1	PASS
+arabiensis	combined.barcode63	422	422	422	Anoph_Speciation/barcode88(422)	1	PASS
+arabiensis	combined.barcode64	1143	1143	1143	Anoph_Speciation/barcode82(1143)	1	PASS
+arabiensis	combined.barcode69	160	160	160	Anoph_Speciation/barcode69(160)	1	PASS
+arabiensis	combined.barcode71	7894	7894	7894	Anoph_Speciation/barcode07(7894)	1	PASS
+arabiensis	combined.barcode72	7745	7745	7745	Anoph_Speciation/barcode10(7745)	1	PASS
+arabiensis	combined.barcode73	6974	6974	6974	Anoph_Speciation/barcode73(6974)	1	PASS
+arabiensis	combined.barcode75	5485	5485	5485	Anoph_Speciation/barcode75(5485)	1	PASS
+arabiensis	combined.barcode78	5656	5656	5656	Anoph_Speciation/barcode78(5656)	1	PASS
+arabiensis	combined.barcode79	492	492	492	Anoph_Speciation/barcode79(492)	1	PASS
+arabiensis	combined.barcode80	15670	15670	15670	Anoph_Speciation/barcode80(15670)	1	PASS
+coluzzii_rebuilt	combined.barcode02.fastq	17664	17664	17664	Anoph_Speciation/barcode19(17664)	1	PASS
+coluzzii_rebuilt	combined.barcode12.fastq	38904	0	0		0	NO_MATCH
+funestus	combined.barcode28	16271	16271	16271	Anoph_Speciation/barcode06(16271)	1	PASS
+funestus	combined.barcode29	2352	2352	2352	Anoph_Speciation/barcode44(2352)	1	PASS
+funestus	combined.barcode30	8107	8107	8107	Anoph_Speciation/barcode49(8107)	1	PASS
+funestus	combined.barcode31	18109	18109	18109	Anoph_Speciation/barcode50(18109)	1	PASS
+funestus	combined.barcode32	8689	8689	8689	Anoph_Speciation/barcode51(8689)	1	PASS
+funestus	combined.barcode33	6535	6535	6535	Anoph_Speciation/barcode52(6535)	1	PASS
+funestus	combined.barcode34	13723	13723	13723	Anoph_Speciation/barcode53(13723)	1	PASS
+funestus	combined.barcode35	9544	9544	9544	Anoph_Speciation/barcode57(9544)	1	PASS
+funestus	combined.barcode36	22279	22279	22279	Anoph_Speciation/barcode58(22279)	1	PASS
+funestus	combined.barcode37	9582	9582	9582	Anoph_Speciation/barcode59(9582)	1	PASS
+funestus	combined.barcode38	3023	3023	3023	Anoph_Speciation/barcode60(3023)	1	PASS
+funestus	combined.barcode39	15054	15054	15054	Anoph_Speciation/barcode61(15054)	1	PASS
+funestus	combined.barcode40	11977	11977	11977	Anoph_Speciation/barcode62(11977)	1	PASS
+funestus	combined.barcode41	11282	11282	11282	Anoph_Speciation/barcode64(11282)	1	PASS
+funestus	combined.barcode42	7170	7170	7170	Anoph_Speciation/barcode65(7170)	1	PASS
+funestus	combined.barcode43	2522	2522	2522	Anoph_Speciation/barcode66(2522)	1	PASS
+funestus	combined.barcode44	18239	18239	18239	Anoph_Speciation/barcode68(18239)	1	PASS
+gambiae	combined.barcode50	11420	0	0		0	NO_MATCH
+gambiae	combined.barcode53	86089	0	0		0	NO_MATCH

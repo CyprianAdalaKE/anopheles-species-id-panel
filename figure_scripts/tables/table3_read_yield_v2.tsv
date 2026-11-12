@@ -1,0 +1,8 @@
+group	n_samples	total_reads	mean_reads_per_sample	mean_read_length_bp
+arabiensis	72	4760129	66112.9	907.8
+gambiae	76	6450842	84879.5	948.5
+funestus	77	6550832	85075.7	897.1
+coluzzii	21	1201401	57209.6	909.6
+coustani	28	2009667	71773.8	896.8
+stephensi	75	2868304	38244.1	991.4
+infectivity	50	1843947	36878.9	867.0

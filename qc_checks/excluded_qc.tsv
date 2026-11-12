@@ -1,0 +1,24 @@
+species	file	reason
+coluzzii	combined.barcode18.fastq.gz	cross-barcode background (SLCA020)
+coluzzii	combined.barcode20.fastq.gz	cross-barcode background (SLCA020)
+coluzzii	combined.barcode23.fastq.gz	cross-barcode background (SLCA020)
+coluzzii	combined.barcode24.fastq.gz	cross-barcode background (SLCA020)
+coluzzii	combined.barcode25.fastq.gz	cross-barcode background (SLCA020)
+coluzzii	combined.barcode27.fastq.gz	cross-barcode background (SLCA020)
+coluzzii	combined.barcode28.fastq.gz	cross-barcode background (SLCA020)
+coluzzii	combined.barcode29.fastq.gz	cross-barcode background (SLCA020)
+coluzzii	combined.barcode31.fastq.gz	cross-barcode background (SLCA020)
+arabiensis	combined.barcode24.fastq.gz	<1,000 reads
+arabiensis	combined.barcode39.fastq.gz	<1,000 reads
+arabiensis	combined.barcode45.fastq.gz	<1,000 reads
+arabiensis	combined.barcode63.fastq.gz	<1,000 reads
+arabiensis	combined.barcode69.fastq.gz	<1,000 reads
+arabiensis	combined.barcode79.fastq.gz	<1,000 reads
+gambiae	combined.barcode26.fastq.gz	<1,000 reads
+gambiae	combined.barcode76.fastq.gz	cross-barcode background (SLCA020)
+stephensi	combined.barcode13.fastq.gz	<1,000 reads
+stephensi	combined.barcode16.fastq.gz	<1,000 reads
+stephensi	combined.barcode74.fastq.gz	<1,000 reads
+stephensi	combined.barcode80.fastq.gz	<1,000 reads
+coustani	combined.barcode10.fastq.gz	cross-barcode background (SLCA021)
+coustani	combined.barcode17.fastq.gz	cross-barcode background (SLCA021)

@@ -1,0 +1,11 @@
+{
+  "title": "Analysis code for: A targeted nanopore amplicon sequencing panel for identification of six Anopheles species, with an evaluation of integrated Plasmodium detection",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Guya, Cyprian Adala", "affiliation": "Jaramogi Oginga Odinga University of Science and Technology; Kenya Medical Research Institute"},
+    {"name": "Hendry, Jason", "affiliation": "Max Planck Institute for Infection Biology"}
+  ],
+  "keywords": ["Anopheles", "Plasmodium", "nanopore", "amplicon sequencing", "species identification", "malaria vector surveillance"],
+  "description": "Scripts, small input files and summary tables for the Anopheles species-identification and Plasmodium detection nanopore amplicon panel manuscript (submitted to BMC Genomics). Sequence data: NCBI SRA BioProject PRJNA1517867."
+}

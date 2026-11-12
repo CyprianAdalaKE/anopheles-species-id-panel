@@ -1,0 +1,952 @@
+run	barcode	dominant	dominant_pct	pct_arabiensis	pct_gambiae	pct_coluzzii	pct_funestus	pct_stephensi	pct_coustani	pct_Plasmodium	prior_runs_same_barcode	prior_species_reads_est
+An_funestus_08_nov_2024	barcode01	arabiensis	55.05	55.05	13.72	4.01	16.64	3.43	0.05	0.00		
+An_funestus_08_nov_2024	barcode02	arabiensis	60.01	60.01	26.35	7.62	1.66	0.53	0.04	0.00	Anoph_Speciation:arabiensis(6007)	arabiensis=3485;gambiae=1135;coluzzii=454;funestus=460;stephensi=18;coustani=5;Plasmodium=10
+An_funestus_08_nov_2024	barcode03	arabiensis	60.91	60.91	21.58	4.53	7.87	0.34	0.04	0.00	Anoph_Speciation:arabiensis(5236)	arabiensis=2677;gambiae=1144;coluzzii=1050;funestus=7;stephensi=6
+An_funestus_08_nov_2024	barcode04	arabiensis	56.28	56.28	21.25	4.38	7.43	2.60	0.10	0.00	Anoph_Speciation:arabiensis(7909)	arabiensis=2039;gambiae=1332;coluzzii=1256;funestus=31;stephensi=197;coustani=23;Plasmodium=19
+An_funestus_08_nov_2024	barcode05	arabiensis	60.49	60.49	20.51	6.68	4.29	0.97	0.10	0.00	Anoph_Speciation:arabiensis(8597)	arabiensis=3793;gambiae=2240;coluzzii=1821;funestus=28;stephensi=9
+An_funestus_08_nov_2024	barcode06	arabiensis	55.48	55.48	27.10	4.73	4.01	1.10	0.11	0.00	Anoph_Speciation:funestus(16271)	arabiensis=788;gambiae=68;coluzzii=23;funestus=15169;stephensi=31;coustani=11;Plasmodium=11
+An_funestus_08_nov_2024	barcode07	arabiensis	47.55	47.55	19.52	4.96	16.30	4.08	0.27	0.00	Anoph_Speciation:arabiensis(7894)	arabiensis=3936;gambiae=2081;coluzzii=1004;funestus=22;stephensi=3;coustani=3
+An_funestus_08_nov_2024	barcode08	arabiensis	52.91	52.91	13.62	4.87	16.38	3.37	0.17	0.00	Anoph_Speciation:arabiensis(9991)	arabiensis=4536;gambiae=2040;coluzzii=2797;funestus=18;stephensi=2
+An_funestus_08_nov_2024	barcode09	arabiensis	62.35	62.35	14.68	3.97	9.86	3.31	0.09	0.00	Anoph_Speciation:arabiensis(3762)	arabiensis=1825;gambiae=467;coluzzii=487;funestus=416;stephensi=69;coustani=5
+An_funestus_08_nov_2024	barcode10	funestus	67.21	25.22	2.93	2.44	67.21	0.55	0.02	0.00	Anoph_Speciation:arabiensis(7745)	arabiensis=3522;gambiae=1199;coluzzii=950;funestus=1011;stephensi=165;coustani=19
+An_funestus_08_nov_2024	barcode11	arabiensis	64.80	64.80	16.74	3.21	9.86	0.97	0.06	0.00	Anoph_Speciation:arabiensis(16458)	arabiensis=8583;gambiae=3101;coluzzii=3303;funestus=82;stephensi=217;coustani=18
+An_funestus_08_nov_2024	barcode12	arabiensis	84.15	84.15	4.74	4.67	2.63	0.19	0.10	0.00	Anoph_Speciation:arabiensis(2694)	arabiensis=1386;gambiae=661;coluzzii=390;funestus=18;stephensi=3
+An_funestus_08_nov_2024	barcode13	arabiensis	83.51	83.51	5.45	4.98	3.21	0.49	0.00	0.00	Anoph_Speciation:arabiensis(14208)	arabiensis=6547;gambiae=3028;coluzzii=3785;funestus=6;stephensi=9
+An_funestus_08_nov_2024	barcode14	arabiensis	68.47	68.47	15.52	5.16	6.38	0.60	0.02	0.00	Anoph_Speciation:arabiensis(6067)	arabiensis=3153;gambiae=1141;coluzzii=1267;funestus=15;stephensi=5;Plasmodium=22
+An_funestus_08_nov_2024	barcode15	arabiensis	76.53	76.53	10.86	4.99	1.77	0.91	0.00	0.00	Anoph_Speciation:arabiensis(4791)	arabiensis=2072;gambiae=1200;coluzzii=758;funestus=110;stephensi=19;coustani=6;Plasmodium=1
+An_funestus_08_nov_2024	barcode16	arabiensis	73.12	73.12	15.25	3.63	3.24	0.19	0.06	0.00	Anoph_Speciation:arabiensis(8931)	arabiensis=3748;gambiae=3327;coluzzii=1480;funestus=13;stephensi=6;Plasmodium=2
+An_funestus_08_nov_2024	barcode17	arabiensis	64.02	64.02	13.82	5.24	10.48	0.68	0.04	0.00	Anoph_Speciation:arabiensis(5287)	arabiensis=2857;gambiae=990;coluzzii=805;funestus=187;stephensi=27;coustani=3
+An_funestus_08_nov_2024	barcode18	arabiensis	67.86	67.86	8.55	9.25	5.85	0.47	0.06	0.00	Anoph_Speciation:arabiensis(9983)	arabiensis=3922;gambiae=2656;coluzzii=1958;funestus=93;stephensi=16;coustani=6;Plasmodium=2
+An_funestus_08_nov_2024	barcode19	arabiensis	63.15	63.15	26.75	3.58	1.98	0.34	0.06	0.00	Anoph_Speciation:coluzzii(17664)	arabiensis=4359;gambiae=5357;coluzzii=6469;funestus=281;stephensi=7
+An_funestus_08_nov_2024	barcode20	arabiensis	77.02	77.02	6.25	7.13	3.90	1.39	0.02	0.00	Anoph_Speciation:arabiensis(12169)	arabiensis=6521;gambiae=1657;coluzzii=2261;funestus=34;stephensi=16;coustani=4;Plasmodium=6
+An_funestus_08_nov_2024	barcode21	arabiensis	56.68	56.68	8.18	2.05	27.56	0.40	0.13	0.00	Anoph_Speciation:arabiensis(135)	arabiensis=63;gambiae=19;coluzzii=14;funestus=23
+An_funestus_08_nov_2024	barcode22	arabiensis	59.12	59.12	21.35	5.64	7.07	0.29	0.06	0.00		gambiae=2
+An_funestus_08_nov_2024	barcode23	arabiensis	57.89	57.89	22.34	7.92	6.86	0.62	0.09	0.00		arabiensis=1
+An_funestus_08_nov_2024	barcode24	arabiensis	38.10	38.10	30.66	5.33	4.70	3.38	0.04	0.00		arabiensis=1
+An_funestus_08_nov_2024	barcode25	arabiensis	68.50	68.50	11.02	4.41	11.07	0.49	0.00	0.00	Anoph_Speciation:arabiensis(7681)	arabiensis=5682;gambiae=529;coluzzii=968;funestus=191;stephensi=9
+An_funestus_08_nov_2024	barcode26	arabiensis	56.69	56.69	22.25	10.81	4.54	0.54	0.06	0.00	Anoph_Speciation:arabiensis(13848)	arabiensis=9507;gambiae=2144;coluzzii=1188;funestus=55;stephensi=8;coustani=8;Plasmodium=6
+An_funestus_08_nov_2024	barcode27	arabiensis	94.75	94.75	3.09	0.53	0.34	0.06	0.00	0.00	Anoph_Speciation:arabiensis(12183)	arabiensis=8128;gambiae=2092;coluzzii=760;funestus=184;stephensi=18;coustani=10;Plasmodium=6
+An_funestus_08_nov_2024	barcode28	arabiensis	70.38	70.38	18.27	4.96	2.10	0.12	0.06	0.00	Anoph_Speciation:arabiensis(11663)	arabiensis=8367;gambiae=2128;coluzzii=274;funestus=51;stephensi=7;coustani=2
+An_funestus_08_nov_2024	barcode29	arabiensis	68.01	68.01	16.43	4.64	4.62	1.50	0.11	0.00	Anoph_Speciation:arabiensis(9998)	arabiensis=5094;gambiae=1247;coluzzii=787;funestus=119;stephensi=129;coustani=12;Plasmodium=14
+An_funestus_08_nov_2024	barcode30	arabiensis	62.39	62.39	21.71	3.41	5.11	0.97	0.04	0.00	Anoph_Speciation:arabiensis(11891)	arabiensis=7439;gambiae=2277;coluzzii=1309;funestus=76;stephensi=7;coustani=10;Plasmodium=2
+An_funestus_08_nov_2024	barcode31	arabiensis	67.72	67.72	17.76	5.48	3.96	0.66	0.09	0.00	Anoph_Speciation:arabiensis(2207)	arabiensis=1626;gambiae=322;coluzzii=84;funestus=19;stephensi=4
+An_funestus_08_nov_2024	barcode32	arabiensis	71.49	71.49	11.97	5.25	5.08	0.67	0.02	0.00	Anoph_Speciation:arabiensis(14860)	arabiensis=11311;gambiae=2648;coluzzii=107;funestus=21;stephensi=6
+An_funestus_08_nov_2024	barcode33	arabiensis	55.54	55.54	14.85	6.18	12.26	2.84	0.07	0.00	Anoph_Speciation:arabiensis(11593)	arabiensis=8771;gambiae=1654;coluzzii=631;funestus=44
+An_funestus_08_nov_2024	barcode34	arabiensis	60.21	60.21	21.45	6.07	3.40	0.59	0.00	0.00	Anoph_Speciation:arabiensis(9473)	arabiensis=6056;gambiae=1708;coluzzii=1453;funestus=20;stephensi=2
+An_funestus_08_nov_2024	barcode35	arabiensis	61.28	61.28	14.40	8.11	9.52	0.51	0.06	0.00	Anoph_Speciation:arabiensis(11180)	arabiensis=8351;gambiae=1757;coluzzii=551;funestus=22;stephensi=2
+An_funestus_08_nov_2024	barcode36	arabiensis	59.89	59.89	8.72	2.13	24.35	0.43	0.05	0.00	Anoph_Speciation:arabiensis(14780)	arabiensis=9276;gambiae=2844;coluzzii=1775;funestus=15;Plasmodium=3
+An_funestus_08_nov_2024	barcode37	arabiensis	94.89	94.89	2.03	0.45	0.43	0.06	0.00	0.00	Anoph_Speciation:arabiensis(11903)	arabiensis=8295;gambiae=1795;coluzzii=1196;funestus=14;stephensi=5
+An_funestus_08_nov_2024	barcode38	arabiensis	72.17	72.17	13.31	3.31	4.83	0.93	0.16	0.00	Anoph_Speciation:arabiensis(8550)	arabiensis=5973;gambiae=1739;coluzzii=328;funestus=18;stephensi=9;coustani=3;Plasmodium=3
+An_funestus_08_nov_2024	barcode39	arabiensis	67.48	67.48	10.63	3.33	12.40	0.56	0.05	0.00	Anoph_Speciation:arabiensis(947)	arabiensis=673;gambiae=145;coluzzii=39;funestus=22;stephensi=5
+An_funestus_08_nov_2024	barcode40	funestus	44.03	42.92	7.17	1.73	44.03	0.70	0.05	0.00	Anoph_Speciation:arabiensis(5308)	arabiensis=3657;gambiae=794;coluzzii=451;funestus=127;stephensi=13;coustani=3
+An_funestus_08_nov_2024	barcode41	arabiensis	61.13	61.13	12.88	2.91	18.18	0.66	0.03	0.00	Anoph_Speciation:arabiensis(19852)	arabiensis=14492;gambiae=3411;coluzzii=367;funestus=40;stephensi=4
+An_funestus_08_nov_2024	barcode42	arabiensis	68.06	68.06	11.19	4.98	6.15	1.19	0.21	0.00	Anoph_Speciation:arabiensis(22672)	arabiensis=9563;gambiae=3163;coluzzii=1381;funestus=32;stephensi=440;coustani=186;Plasmodium=32
+An_funestus_08_nov_2024	barcode43	arabiensis	58.54	58.54	16.20	4.96	14.97	0.97	0.06	0.00	Anoph_Speciation:arabiensis(23403)	arabiensis=15170;gambiae=4105;coluzzii=351;funestus=23;stephensi=101;coustani=14;Plasmodium=5
+An_funestus_08_nov_2024	barcode44	arabiensis	46.72	46.72	9.02	4.93	36.56	0.07	0.00	0.00	Anoph_Speciation:funestus(2352)	arabiensis=587;gambiae=254;coluzzii=232;funestus=632;stephensi=157;coustani=7;Plasmodium=2
+An_funestus_08_nov_2024	barcode45	arabiensis	58.69	58.69	11.58	3.35	5.19	1.42	0.12	0.00	Anoph_Speciation:arabiensis(147)	arabiensis=66;gambiae=23;coluzzii=14;funestus=21;stephensi=5
+An_funestus_08_nov_2024	barcode46	arabiensis	58.97	58.97	17.56	4.83	13.79	0.19	0.15	0.00		arabiensis=1;coluzzii=1;funestus=1
+An_funestus_08_nov_2024	barcode47	arabiensis	64.67	64.67	16.27	6.76	4.59	2.31	0.03	0.00		
+An_funestus_08_nov_2024	barcode48	arabiensis	98.88	98.88	0.28	0.18	0.08	0.00	0.00	0.00		
+An_funestus_08_nov_2024	barcode49	arabiensis	69.03	69.03	10.06	3.90	12.06	0.32	0.03	0.00	Anoph_Speciation:funestus(8107)	arabiensis=815;gambiae=69;coluzzii=148;funestus=6358;stephensi=43;coustani=12;Plasmodium=7
+An_funestus_08_nov_2024	barcode50	arabiensis	65.69	65.69	9.59	3.46	15.77	0.39	0.03	0.00	Anoph_Speciation:funestus(18109)	arabiensis=1318;gambiae=172;coluzzii=328;funestus=14252;stephensi=107;coustani=18;Plasmodium=4
+An_funestus_08_nov_2024	barcode51	arabiensis	75.22	75.22	4.96	3.04	10.71	0.40	0.00	0.00	Anoph_Speciation:funestus(8689)	arabiensis=620;gambiae=115;coluzzii=122;funestus=7486;stephensi=17;coustani=2
+An_funestus_08_nov_2024	barcode52	arabiensis	64.39	64.39	3.15	1.20	25.85	2.23	0.03	0.00	Anoph_Speciation:funestus(6535)	arabiensis=1204;gambiae=291;coluzzii=156;funestus=3788;stephensi=75;coustani=27;Plasmodium=7
+An_funestus_08_nov_2024	barcode53	arabiensis	68.71	68.71	2.10	1.34	20.09	0.61	0.00	0.00	Anoph_Speciation:funestus(13723)	arabiensis=3325;gambiae=711;coluzzii=213;funestus=8680;stephensi=129;coustani=8;Plasmodium=14
+An_funestus_08_nov_2024	barcode54	arabiensis	71.90	71.90	5.28	6.64	9.52	0.58	0.00	0.00	Anoph_Speciation:arabiensis(14341)	arabiensis=4196;gambiae=645;coluzzii=697;funestus=1566;stephensi=453;coustani=33;Plasmodium=46
+An_funestus_08_nov_2024	barcode55	arabiensis	65.77	65.77	9.40	3.12	16.12	0.52	0.00	0.00	Anoph_Speciation:arabiensis(10041)	arabiensis=3045;gambiae=698;coluzzii=457;funestus=1620;stephensi=266;coustani=50;Plasmodium=35
+An_funestus_08_nov_2024	barcode56	arabiensis	66.39	66.39	9.15	2.69	15.77	0.66	0.00	0.00	Anoph_Speciation:arabiensis(27696)	arabiensis=8791;gambiae=2468;coluzzii=2889;funestus=6401;stephensi=1205;coustani=119;Plasmodium=97
+An_funestus_08_nov_2024	barcode57	arabiensis	45.91	45.91	6.37	6.62	36.77	0.21	0.00	0.00	Anoph_Speciation:funestus(9544)	arabiensis=1643;gambiae=271;coluzzii=408;funestus=5284;stephensi=149;coustani=30;Plasmodium=31
+An_funestus_08_nov_2024	barcode58	arabiensis	69.13	69.13	1.29	0.55	23.12	0.37	0.00	0.00	Anoph_Speciation:funestus(22279)	arabiensis=590;gambiae=85;coluzzii=147;funestus=20434;stephensi=49;coustani=9
+An_funestus_08_nov_2024	barcode59	arabiensis	61.86	61.86	7.10	3.03	23.12	0.52	0.00	0.00	Anoph_Speciation:funestus(9582)	arabiensis=2605;gambiae=221;coluzzii=445;funestus=5453;stephensi=84;coustani=6;Plasmodium=2
+An_funestus_08_nov_2024	barcode60	arabiensis	61.22	61.22	6.65	2.42	24.63	0.57	0.00	0.00	Anoph_Speciation:funestus(3023)	arabiensis=935;gambiae=76;coluzzii=114;funestus=1626;stephensi=24;coustani=4
+An_funestus_08_nov_2024	barcode61	arabiensis	70.44	70.44	5.23	7.37	6.51	2.58	0.02	0.00	Anoph_Speciation:funestus(15054)	arabiensis=1037;gambiae=432;coluzzii=275;funestus=12665;stephensi=44;coustani=6
+An_funestus_08_nov_2024	barcode62	arabiensis	52.16	52.16	1.31	1.14	43.51	0.06	0.00	0.00	Anoph_Speciation:funestus(11977)	arabiensis=1261;gambiae=236;coluzzii=128;funestus=9961;stephensi=28;coustani=5
+An_funestus_08_nov_2024	barcode63	arabiensis	47.42	47.42	1.72	0.55	47.24	0.09	0.00	0.00	Anoph_Speciation:arabiensis(7375)	arabiensis=2693;gambiae=825;coluzzii=737;funestus=1157;stephensi=325;coustani=15;Plasmodium=62
+An_funestus_08_nov_2024	barcode64	funestus	58.57	32.89	1.82	1.15	58.57	1.52	0.00	0.00	Anoph_Speciation:funestus(11282)	arabiensis=985;gambiae=125;coluzzii=200;funestus=9463;stephensi=36;coustani=2;Plasmodium=2
+An_funestus_08_nov_2024	barcode65	arabiensis	58.37	58.37	8.39	5.11	19.09	1.56	0.02	0.00	Anoph_Speciation:funestus(7170)	arabiensis=65;gambiae=17;coluzzii=19;funestus=7024;stephensi=4;coustani=1
+An_funestus_08_nov_2024	barcode66	arabiensis	67.81	67.81	6.88	3.76	9.29	0.34	0.02	0.00	Anoph_Speciation:funestus(2522)	arabiensis=260;gambiae=87;coluzzii=60;funestus=2074;stephensi=2;Plasmodium=1
+An_funestus_08_nov_2024	barcode67	arabiensis	65.99	65.99	9.63	3.06	14.67	1.10	0.02	0.00	Anoph_Speciation:funestus(514)	arabiensis=102;gambiae=16;coluzzii=30;funestus=319;stephensi=4;coustani=1
+An_funestus_08_nov_2024	barcode68	arabiensis	49.22	49.22	4.04	2.48	40.54	0.32	0.04	0.00	Anoph_Speciation:funestus(18239)	arabiensis=905;gambiae=40;coluzzii=57;funestus=16090;stephensi=33;coustani=15;Plasmodium=11
+An_funestus_08_nov_2024	barcode69	arabiensis	56.95	56.95	3.39	5.32	22.57	7.42	0.00	0.00	Anoph_Speciation:arabiensis(160)	arabiensis=69;gambiae=32;coluzzii=20;funestus=23;stephensi=4
+An_funestus_08_nov_2024	barcode70	arabiensis	66.67	66.67	5.69	2.54	7.56	0.73	0.00	0.00		
+An_funestus_08_nov_2024	barcode71	arabiensis	70.07	70.07	9.10	2.75	12.85	0.74	0.05	0.00		arabiensis=2;gambiae=1
+An_funestus_08_nov_2024	barcode72	gambiae	66.67	33.33	66.67	0.00	0.00	0.00	0.00	0.00		arabiensis=27;gambiae=5;coluzzii=1;funestus=8
+An_funestus_08_nov_2024	barcode73	arabiensis	25.00	25.00	6.25	12.50	12.50	0.00	0.00	0.00	Anoph_Speciation:arabiensis(6974)	arabiensis=3285;gambiae=907;coluzzii=669;funestus=676;stephensi=239;coustani=15;Plasmodium=48
+An_funestus_08_nov_2024	barcode74	stephensi	34.21	26.32	10.53	5.26	7.89	34.21	0.00	0.00	Anoph_Speciation:stephensi(10193)	arabiensis=3376;gambiae=662;coluzzii=296;funestus=188;stephensi=5113;Plasmodium=10
+An_funestus_08_nov_2024	barcode75	stephensi	23.81	19.05	0.00	14.29	9.52	23.81	0.00	0.00	Anoph_Speciation:arabiensis(5485)	arabiensis=2322;gambiae=565;coluzzii=687;funestus=92;stephensi=1462
+An_funestus_08_nov_2024	barcode76	arabiensis	40.00	40.00	0.00	0.00	0.00	10.00	0.00	0.00	Anoph_Speciation:arabiensis(1443)	arabiensis=532;gambiae=222;coluzzii=261;funestus=53;stephensi=278
+An_funestus_08_nov_2024	barcode77	arabiensis	37.50	37.50	0.00	0.00	0.00	31.25	0.00	0.00	Anoph_Speciation:stephensi(5689)	arabiensis=1688;gambiae=435;coluzzii=602;funestus=195;stephensi=2220;coustani=5;Plasmodium=5
+An_funestus_08_nov_2024	barcode78	arabiensis	30.00	30.00	30.00	10.00	0.00	0.00	0.00	0.00	Anoph_Speciation:arabiensis(5656)	arabiensis=2947;gambiae=697;coluzzii=1292;funestus=101;stephensi=177;coustani=2;Plasmodium=8
+An_funestus_08_nov_2024	barcode79	arabiensis	75.00	75.00	0.00	0.00	20.00	0.00	0.00	0.00	Anoph_Speciation:arabiensis(492)	arabiensis=255;gambiae=79;coluzzii=113;funestus=10;stephensi=3
+An_funestus_08_nov_2024	barcode80	arabiensis	54.55	54.55	2.27	2.27	4.55	0.00	0.00	4.55	Anoph_Speciation:arabiensis(15670)	arabiensis=8633;gambiae=2354;coluzzii=1128;funestus=357;stephensi=563;coustani=14;Plasmodium=326
+An_funestus_08_nov_2024	barcode81	funestus	29.41	17.65	0.00	11.76	29.41	5.88	0.00	5.88	Anoph_Speciation:arabiensis(5914)	arabiensis=2876;gambiae=729;coluzzii=651;funestus=655;stephensi=249;coustani=4;Plasmodium=5
+An_funestus_08_nov_2024	barcode82	arabiensis	40.00	40.00	20.00	0.00	40.00	0.00	0.00	0.00	Anoph_Speciation:arabiensis(1143)	arabiensis=381;gambiae=140;coluzzii=174;funestus=76;stephensi=213;Plasmodium=1
+An_funestus_08_nov_2024	barcode83	arabiensis	37.50	37.50	0.00	0.00	25.00	0.00	0.00	0.00	Anoph_Speciation:stephensi(3635)	arabiensis=748;gambiae=152;coluzzii=162;funestus=79;stephensi=2145;coustani=4;Plasmodium=33
+An_funestus_08_nov_2024	barcode84	arabiensis	26.09	26.09	0.00	13.04	4.35	26.09	0.00	0.00	Anoph_Speciation:stephensi(8860)	arabiensis=2015;gambiae=607;coluzzii=623;funestus=287;stephensi=2322;coustani=32;Plasmodium=106
+An_funestus_08_nov_2024	barcode85	stephensi	50.00	10.00	0.00	0.00	0.00	50.00	0.00	0.00	Anoph_Speciation:stephensi(4883)	arabiensis=861;gambiae=173;coluzzii=151;funestus=69;stephensi=3069;coustani=11;Plasmodium=8
+An_funestus_08_nov_2024	barcode86	arabiensis	42.86	42.86	0.00	28.57	28.57	0.00	0.00	0.00	Anoph_Speciation:arabiensis(300)	arabiensis=140;gambiae=31;coluzzii=21;funestus=26;stephensi=47;Plasmodium=4
+An_funestus_08_nov_2024	barcode87	gambiae	35.71	21.43	35.71	0.00	0.00	7.14	0.00	7.14	Anoph_Speciation:stephensi(5703)	arabiensis=2037;gambiae=636;coluzzii=237;funestus=47;stephensi=2341;coustani=3;Plasmodium=34
+An_funestus_08_nov_2024	barcode88	arabiensis	54.55	54.55	0.00	9.09	0.00	0.00	0.00	0.00	Anoph_Speciation:arabiensis(422)	arabiensis=153;gambiae=39;coluzzii=45;funestus=28;stephensi=122;coustani=1
+An_funestus_08_nov_2024	barcode89	stephensi	33.33	20.00	6.67	0.00	13.33	33.33	0.00	0.00	Anoph_Speciation:stephensi(5174)	arabiensis=780;gambiae=250;coluzzii=350;funestus=307;stephensi=2939;coustani=2;Plasmodium=15
+An_funestus_08_nov_2024	barcode90	arabiensis	50.00	50.00	0.00	0.00	0.00	50.00	0.00	0.00	Anoph_Speciation:stephensi(484)	arabiensis=168;gambiae=27;coluzzii=33;funestus=34;stephensi=182;Plasmodium=2
+An_funestus_08_nov_2024	barcode91	arabiensis	41.67	41.67	0.00	8.33	33.33	0.00	0.00	0.00	Anoph_Speciation:arabiensis(353)	arabiensis=120;gambiae=30;coluzzii=52;funestus=39;stephensi=43
+An_funestus_08_nov_2024	barcode92	arabiensis	74.07	74.07	3.70	1.85	0.00	1.85	0.00	0.00	Anoph_Speciation:arabiensis(4479)	arabiensis=2377;gambiae=667;coluzzii=946;funestus=99;stephensi=53;Plasmodium=6
+An_funestus_08_nov_2024	barcode93	arabiensis	69.23	69.23	7.69	0.00	7.69	15.38	0.00	0.00	Anoph_Speciation:arabiensis(138)	arabiensis=70;gambiae=17;coluzzii=9;funestus=20;stephensi=4
+An_funestus_08_nov_2024	barcode94	arabiensis	55.56	55.56	0.00	22.22	11.11	0.00	0.00	0.00		funestus=1
+An_funestus_08_nov_2024	barcode95	funestus	100.00	0.00	0.00	0.00	100.00	0.00	0.00	0.00		
+An_funestus_08_nov_2024	barcode96	arabiensis	70.00	70.00	0.00	0.00	10.00	0.00	0.00	0.00		funestus=1
+Anoph_Speciation	barcode02	arabiensis	58.02	58.02	18.89	7.55	7.66	0.30	0.09	0.16		
+Anoph_Speciation	barcode03	arabiensis	51.13	51.13	21.85	20.05	0.13	0.11	0.00	0.00		
+Anoph_Speciation	barcode04	arabiensis	25.78	25.78	16.84	15.88	0.39	2.49	0.29	0.24		
+Anoph_Speciation	barcode05	arabiensis	44.12	44.12	26.05	21.18	0.33	0.10	0.00	0.00		
+Anoph_Speciation	barcode06	funestus	93.23	4.84	0.42	0.14	93.23	0.19	0.07	0.07		
+Anoph_Speciation	barcode07	arabiensis	49.86	49.86	26.36	12.72	0.28	0.04	0.04	0.00		
+Anoph_Speciation	barcode08	arabiensis	45.40	45.40	20.42	28.00	0.18	0.02	0.00	0.00		
+Anoph_Speciation	barcode09	arabiensis	48.51	48.51	12.42	12.94	11.06	1.83	0.14	0.00		
+Anoph_Speciation	barcode10	arabiensis	45.48	45.48	15.48	12.27	13.05	2.13	0.25	0.00		
+Anoph_Speciation	barcode11	arabiensis	52.15	52.15	18.84	20.07	0.50	1.32	0.11	0.00		
+Anoph_Speciation	barcode12	arabiensis	51.45	51.45	24.54	14.46	0.67	0.11	0.00	0.00		
+Anoph_Speciation	barcode13	arabiensis	46.08	46.08	21.31	26.64	0.04	0.06	0.00	0.00		
+Anoph_Speciation	barcode14	arabiensis	51.97	51.97	18.80	20.89	0.24	0.09	0.00	0.37		
+Anoph_Speciation	barcode15	arabiensis	43.24	43.24	25.05	15.82	2.30	0.40	0.12	0.03		
+Anoph_Speciation	barcode16	arabiensis	41.97	41.97	37.25	16.57	0.14	0.07	0.00	0.02		
+Anoph_Speciation	barcode17	arabiensis	54.04	54.04	18.72	15.23	3.54	0.51	0.05	0.00		
+Anoph_Speciation	barcode18	arabiensis	39.29	39.29	26.61	19.61	0.93	0.16	0.06	0.02		
+Anoph_Speciation	barcode19	coluzzii	36.62	24.68	30.33	36.62	1.59	0.04	0.00	0.00		
+Anoph_Speciation	barcode20	arabiensis	53.59	53.59	13.62	18.58	0.28	0.13	0.03	0.05		
+Anoph_Speciation	barcode21	arabiensis	46.97	46.97	14.39	10.61	16.67	0.00	0.00	0.00		
+Anoph_Speciation	barcode22	gambiae	100.00	0.00	100.00	0.00	0.00	0.00	0.00	0.00		
+Anoph_Speciation	barcode23	arabiensis	100.00	100.00	0.00	0.00	0.00	0.00	0.00	0.00		
+Anoph_Speciation	barcode24	arabiensis	100.00	100.00	0.00	0.00	0.00	0.00	0.00	0.00		
+Anoph_Speciation	barcode25	arabiensis	73.98	73.98	6.89	12.60	2.49	0.12	0.00	0.00		
+Anoph_Speciation	barcode26	arabiensis	68.65	68.65	15.48	8.58	0.40	0.06	0.06	0.04		
+Anoph_Speciation	barcode27	arabiensis	66.72	66.72	17.17	6.24	1.51	0.15	0.08	0.05		
+Anoph_Speciation	barcode28	arabiensis	71.74	71.74	18.25	2.35	0.44	0.06	0.02	0.00		
+Anoph_Speciation	barcode29	arabiensis	50.95	50.95	12.47	7.87	1.19	1.29	0.12	0.14		
+Anoph_Speciation	barcode30	arabiensis	62.56	62.56	19.15	11.01	0.64	0.06	0.08	0.02		
+Anoph_Speciation	barcode31	arabiensis	73.66	73.66	14.58	3.81	0.86	0.18	0.00	0.00		
+Anoph_Speciation	barcode32	arabiensis	76.12	76.12	17.82	0.72	0.14	0.04	0.00	0.00		
+Anoph_Speciation	barcode33	arabiensis	75.66	75.66	14.27	5.44	0.38	0.00	0.00	0.00		
+Anoph_Speciation	barcode34	arabiensis	63.93	63.93	18.03	15.34	0.21	0.02	0.00	0.00		
+Anoph_Speciation	barcode35	arabiensis	74.70	74.70	15.72	4.93	0.20	0.02	0.00	0.00		
+Anoph_Speciation	barcode36	arabiensis	62.76	62.76	19.24	12.01	0.10	0.00	0.00	0.02		
+Anoph_Speciation	barcode37	arabiensis	69.69	69.69	15.08	10.05	0.12	0.04	0.00	0.00		
+Anoph_Speciation	barcode38	arabiensis	69.86	69.86	20.34	3.84	0.21	0.10	0.03	0.03		
+Anoph_Speciation	barcode39	arabiensis	71.11	71.11	15.34	4.13	2.33	0.53	0.00	0.00		
+Anoph_Speciation	barcode40	arabiensis	68.89	68.89	14.95	8.50	2.40	0.24	0.05	0.00		
+Anoph_Speciation	barcode41	arabiensis	73.00	73.00	17.18	1.85	0.20	0.02	0.00	0.00		
+Anoph_Speciation	barcode42	arabiensis	42.18	42.18	13.95	6.09	0.14	1.94	0.82	0.14		
+Anoph_Speciation	barcode43	arabiensis	64.82	64.82	17.54	1.50	0.10	0.43	0.06	0.02		
+Anoph_Speciation	barcode44	funestus	26.86	24.96	10.78	9.85	26.86	6.67	0.31	0.09		
+Anoph_Speciation	barcode45	arabiensis	45.14	45.14	15.97	9.72	14.58	3.47	0.00	0.00		
+Anoph_Speciation	barcode46	arabiensis	33.33	33.33	0.00	33.33	33.33	0.00	0.00	0.00		
+Anoph_Speciation	barcode48	arabiensis	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00		
+Anoph_Speciation	barcode49	funestus	78.42	10.05	0.85	1.82	78.42	0.53	0.15	0.09		
+Anoph_Speciation	barcode50	funestus	78.70	7.28	0.95	1.81	78.70	0.59	0.10	0.02		
+Anoph_Speciation	barcode51	funestus	86.16	7.13	1.32	1.40	86.16	0.20	0.02	0.00		
+Anoph_Speciation	barcode52	funestus	57.97	18.43	4.45	2.38	57.97	1.15	0.42	0.10		
+Anoph_Speciation	barcode53	funestus	63.25	24.23	5.18	1.55	63.25	0.94	0.06	0.10		
+Anoph_Speciation	barcode54	arabiensis	29.26	29.26	4.50	4.86	10.92	3.16	0.23	0.32		
+Anoph_Speciation	barcode55	arabiensis	30.33	30.33	6.95	4.55	16.13	2.65	0.50	0.35		
+Anoph_Speciation	barcode56	arabiensis	31.74	31.74	8.91	10.43	23.11	4.35	0.43	0.35		
+Anoph_Speciation	barcode57	funestus	55.36	17.21	2.84	4.28	55.36	1.56	0.31	0.33		
+Anoph_Speciation	barcode58	funestus	91.72	2.65	0.38	0.66	91.72	0.22	0.04	0.00		
+Anoph_Speciation	barcode59	funestus	56.91	27.19	2.31	4.64	56.91	0.88	0.06	0.02		
+Anoph_Speciation	barcode60	funestus	53.78	30.94	2.52	3.78	53.78	0.80	0.14	0.00		
+Anoph_Speciation	barcode61	funestus	84.13	6.89	2.87	1.83	84.13	0.29	0.04	0.00		
+Anoph_Speciation	barcode62	funestus	83.17	10.53	1.97	1.07	83.17	0.23	0.04	0.00		
+Anoph_Speciation	barcode63	arabiensis	36.51	36.51	11.18	9.99	15.69	4.41	0.21	0.84		
+Anoph_Speciation	barcode64	funestus	83.88	8.73	1.11	1.77	83.88	0.32	0.02	0.02		
+Anoph_Speciation	barcode65	funestus	97.96	0.90	0.24	0.26	97.96	0.06	0.02	0.00		
+Anoph_Speciation	barcode66	funestus	82.23	10.29	3.46	2.38	82.23	0.08	0.00	0.04		
+Anoph_Speciation	barcode67	funestus	61.98	19.80	3.17	5.74	61.98	0.79	0.20	0.00		
+Anoph_Speciation	barcode68	funestus	88.22	4.96	0.22	0.31	88.22	0.18	0.08	0.06		
+Anoph_Speciation	barcode69	arabiensis	43.12	43.12	20.00	12.50	14.38	2.50	0.00	0.00		
+Anoph_Speciation	barcode71	arabiensis	66.67	66.67	33.33	0.00	0.00	0.00	0.00	0.00		
+Anoph_Speciation	barcode72	arabiensis	59.09	59.09	11.36	2.27	18.18	0.00	0.00	0.00		
+Anoph_Speciation	barcode73	arabiensis	47.10	47.10	13.00	9.59	9.70	3.43	0.22	0.69		
+Anoph_Speciation	barcode74	stephensi	50.16	33.12	6.49	2.90	1.84	50.16	0.00	0.10		
+Anoph_Speciation	barcode75	arabiensis	42.33	42.33	10.30	12.53	1.67	26.66	0.00	0.00		
+Anoph_Speciation	barcode76	arabiensis	36.90	36.90	15.37	18.06	3.68	19.26	0.00	0.00		
+Anoph_Speciation	barcode77	stephensi	39.03	29.67	7.64	10.58	3.43	39.03	0.08	0.08		
+Anoph_Speciation	barcode78	arabiensis	52.10	52.10	12.32	22.85	1.78	3.13	0.03	0.15		
+Anoph_Speciation	barcode79	arabiensis	51.88	51.88	16.04	22.92	2.08	0.62	0.00	0.00		
+Anoph_Speciation	barcode80	arabiensis	55.09	55.09	15.02	7.20	2.28	3.59	0.09	2.08		
+Anoph_Speciation	barcode81	arabiensis	48.63	48.63	12.33	11.00	11.07	4.21	0.07	0.09		
+Anoph_Speciation	barcode82	arabiensis	33.33	33.33	12.28	15.23	6.63	18.64	0.00	0.09		
+Anoph_Speciation	barcode83	stephensi	59.00	20.57	4.18	4.46	2.16	59.00	0.11	0.90		
+Anoph_Speciation	barcode84	stephensi	26.21	22.74	6.85	7.03	3.24	26.21	0.36	1.20		
+Anoph_Speciation	barcode85	stephensi	62.86	17.64	3.55	3.10	1.42	62.86	0.23	0.16		
+Anoph_Speciation	barcode86	arabiensis	46.55	46.55	10.34	6.90	8.62	15.52	0.00	1.38		
+Anoph_Speciation	barcode87	stephensi	41.04	35.71	11.15	4.16	0.83	41.04	0.05	0.59		
+Anoph_Speciation	barcode88	arabiensis	36.22	36.22	9.18	10.71	6.63	28.83	0.26	0.00		
+Anoph_Speciation	barcode89	stephensi	56.80	15.07	4.84	6.76	5.93	56.80	0.03	0.29		
+Anoph_Speciation	barcode90	stephensi	37.50	34.79	5.62	6.88	7.08	37.50	0.00	0.42		
+Anoph_Speciation	barcode91	arabiensis	33.93	33.93	8.41	14.71	11.11	12.31	0.00	0.00		
+Anoph_Speciation	barcode92	arabiensis	53.08	53.08	14.89	21.13	2.20	1.19	0.00	0.14		
+Anoph_Speciation	barcode93	arabiensis	50.37	50.37	12.59	6.67	14.81	2.96	0.00	0.00		
+Anoph_Speciation	barcode94	funestus	100.00	0.00	0.00	0.00	100.00	0.00	0.00	0.00		
+Anoph_Speciation	barcode96	funestus	50.00	0.00	0.00	0.00	50.00	0.00	0.00	0.00		
+SLCA003_BatchKT	barcode01	arabiensis	68.93	68.93	15.10	8.36	0.02	0.59	0.00	0.02		
+SLCA003_BatchKT	barcode02	arabiensis	31.60	31.60	3.76	5.79	0.77	21.31	0.16	0.32		
+SLCA003_BatchKT	barcode03	stephensi	68.72	7.22	3.54	4.88	2.92	68.72	1.53	0.10		
+SLCA003_BatchKT	barcode04	arabiensis	22.88	22.88	9.71	8.36	2.79	5.65	2.75	0.16		
+SLCA003_BatchKT	barcode05	arabiensis	35.13	35.13	14.94	8.75	11.89	12.99	0.20	0.10		
+SLCA003_BatchKT	barcode06	arabiensis	30.85	30.85	20.82	17.23	2.20	8.26	0.58	0.20		
+SLCA003_BatchKT	barcode07	arabiensis	32.11	32.11	22.01	16.72	1.73	8.35	0.40	0.15		
+SLCA003_BatchKT	barcode08	stephensi	5.66	3.82	2.54	1.99	0.64	5.66	0.32	0.72		
+SLCA003_BatchKT	barcode09	arabiensis	25.48	25.48	13.08	6.13	2.78	12.55	0.53	0.11		
+SLCA003_BatchKT	barcode10	arabiensis	29.64	29.64	22.88	9.10	1.15	7.20	1.99	0.09		
+SLCA003_BatchKT	barcode11	funestus	34.99	4.19	2.63	2.78	34.99	13.45	5.49	0.19		
+SLCA003_BatchKT	barcode12	arabiensis	25.28	25.28	6.89	3.80	1.59	5.65	1.28	0.15		
+SLCA003_BatchKT	barcode13	gambiae	31.65	30.63	31.65	27.20	0.02	0.22	0.02	0.00		
+SLCA003_BatchKT	barcode14	stephensi	23.20	10.84	7.74	7.10	1.60	23.20	0.44	0.34		
+SLCA003_BatchKT	barcode15	gambiae	35.94	30.24	35.94	13.83	0.74	10.88	0.03	0.00		
+SLCA003_BatchKT	barcode16	arabiensis	25.12	25.12	7.38	5.43	5.53	13.21	1.45	0.15		
+SLCA003_BatchKT	barcode17	arabiensis	31.55	31.55	21.90	17.23	1.76	8.81	0.31	0.08		
+SLCA003_BatchKT	barcode18	funestus	49.02	11.71	3.78	2.67	49.02	5.55	5.34	0.09		
+SLCA003_BatchKT	barcode19	arabiensis	17.81	17.81	13.06	12.02	3.37	12.36	2.72	0.22		
+SLCA003_BatchKT	barcode20	arabiensis	69.27	69.27	17.62	7.36	0.07	0.05	0.00	0.00		
+SLCA003_BatchKT	barcode21	gambiae	30.30	19.00	30.30	10.01	0.23	12.37	0.33	0.25		
+SLCA003_BatchKT	barcode22	gambiae	40.11	24.67	40.11	11.80	0.22	7.29	0.12	0.34		
+SLCA003_BatchKT	barcode23	arabiensis	30.36	30.36	26.56	17.19	1.76	7.58	0.41	0.05		
+SLCA003_BatchKT	barcode24	arabiensis	30.56	30.56	27.78	8.33	0.00	8.33	2.78	0.00		
+SLCA003_BatchKT	barcode25	arabiensis	100.00	100.00	0.00	0.00	0.00	0.00	0.00	0.00		
+SLCA003_BatchKT	barcode26	stephensi	26.99	17.64	9.15	7.89	12.07	26.99	0.08	0.53		
+SLCA003_BatchKT	barcode27	coluzzii	14.04	12.96	7.78	14.04	2.61	7.82	0.71	0.00		
+SLCA003_BatchKT	barcode28	arabiensis	40.98	40.98	28.24	24.37	0.08	0.22	0.00	0.00		
+SLCA003_BatchKT	barcode29	stephensi	13.68	13.25	7.33	6.13	3.56	13.68	1.37	0.27		
+SLCA003_BatchKT	barcode30	arabiensis	32.41	32.41	21.78	16.60	2.34	7.91	0.43	0.08		
+SLCA003_BatchKT	barcode31	arabiensis	31.35	31.35	22.61	16.51	1.90	8.42	0.40	0.10		
+SLCA003_BatchKT	barcode32	arabiensis	30.48	30.48	19.68	15.22	3.22	10.01	0.66	0.16		
+SLCA003_BatchKT	barcode33	arabiensis	31.93	31.93	21.58	15.72	2.10	9.57	0.94	0.00		
+SLCA003_BatchKT	barcode34	stephensi	22.23	21.94	11.74	7.76	1.68	22.23	0.38	0.17		
+SLCA003_BatchKT	barcode35	stephensi	28.82	20.47	13.98	8.31	2.68	28.82	0.68	0.18		
+SLCA003_BatchKT	barcode37	funestus	24.64	19.21	8.81	13.11	24.64	7.88	2.97	0.26		
+SLCA003_BatchKT	barcode38	arabiensis	9.27	9.27	3.55	7.00	2.76	8.64	1.91	0.05		
+SLCA003_BatchKT	barcode39	coluzzii	25.60	19.00	19.64	25.60	0.18	18.02	0.05	0.08		
+SLCA003_BatchKT	barcode40	arabiensis	11.38	11.38	8.04	7.42	1.98	9.51	2.94	0.23		
+SLCA003_BatchKT	barcode41	gambiae	36.02	23.55	36.02	29.86	0.08	0.43	0.00	0.00		
+SLCA003_BatchKT	barcode42	gambiae	31.84	23.72	31.84	31.15	0.10	0.60	0.02	0.04		
+SLCA003_BatchKT	barcode43	gambiae	41.57	24.04	41.57	19.92	0.62	2.00	0.09	0.02		
+SLCA003_BatchKT	barcode44	arabiensis	61.30	61.30	17.57	12.85	0.25	1.18	0.00	0.00		
+SLCA003_BatchKT	barcode45	gambiae	32.17	22.81	32.17	29.04	0.46	5.56	0.11	0.00		
+SLCA003_BatchKT	barcode46	arabiensis	100.00	100.00	0.00	0.00	0.00	0.00	0.00	0.00		
+SLCA003_BatchKT	barcode47	arabiensis	30.90	30.90	22.86	16.64	2.22	8.39	0.41	0.10		
+SLCA003_BatchKT	barcode48	arabiensis	32.48	32.48	21.87	17.63	2.15	7.89	0.27	0.05		
+SLCA003_BatchKT	barcode49	arabiensis	13.39	13.39	5.13	5.33	3.98	10.84	3.69	0.19		
+SLCA003_BatchKT	barcode50	arabiensis	62.03	62.03	16.55	17.21	0.08	0.14	0.00	0.00		
+SLCA003_BatchKT	barcode51	arabiensis	55.75	55.75	14.70	11.66	6.32	5.79	0.03	0.00		
+SLCA003_BatchKT	barcode52	arabiensis	65.18	65.18	18.38	10.80	0.12	0.28	0.00	0.00		
+SLCA003_BatchKT	barcode53	arabiensis	32.41	32.41	12.38	7.85	2.09	7.24	0.97	0.15		
+SLCA003_BatchKT	barcode54	gambiae	37.46	30.85	37.46	24.84	0.08	0.37	0.00	0.04		
+SLCA003_BatchKT	barcode55	arabiensis	34.76	34.76	20.56	13.97	2.20	4.54	0.62	0.03		
+SLCA003_BatchKT	barcode61	stephensi	88.87	4.22	2.80	1.68	0.23	88.87	0.08	0.00		
+SLCA003_BatchKT	barcode67	coluzzii	100.00	0.00	0.00	100.00	0.00	0.00	0.00	0.00		
+SLCA003_BatchKT	barcode77	-	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00		
+SLCA003_BatchKT	barcode83	arabiensis	100.00	100.00	0.00	0.00	0.00	0.00	0.00	0.00		
+SLCA003_BatchKT	barcode84	-	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00		
+SLCA003_BatchKT	barcode89	arabiensis	100.00	100.00	0.00	0.00	0.00	0.00	0.00	0.00		
+SLCA010_BatchST	barcode01	stephensi	96.50	0.14	0.02	0.34	0.00	96.50	0.00	0.00		
+SLCA010_BatchST	barcode02	stephensi	98.41	0.44	0.10	0.12	0.00	98.41	0.00	0.00		
+SLCA010_BatchST	barcode03	stephensi	99.16	0.04	0.06	0.12	0.02	99.16	0.00	0.00		
+SLCA010_BatchST	barcode04	stephensi	98.19	0.14	0.10	0.16	0.00	98.19	0.00	0.00		
+SLCA010_BatchST	barcode05	stephensi	98.72	0.46	0.22	0.26	0.02	98.72	0.00	0.02		
+SLCA010_BatchST	barcode06	stephensi	97.81	0.04	0.08	0.12	0.02	97.81	0.00	0.00		
+SLCA010_BatchST	barcode07	stephensi	98.64	0.22	0.06	0.12	0.00	98.64	0.00	0.00		
+SLCA010_BatchST	barcode08	stephensi	99.12	0.12	0.06	0.14	0.00	99.12	0.00	0.00		
+SLCA010_BatchST	barcode09	stephensi	96.99	0.30	0.34	0.20	0.00	96.99	0.00	0.00		
+SLCA010_BatchST	barcode10	stephensi	99.74	0.02	0.06	0.14	0.00	99.74	0.00	0.00		
+SLCA010_BatchST	barcode11	gambiae	37.31	27.86	37.31	26.57	0.00	4.34	0.00	0.02		
+SLCA010_BatchST	barcode12	stephensi	98.33	0.26	0.08	0.10	0.00	98.33	0.00	0.00		
+SLCA010_BatchST	barcode13	stephensi	94.27	1.38	1.38	1.83	0.00	94.27	0.00	0.00		
+SLCA010_BatchST	barcode14	stephensi	45.58	8.66	31.02	11.47	0.02	45.58	0.00	0.04		
+SLCA010_BatchST	barcode15	stephensi	97.98	0.51	0.17	0.34	0.00	97.98	0.00	0.00		
+SLCA010_BatchST	barcode16	stephensi	96.75	1.50	0.50	0.50	0.00	96.75	0.00	0.00		
+SLCA010_BatchST	barcode17	stephensi	99.34	0.08	0.06	0.08	0.04	99.34	0.00	0.00		
+SLCA010_BatchST	barcode18	stephensi	99.74	0.08	0.12	0.02	0.00	99.74	0.00	0.00		
+SLCA010_BatchST	barcode19	stephensi	98.47	0.20	0.10	0.12	0.00	98.47	0.02	0.02		
+SLCA010_BatchST	barcode20	stephensi	99.12	0.04	0.12	0.12	0.00	99.12	0.00	0.00		
+SLCA010_BatchST	barcode21	stephensi	99.00	0.30	0.16	0.16	0.00	99.00	0.00	0.00		
+SLCA010_BatchST	barcode22	stephensi	98.61	0.16	0.10	0.10	0.08	98.61	0.00	0.00		
+SLCA010_BatchST	barcode23	stephensi	98.94	0.24	0.14	0.12	0.00	98.94	0.00	0.00		
+SLCA010_BatchST	barcode24	stephensi	98.58	0.44	0.04	0.14	0.00	98.58	0.00	0.00		
+SLCA010_BatchST	barcode25	stephensi	99.52	0.08	0.16	0.04	0.02	99.52	0.00	0.00		
+SLCA010_BatchST	barcode26	stephensi	98.53	0.08	0.04	0.04	0.02	98.53	0.02	0.00		
+SLCA010_BatchST	barcode27	stephensi	44.30	22.43	14.71	15.73	0.00	44.30	0.00	0.02		
+SLCA010_BatchST	barcode28	stephensi	98.92	0.06	0.06	0.08	0.00	98.92	0.00	0.02		
+SLCA010_BatchST	barcode29	stephensi	98.87	0.18	0.12	0.18	0.00	98.87	0.00	0.02		
+SLCA010_BatchST	barcode30	stephensi	98.67	0.20	0.12	0.18	0.00	98.67	0.00	0.00		
+SLCA010_BatchST	barcode31	stephensi	99.23	0.08	0.06	0.04	0.00	99.23	0.00	0.02		
+SLCA010_BatchST	barcode32	stephensi	98.88	0.06	0.04	0.12	0.00	98.88	0.00	0.02		
+SLCA010_BatchST	barcode33	stephensi	90.79	0.44	0.13	0.35	0.09	90.79	0.22	0.03		
+SLCA010_BatchST	barcode34	stephensi	98.65	0.18	0.08	0.06	0.00	98.65	0.00	0.00		
+SLCA010_BatchST	barcode35	stephensi	99.74	0.06	0.00	0.10	0.00	99.74	0.00	0.00		
+SLCA010_BatchST	barcode36	stephensi	99.82	0.12	0.00	0.02	0.00	99.82	0.00	0.00		
+SLCA010_BatchST	barcode37	stephensi	97.58	0.52	0.40	0.38	0.00	97.58	0.00	0.00		
+SLCA010_BatchST	barcode38	stephensi	95.14	0.28	3.11	1.00	0.00	95.14	0.00	0.00		
+SLCA010_BatchST	barcode39	stephensi	97.12	1.23	0.28	0.08	0.00	97.12	0.00	0.00		
+SLCA010_BatchST	barcode40	stephensi	98.76	0.24	0.40	0.20	0.10	98.76	0.00	0.00		
+SLCA010_BatchST	barcode41	stephensi	97.97	0.12	0.06	0.04	0.02	97.97	0.00	0.02		
+SLCA010_BatchST	barcode42	stephensi	97.28	0.10	0.02	0.26	0.00	97.28	0.00	0.00		
+SLCA010_BatchST	barcode43	stephensi	98.92	0.06	0.06	0.12	0.02	98.92	0.00	0.00		
+SLCA010_BatchST	barcode44	stephensi	99.28	0.14	0.10	0.14	0.00	99.28	0.00	0.00		
+SLCA010_BatchST	barcode45	stephensi	98.27	0.32	0.44	0.20	0.00	98.27	0.00	0.02		
+SLCA010_BatchST	barcode46	stephensi	99.60	0.04	0.08	0.08	0.00	99.60	0.00	0.02		
+SLCA010_BatchST	barcode47	stephensi	94.52	1.28	2.18	0.76	0.00	94.52	0.00	0.02		
+SLCA010_BatchST	barcode48	stephensi	97.46	0.30	0.14	0.10	0.00	97.46	0.00	0.00		
+SLCA010_BatchST	barcode49	stephensi	99.58	0.08	0.08	0.08	0.00	99.58	0.00	0.00		
+SLCA010_BatchST	barcode50	stephensi	98.24	0.28	0.08	0.12	0.00	98.24	0.00	0.00		
+SLCA010_BatchST	barcode51	stephensi	99.10	0.22	0.12	0.14	0.04	99.10	0.00	0.00		
+SLCA010_BatchST	barcode52	stephensi	99.24	0.18	0.04	0.10	0.00	99.24	0.00	0.00		
+SLCA010_BatchST	barcode53	stephensi	98.13	0.22	0.06	0.08	0.06	98.13	0.00	0.00		
+SLCA010_BatchST	barcode54	stephensi	86.59	5.50	2.14	5.28	0.00	86.59	0.00	0.00		
+SLCA010_BatchST	barcode55	stephensi	98.57	0.06	0.06	0.12	0.00	98.57	0.00	0.00		
+SLCA010_BatchST	barcode56	stephensi	98.26	0.50	0.02	0.02	0.02	98.26	0.00	0.04		
+SLCA010_BatchST	barcode57	stephensi	98.27	0.10	0.40	0.12	0.04	98.27	0.00	0.00		
+SLCA010_BatchST	barcode58	stephensi	98.19	0.64	0.44	0.26	0.02	98.19	0.00	0.02		
+SLCA010_BatchST	barcode59	stephensi	98.81	0.24	0.08	0.12	0.02	98.81	0.00	0.02		
+SLCA010_BatchST	barcode60	stephensi	96.90	0.06	0.14	0.14	0.00	96.90	0.00	0.02		
+SLCA010_BatchST	barcode61	stephensi	95.15	1.68	1.74	0.86	0.00	95.15	0.00	0.00		
+SLCA010_BatchST	barcode62	stephensi	98.53	0.12	0.18	0.10	0.02	98.53	0.00	0.00		
+SLCA010_BatchST	barcode63	stephensi	98.69	0.08	0.06	0.06	0.00	98.69	0.00	0.04		
+SLCA010_BatchST	barcode64	stephensi	98.12	0.14	0.34	0.32	0.00	98.12	0.00	0.02		
+SLCA010_BatchST	barcode65	stephensi	98.21	0.42	0.02	0.12	0.00	98.21	0.00	0.00		
+SLCA010_BatchST	barcode66	stephensi	98.63	0.16	0.08	0.14	0.00	98.63	0.00	0.02		
+SLCA010_BatchST	barcode67	stephensi	99.06	0.14	0.10	0.26	0.02	99.06	0.00	0.02		
+SLCA010_BatchST	barcode68	stephensi	98.54	0.12	0.18	0.14	0.00	98.54	0.00	0.00		
+SLCA010_BatchST	barcode69	stephensi	98.19	0.31	0.19	0.15	0.00	98.19	0.02	0.00		
+SLCA010_BatchST	barcode70	stephensi	98.32	0.06	0.06	0.10	0.02	98.32	0.00	0.00		
+SLCA010_BatchST	barcode71	stephensi	97.91	0.12	0.18	0.04	0.00	97.91	0.00	0.00		
+SLCA010_BatchST	barcode72	stephensi	98.53	0.12	0.08	0.18	0.00	98.53	0.00	0.00		
+SLCA010_BatchST	barcode73	stephensi	97.01	0.38	0.14	0.04	0.02	97.01	0.02	0.02		
+SLCA010_BatchST	barcode74	stephensi	90.25	2.50	3.00	3.00	0.00	90.25	0.12	0.00		
+SLCA010_BatchST	barcode75	stephensi	98.45	0.08	0.08	0.04	0.02	98.45	0.00	0.00		
+SLCA010_BatchST	barcode76	arabiensis	73.29	73.29	10.44	6.84	0.00	3.22	0.00	0.00		
+SLCA010_BatchST	barcode77	stephensi	98.27	0.12	0.08	0.20	0.00	98.27	0.00	0.02		
+SLCA010_BatchST	barcode78	stephensi	98.24	0.18	0.12	0.08	0.02	98.24	0.00	0.00		
+SLCA010_BatchST	barcode79	stephensi	97.85	0.18	0.06	0.08	0.00	97.85	0.00	0.02		
+SLCA010_BatchST	barcode80	stephensi	92.76	1.90	1.71	2.29	0.00	92.76	0.00	0.00		
+SLCA010_BatchST	barcode88	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00		
+SLCA010_BatchST	barcode94	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00		
+SLCA010_BatchST	barcode95	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00		
+SLCA010_trial1	barcode02	stephensi	95.12	0.00	0.00	2.44	0.00	95.12	0.00	0.00	SLCA003_BatchKT:arabiensis(299603)	arabiensis=94675;gambiae=11265;coluzzii=17347;funestus=2307;stephensi=63845;coustani=479;Plasmodium=959
+SLCA010_trial1	barcode03	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:stephensi(68516)	arabiensis=4947;gambiae=2425;coluzzii=3344;funestus=2001;stephensi=47084;coustani=1048;Plasmodium=69
+SLCA010_trial1	barcode04	stephensi	99.44	0.00	0.00	0.00	0.00	99.44	0.00	0.00	SLCA003_BatchKT:arabiensis(126732)	arabiensis=28996;gambiae=12306;coluzzii=10595;funestus=3536;stephensi=7160;coustani=3485;Plasmodium=203
+SLCA010_trial1	barcode05	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:arabiensis(150817)	arabiensis=52982;gambiae=22532;coluzzii=13196;funestus=17932;stephensi=19591;coustani=302;Plasmodium=151
+SLCA010_trial1	barcode06	stephensi	98.27	0.00	0.00	0.00	0.00	98.27	0.00	0.00	SLCA003_BatchKT:arabiensis(11067)	arabiensis=3414;gambiae=2304;coluzzii=1907;funestus=243;stephensi=914;coustani=64;Plasmodium=22
+SLCA010_trial1	barcode07	stephensi	99.02	0.00	0.00	0.00	0.00	99.02	0.00	0.00	SLCA003_BatchKT:arabiensis(7189)	arabiensis=2308;gambiae=1582;coluzzii=1202;funestus=124;stephensi=600;coustani=29;Plasmodium=11
+SLCA010_trial1	barcode08	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:stephensi(27517)	arabiensis=1051;gambiae=699;coluzzii=548;funestus=176;stephensi=1557;coustani=88;Plasmodium=198
+SLCA010_trial1	barcode09	stephensi	96.83	0.40	0.00	0.40	0.40	96.83	0.00	0.00	SLCA003_BatchKT:arabiensis(46727)	arabiensis=11906;gambiae=6112;coluzzii=2864;funestus=1299;stephensi=5864;coustani=248;Plasmodium=51
+SLCA010_trial1	barcode10	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:arabiensis(132895)	arabiensis=39390;gambiae=30406;coluzzii=12093;funestus=1528;stephensi=9568;coustani=2645;Plasmodium=120
+SLCA010_trial1	barcode11	gambiae	32.14	23.41	32.14	29.37	0.00	2.38	0.00	0.00	SLCA003_BatchKT:funestus(41342)	arabiensis=1732;gambiae=1087;coluzzii=1149;funestus=14466;stephensi=5560;coustani=2270;Plasmodium=79
+SLCA010_trial1	barcode12	stephensi	97.62	0.00	0.00	0.00	0.00	97.62	0.00	0.00	SLCA003_BatchKT:arabiensis(131959)	arabiensis=33359;gambiae=9092;coluzzii=5014;funestus=2098;stephensi=7456;coustani=1689;Plasmodium=198
+SLCA010_trial1	barcode13	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:gambiae(154096)	arabiensis=47200;gambiae=48771;coluzzii=41914;funestus=31;stephensi=339;coustani=31
+SLCA010_trial1	barcode14	stephensi	35.48	9.68	29.03	25.81	0.00	35.48	0.00	0.00	SLCA003_BatchKT:stephensi(31311)	arabiensis=3394;gambiae=2423;coluzzii=2223;funestus=501;stephensi=7264;coustani=138;Plasmodium=106
+SLCA010_trial1	barcode15	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:gambiae(314138)	arabiensis=94995;gambiae=112901;coluzzii=43445;funestus=2325;stephensi=34178;coustani=94
+SLCA010_trial1	barcode16	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:arabiensis(5749)	arabiensis=1444;gambiae=424;coluzzii=312;funestus=318;stephensi=759;coustani=83;Plasmodium=9
+SLCA010_trial1	barcode17	stephensi	99.36	0.00	0.64	0.00	0.00	99.36	0.00	0.00	SLCA003_BatchKT:arabiensis(5305)	arabiensis=1674;gambiae=1162;coluzzii=914;funestus=93;stephensi=467;coustani=16;Plasmodium=4
+SLCA010_trial1	barcode18	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:funestus(127838)	arabiensis=14970;gambiae=4832;coluzzii=3413;funestus=62666;stephensi=7095;coustani=6827;Plasmodium=115
+SLCA010_trial1	barcode19	stephensi	98.24	0.00	1.18	0.00	0.00	98.24	0.00	0.00	SLCA003_BatchKT:arabiensis(143040)	arabiensis=25475;gambiae=18681;coluzzii=17193;funestus=4820;stephensi=17680;coustani=3891;Plasmodium=315
+SLCA010_trial1	barcode20	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:arabiensis(507266)	arabiensis=351383;gambiae=89380;coluzzii=37335;funestus=355;stephensi=254
+SLCA010_trial1	barcode21	stephensi	97.81	0.73	0.00	0.73	0.00	97.81	0.00	0.00	SLCA003_BatchKT:gambiae(381806)	arabiensis=72543;gambiae=115687;coluzzii=38219;funestus=878;stephensi=47229;coustani=1260;Plasmodium=955
+SLCA010_trial1	barcode22	stephensi	98.70	0.00	0.00	0.00	0.43	98.70	0.00	0.00	SLCA003_BatchKT:gambiae(378280)	arabiensis=93322;gambiae=151728;coluzzii=44637;funestus=832;stephensi=27577;coustani=454;Plasmodium=1286
+SLCA010_trial1	barcode23	stephensi	98.05	0.39	0.39	0.00	0.00	98.05	0.00	0.00	SLCA003_BatchKT:arabiensis(19363)	arabiensis=5879;gambiae=5143;coluzzii=3328;funestus=341;stephensi=1468;coustani=79;Plasmodium=10
+SLCA010_trial1	barcode24	stephensi	99.15	0.00	0.00	0.00	0.00	99.15	0.00	0.00		arabiensis=14;gambiae=13;coluzzii=4;stephensi=4;coustani=1
+SLCA010_trial1	barcode25	stephensi	99.25	0.00	0.75	0.00	0.00	99.25	0.00	0.00		arabiensis=4
+SLCA010_trial1	barcode26	stephensi	97.99	0.00	0.00	0.00	0.00	97.99	0.00	0.00	SLCA003_BatchKT:stephensi(102131)	arabiensis=18016;gambiae=9345;coluzzii=8058;funestus=12327;stephensi=27565;coustani=82;Plasmodium=541
+SLCA010_trial1	barcode27	stephensi	41.67	19.44	17.22	13.89	0.00	41.67	0.00	0.00	SLCA003_BatchKT:coluzzii(117279)	arabiensis=15199;gambiae=9124;coluzzii=16466;funestus=3061;stephensi=9171;coustani=833
+SLCA010_trial1	barcode28	stephensi	99.36	0.00	0.00	0.00	0.00	99.36	0.00	0.00	SLCA003_BatchKT:arabiensis(141705)	arabiensis=58071;gambiae=40017;coluzzii=34534;funestus=113;stephensi=312
+SLCA010_trial1	barcode29	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:stephensi(48147)	arabiensis=6379;gambiae=3529;coluzzii=2951;funestus=1714;stephensi=6587;coustani=660;Plasmodium=130
+SLCA010_trial1	barcode30	stephensi	99.55	0.00	0.00	0.45	0.00	99.55	0.00	0.00	SLCA003_BatchKT:arabiensis(6664)	arabiensis=2160;gambiae=1451;coluzzii=1106;funestus=156;stephensi=527;coustani=29;Plasmodium=5
+SLCA010_trial1	barcode31	stephensi	99.39	0.00	0.00	0.00	0.00	99.39	0.00	0.00	SLCA003_BatchKT:arabiensis(7630)	arabiensis=2392;gambiae=1725;coluzzii=1260;funestus=145;stephensi=642;coustani=31;Plasmodium=8
+SLCA010_trial1	barcode32	stephensi	97.89	0.00	0.84	0.00	0.00	97.89	0.00	0.00	SLCA003_BatchKT:arabiensis(16158)	arabiensis=4925;gambiae=3180;coluzzii=2459;funestus=520;stephensi=1617;coustani=107;Plasmodium=26
+SLCA010_trial1	barcode33	stephensi	87.21	0.00	0.00	0.00	0.00	87.21	1.16	0.00	SLCA003_BatchKT:arabiensis(2757)	arabiensis=880;gambiae=595;coluzzii=433;funestus=58;stephensi=264;coustani=26
+SLCA010_trial1	barcode34	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:stephensi(8725)	arabiensis=1914;gambiae=1024;coluzzii=677;funestus=147;stephensi=1940;coustani=33;Plasmodium=15
+SLCA010_trial1	barcode35	stephensi	99.66	0.00	0.00	0.00	0.00	99.66	0.00	0.00	SLCA003_BatchKT:stephensi(26471)	arabiensis=5419;gambiae=3701;coluzzii=2200;funestus=709;stephensi=7629;coustani=180;Plasmodium=48
+SLCA010_trial1	barcode36	stephensi	99.72	0.28	0.00	0.00	0.00	99.72	0.00	0.00		
+SLCA010_trial1	barcode37	stephensi	97.40	1.04	1.04	0.00	0.00	97.40	0.00	0.00	SLCA003_BatchKT:funestus(121164)	arabiensis=23276;gambiae=10675;coluzzii=15885;funestus=29855;stephensi=9548;coustani=3599;Plasmodium=315
+SLCA010_trial1	barcode38	stephensi	94.64	0.21	3.30	0.82	0.00	94.64	0.00	0.00	SLCA003_BatchKT:arabiensis(167313)	arabiensis=15510;gambiae=5940;coluzzii=11712;funestus=4618;stephensi=14456;coustani=3196;Plasmodium=84
+SLCA010_trial1	barcode39	stephensi	94.07	1.69	2.54	0.00	0.00	94.07	0.00	0.00	SLCA003_BatchKT:coluzzii(76313)	arabiensis=14499;gambiae=14988;coluzzii=19536;funestus=137;stephensi=13752;coustani=38;Plasmodium=61
+SLCA010_trial1	barcode40	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:arabiensis(21567)	arabiensis=2454;gambiae=1734;coluzzii=1600;funestus=427;stephensi=2051;coustani=634;Plasmodium=50
+SLCA010_trial1	barcode41	stephensi	98.54	0.00	0.00	0.00	0.00	98.54	0.00	0.00	SLCA003_BatchKT:gambiae(86584)	arabiensis=20391;gambiae=31188;coluzzii=25854;funestus=69;stephensi=372
+SLCA010_trial1	barcode42	stephensi	96.19	0.00	0.00	0.00	0.00	96.19	0.00	0.00	SLCA003_BatchKT:gambiae(86089)	arabiensis=20420;gambiae=27411;coluzzii=26817;funestus=86;stephensi=517;coustani=17;Plasmodium=34
+SLCA010_trial1	barcode43	stephensi	97.69	0.00	1.16	0.58	0.00	97.69	0.00	0.00	SLCA003_BatchKT:gambiae(15096)	arabiensis=3629;gambiae=6275;coluzzii=3007;funestus=94;stephensi=302;coustani=14;Plasmodium=3
+SLCA010_trial1	barcode44	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:arabiensis(17971)	arabiensis=11016;gambiae=3158;coluzzii=2309;funestus=45;stephensi=212
+SLCA010_trial1	barcode45	stephensi	98.27	1.04	0.00	0.35	0.00	98.27	0.00	0.00	SLCA003_BatchKT:gambiae(19327)	arabiensis=4408;gambiae=6217;coluzzii=5613;funestus=89;stephensi=1075;coustani=21
+SLCA010_trial1	barcode46	stephensi	99.21	0.39	0.00	0.39	0.00	99.21	0.00	0.00		arabiensis=2
+SLCA010_trial1	barcode47	stephensi	92.43	1.62	1.62	3.24	0.00	92.43	0.00	0.00	SLCA003_BatchKT:arabiensis(8541)	arabiensis=2639;gambiae=1952;coluzzii=1421;funestus=190;stephensi=717;coustani=35;Plasmodium=9
+SLCA010_trial1	barcode48	stephensi	96.05	0.00	0.00	0.56	0.00	96.05	0.00	0.00	SLCA003_BatchKT:arabiensis(11539)	arabiensis=3748;gambiae=2524;coluzzii=2034;funestus=248;stephensi=910;coustani=31;Plasmodium=6
+SLCA010_trial1	barcode49	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:arabiensis(113433)	arabiensis=15189;gambiae=5819;coluzzii=6046;funestus=4515;stephensi=12296;coustani=4186;Plasmodium=216
+SLCA010_trial1	barcode50	stephensi	98.88	0.56	0.00	0.00	0.00	98.88	0.00	0.00	SLCA003_BatchKT:arabiensis(681094)	arabiensis=422483;gambiae=112721;coluzzii=117216;funestus=545;stephensi=954
+SLCA010_trial1	barcode51	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:arabiensis(326439)	arabiensis=181990;gambiae=47987;coluzzii=38063;funestus=20631;stephensi=18901;coustani=98
+SLCA010_trial1	barcode52	stephensi	99.19	0.40	0.00	0.00	0.00	99.19	0.00	0.00	SLCA003_BatchKT:arabiensis(180703)	arabiensis=117782;gambiae=33213;coluzzii=19516;funestus=217;stephensi=506
+SLCA010_trial1	barcode53	stephensi	97.74	0.32	0.00	0.00	0.00	97.74	0.00	0.00	SLCA003_BatchKT:arabiensis(153099)	arabiensis=49619;gambiae=18954;coluzzii=12018;funestus=3200;stephensi=11084;coustani=1485;Plasmodium=230
+SLCA010_trial1	barcode54	stephensi	86.52	5.99	2.62	3.75	0.00	86.52	0.00	0.00	SLCA003_BatchKT:gambiae(75251)	arabiensis=23215;gambiae=28189;coluzzii=18692;funestus=60;stephensi=278;Plasmodium=30
+SLCA010_trial1	barcode55	stephensi	97.09	0.00	0.00	0.00	0.00	97.09	0.00	0.00	SLCA003_BatchKT:arabiensis(68662)	arabiensis=23867;gambiae=14117;coluzzii=9592;funestus=1511;stephensi=3117;coustani=426;Plasmodium=21
+SLCA010_trial1	barcode56	stephensi	98.97	0.34	0.00	0.00	0.00	98.97	0.00	0.00		
+SLCA010_trial1	barcode57	stephensi	98.94	0.00	0.00	1.06	0.00	98.94	0.00	0.00		
+SLCA010_trial1	barcode58	stephensi	98.09	0.96	0.96	0.00	0.00	98.09	0.00	0.00		
+SLCA010_trial1	barcode59	stephensi	98.81	0.00	0.00	0.40	0.00	98.81	0.00	0.00		
+SLCA010_trial1	barcode60	stephensi	96.75	0.00	0.00	0.00	0.00	96.75	0.00	0.00		
+SLCA010_trial1	barcode61	stephensi	95.44	0.70	2.46	0.35	0.00	95.44	0.00	0.00	SLCA003_BatchKT:stephensi(19407)	arabiensis=819;gambiae=543;coluzzii=326;funestus=45;stephensi=17247;coustani=16
+SLCA010_trial1	barcode62	stephensi	98.74	0.31	0.31	0.00	0.00	98.74	0.00	0.00		
+SLCA010_trial1	barcode63	stephensi	98.31	0.28	0.00	0.28	0.00	98.31	0.00	0.00		
+SLCA010_trial1	barcode64	stephensi	96.91	1.03	0.00	0.00	0.00	96.91	0.00	0.00		
+SLCA010_trial1	barcode65	stephensi	99.05	0.00	0.00	0.00	0.00	99.05	0.00	0.00		
+SLCA010_trial1	barcode66	stephensi	98.90	0.55	0.00	0.00	0.00	98.90	0.00	0.00		
+SLCA010_trial1	barcode67	stephensi	97.83	0.54	0.54	1.09	0.00	97.83	0.00	0.00		coluzzii=1
+SLCA010_trial1	barcode68	stephensi	98.09	0.48	0.48	0.00	0.00	98.09	0.00	0.00		
+SLCA010_trial1	barcode69	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00		
+SLCA010_trial1	barcode70	stephensi	97.35	0.00	0.00	0.44	0.00	97.35	0.00	0.00		
+SLCA010_trial1	barcode71	stephensi	98.90	0.00	0.37	0.00	0.00	98.90	0.00	0.00		
+SLCA010_trial1	barcode72	stephensi	98.19	0.00	0.00	0.00	0.00	98.19	0.00	0.00		
+SLCA010_trial1	barcode73	stephensi	97.73	0.00	0.00	0.57	0.00	97.73	0.00	0.00		
+SLCA010_trial1	barcode74	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00		
+SLCA010_trial1	barcode75	stephensi	98.31	0.00	0.00	0.00	0.00	98.31	0.00	0.00		
+SLCA010_trial1	barcode76	arabiensis	65.78	65.78	14.67	7.11	0.00	2.67	0.00	0.00		
+SLCA010_trial1	barcode77	stephensi	97.92	0.00	0.00	0.00	0.00	97.92	0.00	0.00		
+SLCA010_trial1	barcode78	stephensi	98.60	0.28	0.00	0.00	0.00	98.60	0.00	0.00		
+SLCA010_trial1	barcode79	stephensi	97.45	0.00	0.00	0.00	0.00	97.45	0.00	0.00		
+SLCA010_trial1	barcode80	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00		
+SLCA010_trial3	barcode01	stephensi	97.28	0.00	0.00	0.00	0.00	97.28	0.00	0.00	SLCA003_BatchKT:arabiensis(261960)	arabiensis=180569;gambiae=39556;coluzzii=21900;funestus=52;stephensi=1546;Plasmodium=52
+SLCA010_trial3	barcode02	stephensi	99.25	0.75	0.00	0.00	0.00	99.25	0.00	0.00	SLCA003_BatchKT:arabiensis(299603)	arabiensis=94675;gambiae=11265;coluzzii=17348;funestus=2307;stephensi=63884;coustani=479;Plasmodium=959
+SLCA010_trial3	barcode03	stephensi	99.58	0.00	0.00	0.00	0.00	99.58	0.00	0.00	SLCA003_BatchKT:stephensi(68516);SLCA010_trial1:stephensi(186)	arabiensis=4947;gambiae=2425;coluzzii=3344;funestus=2001;stephensi=47270;coustani=1048;Plasmodium=69
+SLCA010_trial3	barcode04	stephensi	99.09	0.00	0.00	0.00	0.00	99.09	0.00	0.00	SLCA003_BatchKT:arabiensis(126732);SLCA010_trial1:stephensi(181)	arabiensis=28996;gambiae=12306;coluzzii=10595;funestus=3536;stephensi=7340;coustani=3485;Plasmodium=203
+SLCA010_trial3	barcode05	stephensi	98.99	0.00	0.51	0.00	0.00	98.99	0.00	0.00	SLCA003_BatchKT:arabiensis(150817);SLCA010_trial1:stephensi(126)	arabiensis=52982;gambiae=22532;coluzzii=13196;funestus=17932;stephensi=19717;coustani=302;Plasmodium=151
+SLCA010_trial3	barcode06	stephensi	97.92	0.00	0.00	0.00	0.00	97.92	0.00	0.00	SLCA003_BatchKT:arabiensis(11067);SLCA010_trial1:stephensi(346)	arabiensis=3414;gambiae=2304;coluzzii=1907;funestus=243;stephensi=1254;coustani=64;Plasmodium=22
+SLCA010_trial3	barcode07	stephensi	99.44	0.00	0.00	0.00	0.00	99.44	0.00	0.00	SLCA003_BatchKT:arabiensis(7189);SLCA010_trial1:stephensi(207)	arabiensis=2308;gambiae=1582;coluzzii=1202;funestus=124;stephensi=805;coustani=29;Plasmodium=11
+SLCA010_trial3	barcode08	stephensi	99.35	0.00	0.00	0.00	0.00	99.35	0.00	0.00	SLCA003_BatchKT:stephensi(27517)	arabiensis=1051;gambiae=699;coluzzii=548;funestus=176;stephensi=1635;coustani=88;Plasmodium=198
+SLCA010_trial3	barcode09	stephensi	96.72	0.16	0.00	0.00	0.00	96.72	0.00	0.16	SLCA003_BatchKT:arabiensis(46727);SLCA010_trial1:stephensi(254)	arabiensis=11907;gambiae=6112;coluzzii=2865;funestus=1300;stephensi=6110;coustani=248;Plasmodium=51
+SLCA010_trial3	barcode10	stephensi	99.85	0.15	0.00	0.00	0.00	99.85	0.00	0.00	SLCA003_BatchKT:arabiensis(132895);SLCA010_trial1:stephensi(227)	arabiensis=39390;gambiae=30406;coluzzii=12093;funestus=1528;stephensi=9795;coustani=2645;Plasmodium=120
+SLCA010_trial3	barcode11	gambiae	34.69	29.45	34.69	24.34	0.00	2.92	0.00	0.00	SLCA003_BatchKT:funestus(41342);SLCA010_trial1:gambiae(254)	arabiensis=1792;gambiae=1169;coluzzii=1224;funestus=14466;stephensi=5567;coustani=2270;Plasmodium=79
+SLCA010_trial3	barcode12	stephensi	97.65	0.12	0.00	0.25	0.00	97.65	0.00	0.12	SLCA003_BatchKT:arabiensis(131959);SLCA010_trial1:stephensi(294)	arabiensis=33359;gambiae=9092;coluzzii=5014;funestus=2098;stephensi=7743;coustani=1689;Plasmodium=198
+SLCA010_trial3	barcode13	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:gambiae(154096)	arabiensis=47200;gambiae=48771;coluzzii=41914;funestus=31;stephensi=342;coustani=31
+SLCA010_trial3	barcode14	gambiae	37.14	4.29	37.14	20.00	0.00	34.29	0.00	0.00	SLCA003_BatchKT:stephensi(31311)	arabiensis=3397;gambiae=2432;coluzzii=2231;funestus=501;stephensi=7275;coustani=138;Plasmodium=106
+SLCA010_trial3	barcode15	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:gambiae(314138)	arabiensis=94995;gambiae=112901;coluzzii=43445;funestus=2325;stephensi=34179;coustani=94
+SLCA010_trial3	barcode16	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:arabiensis(5749)	arabiensis=1444;gambiae=424;coluzzii=312;funestus=318;stephensi=763;coustani=83;Plasmodium=9
+SLCA010_trial3	barcode17	stephensi	98.73	0.00	0.21	0.00	0.00	98.73	0.00	0.00	SLCA003_BatchKT:arabiensis(5305);SLCA010_trial1:stephensi(157)	arabiensis=1674;gambiae=1163;coluzzii=914;funestus=93;stephensi=623;coustani=16;Plasmodium=4
+SLCA010_trial3	barcode18	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:funestus(127838);SLCA010_trial1:stephensi(214)	arabiensis=14970;gambiae=4832;coluzzii=3413;funestus=62666;stephensi=7309;coustani=6827;Plasmodium=115
+SLCA010_trial3	barcode19	stephensi	98.75	0.42	0.00	0.00	0.00	98.75	0.00	0.00	SLCA003_BatchKT:arabiensis(143040);SLCA010_trial1:stephensi(171)	arabiensis=25475;gambiae=18683;coluzzii=17193;funestus=4820;stephensi=17848;coustani=3891;Plasmodium=315
+SLCA010_trial3	barcode20	stephensi	99.79	0.00	0.00	0.00	0.00	99.79	0.00	0.00	SLCA003_BatchKT:arabiensis(507266);SLCA010_trial1:stephensi(178)	arabiensis=351383;gambiae=89380;coluzzii=37335;funestus=355;stephensi=432
+SLCA010_trial3	barcode21	stephensi	99.50	0.00	0.00	0.00	0.00	99.50	0.00	0.00	SLCA003_BatchKT:gambiae(381806);SLCA010_trial1:stephensi(137)	arabiensis=72544;gambiae=115687;coluzzii=38220;funestus=878;stephensi=47363;coustani=1260;Plasmodium=955
+SLCA010_trial3	barcode22	stephensi	98.03	0.16	0.16	0.00	0.00	98.03	0.00	0.00	SLCA003_BatchKT:gambiae(378280);SLCA010_trial1:stephensi(231)	arabiensis=93322;gambiae=151728;coluzzii=44637;funestus=833;stephensi=27805;coustani=454;Plasmodium=1286
+SLCA010_trial3	barcode23	stephensi	98.75	0.00	0.28	0.00	0.00	98.75	0.00	0.00	SLCA003_BatchKT:arabiensis(19363);SLCA010_trial1:stephensi(257)	arabiensis=5880;gambiae=5144;coluzzii=3328;funestus=341;stephensi=1720;coustani=79;Plasmodium=10
+SLCA010_trial3	barcode24	stephensi	98.89	0.37	0.00	0.37	0.00	98.89	0.00	0.00	SLCA010_trial1:stephensi(118)	arabiensis=14;gambiae=13;coluzzii=4;stephensi=121;coustani=1
+SLCA010_trial3	barcode25	stephensi	99.50	0.00	0.25	0.00	0.00	99.50	0.00	0.00	SLCA010_trial1:stephensi(133)	arabiensis=4;gambiae=1;stephensi=132
+SLCA010_trial3	barcode26	stephensi	97.60	0.00	0.00	0.00	0.00	97.60	0.00	0.00	SLCA003_BatchKT:stephensi(102131);SLCA010_trial1:stephensi(201)	arabiensis=18016;gambiae=9345;coluzzii=8058;funestus=12327;stephensi=27762;coustani=82;Plasmodium=541
+SLCA010_trial3	barcode27	stephensi	43.27	21.85	12.58	16.11	0.00	43.27	0.00	0.00	SLCA003_BatchKT:coluzzii(117279);SLCA010_trial1:stephensi(181)	arabiensis=15235;gambiae=9155;coluzzii=16491;funestus=3061;stephensi=9247;coustani=833
+SLCA010_trial3	barcode28	stephensi	99.07	0.00	0.00	0.00	0.00	99.07	0.00	0.00	SLCA003_BatchKT:arabiensis(141705);SLCA010_trial1:stephensi(158)	arabiensis=58071;gambiae=40017;coluzzii=34534;funestus=113;stephensi=469
+SLCA010_trial3	barcode29	stephensi	98.62	0.69	0.23	0.00	0.00	98.62	0.00	0.00	SLCA003_BatchKT:stephensi(48147);SLCA010_trial1:stephensi(158)	arabiensis=6379;gambiae=3529;coluzzii=2951;funestus=1714;stephensi=6745;coustani=660;Plasmodium=130
+SLCA010_trial3	barcode30	stephensi	98.69	0.16	0.00	0.16	0.00	98.69	0.00	0.00	SLCA003_BatchKT:arabiensis(6664);SLCA010_trial1:stephensi(224)	arabiensis=2160;gambiae=1451;coluzzii=1107;funestus=156;stephensi=750;coustani=29;Plasmodium=5
+SLCA010_trial3	barcode31	stephensi	99.51	0.00	0.25	0.00	0.00	99.51	0.00	0.00	SLCA003_BatchKT:arabiensis(7630);SLCA010_trial1:stephensi(170)	arabiensis=2392;gambiae=1725;coluzzii=1260;funestus=145;stephensi=811;coustani=31;Plasmodium=8
+SLCA010_trial3	barcode32	stephensi	98.74	0.14	0.14	0.14	0.00	98.74	0.00	0.00	SLCA003_BatchKT:arabiensis(16158);SLCA010_trial1:stephensi(238)	arabiensis=4925;gambiae=3182;coluzzii=2459;funestus=520;stephensi=1850;coustani=107;Plasmodium=26
+SLCA010_trial3	barcode33	stephensi	90.91	0.00	0.00	0.00	0.00	90.91	0.91	0.00	SLCA003_BatchKT:arabiensis(2757);SLCA010_trial1:stephensi(146)	arabiensis=880;gambiae=595;coluzzii=433;funestus=58;stephensi=391;coustani=28
+SLCA010_trial3	barcode34	stephensi	99.60	0.00	0.00	0.00	0.00	99.60	0.00	0.00	SLCA003_BatchKT:stephensi(8725)	arabiensis=1914;gambiae=1024;coluzzii=677;funestus=147;stephensi=2020;coustani=33;Plasmodium=15
+SLCA010_trial3	barcode35	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:stephensi(26471);SLCA010_trial1:stephensi(299)	arabiensis=5419;gambiae=3701;coluzzii=2200;funestus=709;stephensi=7927;coustani=180;Plasmodium=48
+SLCA010_trial3	barcode36	stephensi	99.91	0.09	0.00	0.00	0.00	99.91	0.00	0.00	SLCA010_trial1:stephensi(356)	arabiensis=1;stephensi=355
+SLCA010_trial3	barcode37	stephensi	97.28	0.49	0.74	0.25	0.00	97.28	0.00	0.00	SLCA003_BatchKT:funestus(121164);SLCA010_trial1:stephensi(193)	arabiensis=23278;gambiae=10677;coluzzii=15885;funestus=29855;stephensi=9736;coustani=3599;Plasmodium=315
+SLCA010_trial3	barcode38	stephensi	95.26	0.28	3.62	0.56	0.00	95.26	0.00	0.00	SLCA003_BatchKT:arabiensis(167313);SLCA010_trial1:stephensi(485)	arabiensis=15511;gambiae=5956;coluzzii=11716;funestus=4618;stephensi=14915;coustani=3196;Plasmodium=84
+SLCA010_trial3	barcode39	stephensi	97.32	1.34	0.67	0.00	0.00	97.32	0.00	0.00	SLCA003_BatchKT:coluzzii(76313);SLCA010_trial1:stephensi(119)	arabiensis=14501;gambiae=14991;coluzzii=19536;funestus=137;stephensi=13864;coustani=38;Plasmodium=61
+SLCA010_trial3	barcode40	stephensi	98.76	0.25	0.50	0.00	0.00	98.76	0.00	0.25	SLCA003_BatchKT:arabiensis(21567);SLCA010_trial1:stephensi(143)	arabiensis=2454;gambiae=1734;coluzzii=1600;funestus=427;stephensi=2194;coustani=634;Plasmodium=50
+SLCA010_trial3	barcode41	stephensi	98.00	0.00	0.00	0.00	0.00	98.00	0.00	0.00	SLCA003_BatchKT:gambiae(86584);SLCA010_trial1:stephensi(137)	arabiensis=20391;gambiae=31188;coluzzii=25854;funestus=69;stephensi=507
+SLCA010_trial3	barcode42	stephensi	95.50	0.35	0.00	0.00	0.00	95.50	0.00	0.00	SLCA003_BatchKT:gambiae(86089);SLCA010_trial1:stephensi(105)	arabiensis=20420;gambiae=27411;coluzzii=26817;funestus=86;stephensi=618;coustani=17;Plasmodium=34
+SLCA010_trial3	barcode43	stephensi	99.74	0.00	0.00	0.00	0.00	99.74	0.00	0.00	SLCA003_BatchKT:gambiae(15096);SLCA010_trial1:stephensi(176)	arabiensis=3629;gambiae=6277;coluzzii=3008;funestus=94;stephensi=474;coustani=14;Plasmodium=3
+SLCA010_trial3	barcode44	stephensi	99.59	0.00	0.00	0.00	0.00	99.59	0.00	0.00	SLCA003_BatchKT:arabiensis(17971);SLCA010_trial1:stephensi(158)	arabiensis=11016;gambiae=3158;coluzzii=2309;funestus=45;stephensi=370
+SLCA010_trial3	barcode45	stephensi	98.76	0.00	0.41	0.14	0.00	98.76	0.00	0.00	SLCA003_BatchKT:gambiae(19327);SLCA010_trial1:stephensi(293)	arabiensis=4412;gambiae=6217;coluzzii=5614;funestus=89;stephensi=1363;coustani=21
+SLCA010_trial3	barcode46	stephensi	99.61	0.00	0.13	0.13	0.00	99.61	0.00	0.00	SLCA010_trial1:stephensi(256)	arabiensis=3;coluzzii=1;stephensi=254
+SLCA010_trial3	barcode47	stephensi	94.47	0.61	2.87	0.82	0.00	94.47	0.00	0.00	SLCA003_BatchKT:arabiensis(8541);SLCA010_trial1:stephensi(185)	arabiensis=2642;gambiae=1955;coluzzii=1427;funestus=190;stephensi=888;coustani=35;Plasmodium=9
+SLCA010_trial3	barcode48	stephensi	97.85	0.43	0.00	0.21	0.21	97.85	0.21	0.00	SLCA003_BatchKT:arabiensis(11539);SLCA010_trial1:stephensi(180)	arabiensis=3748;gambiae=2524;coluzzii=2035;funestus=248;stephensi=1083;coustani=31;Plasmodium=6
+SLCA010_trial3	barcode49	stephensi	99.53	0.00	0.31	0.00	0.00	99.53	0.00	0.00	SLCA003_BatchKT:arabiensis(113433);SLCA010_trial1:stephensi(262)	arabiensis=15189;gambiae=5819;coluzzii=6046;funestus=4515;stephensi=12558;coustani=4186;Plasmodium=216
+SLCA010_trial3	barcode50	stephensi	97.87	0.64	0.43	0.21	0.00	97.87	0.00	0.00	SLCA003_BatchKT:arabiensis(681094);SLCA010_trial1:stephensi(180)	arabiensis=422484;gambiae=112721;coluzzii=117216;funestus=545;stephensi=1132
+SLCA010_trial3	barcode51	stephensi	99.21	0.20	0.00	0.00	0.00	99.21	0.00	0.00	SLCA003_BatchKT:arabiensis(326439);SLCA010_trial1:stephensi(200)	arabiensis=181990;gambiae=47987;coluzzii=38063;funestus=20631;stephensi=19101;coustani=98
+SLCA010_trial3	barcode52	stephensi	99.06	0.31	0.16	0.00	0.00	99.06	0.00	0.00	SLCA003_BatchKT:arabiensis(180703);SLCA010_trial1:stephensi(248)	arabiensis=117783;gambiae=33213;coluzzii=19516;funestus=217;stephensi=752
+SLCA010_trial3	barcode53	stephensi	98.71	0.00	0.12	0.00	0.12	98.71	0.00	0.00	SLCA003_BatchKT:arabiensis(153099);SLCA010_trial1:stephensi(312)	arabiensis=49620;gambiae=18954;coluzzii=12018;funestus=3200;stephensi=11389;coustani=1485;Plasmodium=230
+SLCA010_trial3	barcode54	stephensi	87.52	6.77	2.41	3.01	0.00	87.52	0.00	0.00	SLCA003_BatchKT:gambiae(75251);SLCA010_trial1:stephensi(268)	arabiensis=23231;gambiae=28196;coluzzii=18702;funestus=60;stephensi=510;Plasmodium=30
+SLCA010_trial3	barcode55	stephensi	98.33	0.00	0.00	0.19	0.00	98.33	0.00	0.00	SLCA003_BatchKT:arabiensis(68662);SLCA010_trial1:stephensi(210)	arabiensis=23867;gambiae=14117;coluzzii=9592;funestus=1511;stephensi=3321;coustani=426;Plasmodium=21
+SLCA010_trial3	barcode56	stephensi	98.13	0.40	0.00	0.27	0.00	98.13	0.00	0.00	SLCA010_trial1:stephensi(294)	arabiensis=1;stephensi=291
+SLCA010_trial3	barcode57	stephensi	97.80	0.00	0.44	0.00	0.00	97.80	0.00	0.00		coluzzii=1;stephensi=93
+SLCA010_trial3	barcode58	stephensi	97.82	0.31	0.78	0.16	0.00	97.82	0.00	0.00	SLCA010_trial1:stephensi(213)	arabiensis=2;gambiae=2;stephensi=209
+SLCA010_trial3	barcode59	stephensi	99.12	0.15	0.00	0.00	0.00	99.12	0.00	0.00	SLCA010_trial1:stephensi(253)	coluzzii=1;stephensi=250
+SLCA010_trial3	barcode60	stephensi	97.78	0.00	0.28	0.00	0.00	97.78	0.00	0.00	SLCA010_trial1:stephensi(156)	stephensi=151
+SLCA010_trial3	barcode61	stephensi	94.35	2.89	1.38	1.10	0.00	94.35	0.00	0.00	SLCA003_BatchKT:stephensi(19407);SLCA010_trial1:stephensi(285)	arabiensis=821;gambiae=550;coluzzii=327;funestus=45;stephensi=17519;coustani=16
+SLCA010_trial3	barcode62	stephensi	98.54	0.00	0.22	0.00	0.00	98.54	0.00	0.00	SLCA010_trial1:stephensi(326)	arabiensis=1;gambiae=1;stephensi=322
+SLCA010_trial3	barcode63	stephensi	98.63	0.11	0.00	0.00	0.00	98.63	0.00	0.00	SLCA010_trial1:stephensi(364)	arabiensis=1;coluzzii=1;stephensi=358
+SLCA010_trial3	barcode64	stephensi	98.82	0.20	0.20	0.00	0.00	98.82	0.00	0.00	SLCA010_trial1:stephensi(196)	arabiensis=2;stephensi=190
+SLCA010_trial3	barcode65	stephensi	97.67	0.39	0.00	0.19	0.00	97.67	0.00	0.00	SLCA010_trial1:stephensi(212)	stephensi=210
+SLCA010_trial3	barcode66	stephensi	98.72	0.43	0.00	0.00	0.00	98.72	0.00	0.00	SLCA010_trial1:stephensi(183)	arabiensis=1;stephensi=181
+SLCA010_trial3	barcode67	stephensi	99.22	0.19	0.00	0.00	0.00	99.22	0.19	0.00	SLCA010_trial1:stephensi(185)	arabiensis=1;gambiae=1;coluzzii=3;stephensi=181
+SLCA010_trial3	barcode68	stephensi	98.54	0.00	0.15	0.15	0.00	98.54	0.00	0.00	SLCA010_trial1:stephensi(211)	arabiensis=1;gambiae=1;stephensi=207
+SLCA010_trial3	barcode69	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00		stephensi=32
+SLCA010_trial3	barcode70	stephensi	99.16	0.00	0.00	0.00	0.00	99.16	0.00	0.17	SLCA010_trial1:stephensi(227)	coluzzii=1;stephensi=221
+SLCA010_trial3	barcode71	stephensi	98.50	0.00	0.30	0.00	0.00	98.50	0.00	0.00	SLCA010_trial1:stephensi(273)	gambiae=1;stephensi=270
+SLCA010_trial3	barcode72	stephensi	98.78	0.14	0.00	0.27	0.00	98.78	0.00	0.00	SLCA010_trial1:stephensi(221)	stephensi=217
+SLCA010_trial3	barcode73	stephensi	97.55	0.00	0.00	0.00	0.00	97.55	0.00	0.00	SLCA010_trial1:stephensi(178)	coluzzii=1;stephensi=174
+SLCA010_trial3	barcode74	stephensi	80.00	0.00	10.00	0.00	0.00	80.00	0.00	0.00		stephensi=6
+SLCA010_trial3	barcode75	stephensi	98.11	0.00	0.00	0.21	0.00	98.11	0.00	0.00	SLCA010_trial1:stephensi(178)	stephensi=175
+SLCA010_trial3	barcode76	arabiensis	71.53	71.53	10.12	9.10	0.00	1.16	0.00	0.00	SLCA010_trial1:arabiensis(228)	arabiensis=150;gambiae=33;coluzzii=16;stephensi=6
+SLCA010_trial3	barcode77	stephensi	97.95	0.00	0.00	0.00	0.00	97.95	0.00	0.00		stephensi=47
+SLCA010_trial3	barcode78	stephensi	99.39	0.10	0.00	0.00	0.00	99.39	0.00	0.00	SLCA010_trial1:stephensi(359)	arabiensis=1;stephensi=354
+SLCA010_trial3	barcode79	stephensi	98.07	0.00	0.00	0.00	0.00	98.07	0.00	0.00	SLCA010_trial1:stephensi(157)	stephensi=153
+SLCA010_trial3	barcode80	stephensi	85.71	0.00	0.00	14.29	0.00	85.71	0.00	0.00		stephensi=2
+SLCA011	barcode01	stephensi	32.49	17.98	7.53	7.98	14.58	32.49	4.21	0.00	SLCA003_BatchKT:arabiensis(261960);SLCA010_trial3:stephensi(335)	arabiensis=180569;gambiae=39556;coluzzii=21900;funestus=52;stephensi=1871;Plasmodium=52
+SLCA011	barcode02	funestus	30.27	15.46	8.52	13.33	30.27	6.72	3.38	0.02	SLCA003_BatchKT:arabiensis(299603);SLCA010_trial3:stephensi(134)	arabiensis=94676;gambiae=11265;coluzzii=17348;funestus=2307;stephensi=64017;coustani=479;Plasmodium=959
+SLCA011	barcode03	funestus	27.72	20.17	18.23	12.59	27.72	10.01	0.28	0.02	SLCA003_BatchKT:stephensi(68516);SLCA010_trial1:stephensi(186);SLCA010_trial3:stephensi(475)	arabiensis=4947;gambiae=2425;coluzzii=3344;funestus=2001;stephensi=47743;coustani=1048;Plasmodium=69
+SLCA011	barcode04	coustani	23.20	15.18	8.92	7.80	17.42	6.55	23.20	0.04	SLCA003_BatchKT:arabiensis(126732);SLCA010_trial1:stephensi(181);SLCA010_trial3:stephensi(556)	arabiensis=28996;gambiae=12306;coluzzii=10595;funestus=3536;stephensi=7891;coustani=3485;Plasmodium=203
+SLCA011	barcode05	arabiensis	31.81	31.81	17.08	10.56	23.14	9.21	0.53	0.00	SLCA003_BatchKT:arabiensis(150817);SLCA010_trial1:stephensi(126);SLCA010_trial3:stephensi(397)	arabiensis=52982;gambiae=22534;coluzzii=13196;funestus=17932;stephensi=20110;coustani=302;Plasmodium=151
+SLCA011	barcode06	arabiensis	26.17	26.17	12.23	11.34	25.54	10.38	0.73	0.00	SLCA003_BatchKT:arabiensis(11067);SLCA010_trial1:stephensi(346);SLCA010_trial3:stephensi(1113)	arabiensis=3414;gambiae=2304;coluzzii=1907;funestus=243;stephensi=2344;coustani=64;Plasmodium=22
+SLCA011	barcode07	funestus	26.98	21.28	8.94	8.70	26.98	8.77	1.67	0.44	SLCA003_BatchKT:arabiensis(7189);SLCA010_trial1:stephensi(207);SLCA010_trial3:stephensi(539)	arabiensis=2308;gambiae=1582;coluzzii=1202;funestus=124;stephensi=1341;coustani=29;Plasmodium=11
+SLCA011	barcode08	stephensi	26.63	18.68	9.66	8.41	17.15	26.63	4.83	0.00	SLCA003_BatchKT:stephensi(27517);SLCA010_trial3:stephensi(154)	arabiensis=1051;gambiae=699;coluzzii=548;funestus=176;stephensi=1788;coustani=88;Plasmodium=198
+SLCA011	barcode09	arabiensis	24.79	24.79	11.69	8.54	20.54	8.03	3.39	0.00	SLCA003_BatchKT:arabiensis(46727);SLCA010_trial1:stephensi(254);SLCA010_trial3:stephensi(644)	arabiensis=11908;gambiae=6112;coluzzii=2865;funestus=1300;stephensi=6733;coustani=248;Plasmodium=52
+SLCA011	barcode10	arabiensis	24.24	24.24	17.87	10.45	22.92	11.53	0.84	0.06	SLCA003_BatchKT:arabiensis(132895);SLCA010_trial1:stephensi(227);SLCA010_trial3:stephensi(658)	arabiensis=39391;gambiae=30406;coluzzii=12093;funestus=1528;stephensi=10452;coustani=2645;Plasmodium=120
+SLCA011	barcode11	funestus	20.75	20.69	17.30	14.84	20.75	5.41	0.32	0.02	SLCA003_BatchKT:funestus(41342);SLCA010_trial1:gambiae(254);SLCA010_trial3:gambiae(692)	arabiensis=1995;gambiae=1409;coluzzii=1392;funestus=14466;stephensi=5587;coustani=2270;Plasmodium=79
+SLCA011	barcode12	stephensi	28.04	16.21	8.30	4.72	12.32	28.04	22.28	0.02	SLCA003_BatchKT:arabiensis(131959);SLCA010_trial1:stephensi(294);SLCA010_trial3:stephensi(812)	arabiensis=33360;gambiae=9092;coluzzii=5016;funestus=2098;stephensi=8536;coustani=1689;Plasmodium=199
+SLCA011	barcode13	coustani	52.81	11.58	6.48	6.32	10.04	4.24	52.81	0.06	SLCA003_BatchKT:gambiae(154096)	arabiensis=47200;gambiae=48771;coluzzii=41914;funestus=31;stephensi=350;coustani=31
+SLCA011	barcode14	funestus	22.40	16.31	11.68	10.07	22.40	4.09	1.62	0.91	SLCA003_BatchKT:stephensi(31311)	arabiensis=3400;gambiae=2458;coluzzii=2245;funestus=501;stephensi=7299;coustani=138;Plasmodium=106
+SLCA011	barcode15	funestus	30.43	28.05	11.54	9.71	30.43	4.27	2.11	0.07	SLCA003_BatchKT:gambiae(314138)	arabiensis=94995;gambiae=112901;coluzzii=43445;funestus=2325;stephensi=34188;coustani=94
+SLCA011	barcode16	funestus	22.86	22.67	15.98	8.60	22.86	5.88	2.30	0.04	SLCA003_BatchKT:arabiensis(5749)	arabiensis=1444;gambiae=424;coluzzii=312;funestus=318;stephensi=770;coustani=83;Plasmodium=9
+SLCA011	barcode17	stephensi	51.53	10.84	6.61	5.67	9.27	51.53	5.75	0.00	SLCA003_BatchKT:arabiensis(5305);SLCA010_trial1:stephensi(157);SLCA010_trial3:stephensi(474)	arabiensis=1674;gambiae=1164;coluzzii=914;funestus=93;stephensi=1091;coustani=16;Plasmodium=4
+SLCA011	barcode18	stephensi	28.99	19.38	10.23	7.78	20.37	28.99	4.44	0.02	SLCA003_BatchKT:funestus(127838);SLCA010_trial1:stephensi(214);SLCA010_trial3:stephensi(454)	arabiensis=14970;gambiae=4832;coluzzii=3413;funestus=62666;stephensi=7763;coustani=6827;Plasmodium=115
+SLCA011	barcode19	funestus	24.88	18.71	9.77	9.38	24.88	14.17	13.98	0.00	SLCA003_BatchKT:arabiensis(143040);SLCA010_trial1:stephensi(171);SLCA010_trial3:stephensi(483)	arabiensis=25477;gambiae=18683;coluzzii=17193;funestus=4820;stephensi=18325;coustani=3891;Plasmodium=315
+SLCA011	barcode20	stephensi	25.45	20.73	8.34	5.38	17.50	25.45	13.92	0.00	SLCA003_BatchKT:arabiensis(507266);SLCA010_trial1:stephensi(178);SLCA010_trial3:stephensi(475)	arabiensis=351383;gambiae=89380;coluzzii=37335;funestus=355;stephensi=906
+SLCA011	barcode21	coustani	31.07	12.63	10.15	7.19	11.75	5.40	31.07	0.02	SLCA003_BatchKT:gambiae(381806);SLCA010_trial1:stephensi(137);SLCA010_trial3:stephensi(399)	arabiensis=72544;gambiae=115687;coluzzii=38220;funestus=878;stephensi=47760;coustani=1260;Plasmodium=955
+SLCA011	barcode22	stephensi	43.49	13.33	8.76	6.66	11.51	43.49	5.40	0.03	SLCA003_BatchKT:gambiae(378280);SLCA010_trial1:stephensi(231);SLCA010_trial3:stephensi(610)	arabiensis=93323;gambiae=151729;coluzzii=44637;funestus=833;stephensi=28403;coustani=454;Plasmodium=1286
+SLCA011	barcode23	arabiensis	23.18	23.18	16.86	8.41	21.46	17.20	1.69	0.02	SLCA003_BatchKT:arabiensis(19363);SLCA010_trial1:stephensi(257);SLCA010_trial3:stephensi(722)	arabiensis=5880;gambiae=5146;coluzzii=3328;funestus=341;stephensi=2433;coustani=79;Plasmodium=10
+SLCA011	barcode24	stephensi	28.12	18.26	7.18	6.50	12.21	28.12	17.86	0.00	SLCA010_trial1:stephensi(118);SLCA010_trial3:stephensi(271)	arabiensis=15;gambiae=13;coluzzii=5;stephensi=389;coustani=1
+SLCA011	barcode25	arabiensis	25.81	25.81	16.66	10.62	16.76	8.69	13.26	0.00	SLCA010_trial1:stephensi(133);SLCA010_trial3:stephensi(398)	arabiensis=4;gambiae=2;stephensi=528
+SLCA011	barcode26	arabiensis	25.54	25.54	16.42	12.33	19.29	8.77	2.83	0.00	SLCA003_BatchKT:stephensi(102131);SLCA010_trial1:stephensi(201);SLCA010_trial3:stephensi(501)	arabiensis=18016;gambiae=9345;coluzzii=8058;funestus=12327;stephensi=28251;coustani=82;Plasmodium=541
+SLCA011	barcode27	arabiensis	25.18	25.18	11.66	12.05	16.31	5.14	6.93	0.00	SLCA003_BatchKT:coluzzii(117279);SLCA010_trial1:stephensi(181);SLCA010_trial3:stephensi(454)	arabiensis=15334;gambiae=9213;coluzzii=16564;funestus=3061;stephensi=9443;coustani=833
+SLCA011	barcode28	arabiensis	51.43	51.43	14.38	14.99	5.87	5.00	0.66	0.00	SLCA003_BatchKT:arabiensis(141705);SLCA010_trial1:stephensi(158);SLCA010_trial3:stephensi(433)	arabiensis=58071;gambiae=40017;coluzzii=34534;funestus=113;stephensi=898
+SLCA011	barcode29	stephensi	29.48	15.68	8.29	6.38	9.72	29.48	17.04	0.03	SLCA003_BatchKT:stephensi(48147);SLCA010_trial1:stephensi(158);SLCA010_trial3:stephensi(436)	arabiensis=6382;gambiae=3530;coluzzii=2951;funestus=1714;stephensi=7174;coustani=660;Plasmodium=130
+SLCA011	barcode30	stephensi	59.49	10.24	5.21	5.03	8.71	59.49	2.55	0.07	SLCA003_BatchKT:arabiensis(6664);SLCA010_trial1:stephensi(224);SLCA010_trial3:stephensi(611)	arabiensis=2161;gambiae=1451;coluzzii=1108;funestus=156;stephensi=1353;coustani=29;Plasmodium=5
+SLCA011	barcode31	coustani	43.39	8.32	4.46	4.12	6.58	26.63	43.39	0.00	SLCA003_BatchKT:arabiensis(7630);SLCA010_trial1:stephensi(170);SLCA010_trial3:stephensi(424)	arabiensis=2392;gambiae=1726;coluzzii=1260;funestus=145;stephensi=1233;coustani=31;Plasmodium=8
+SLCA011	barcode32	stephensi	31.31	13.31	4.03	4.54	13.16	31.31	11.18	0.00	SLCA003_BatchKT:arabiensis(16158);SLCA010_trial1:stephensi(238);SLCA010_trial3:stephensi(719)	arabiensis=4926;gambiae=3183;coluzzii=2460;funestus=520;stephensi=2560;coustani=107;Plasmodium=26
+SLCA011	barcode33	arabiensis	28.54	28.54	11.83	9.32	12.12	7.47	20.46	0.04	SLCA003_BatchKT:arabiensis(2757);SLCA010_trial1:stephensi(146);SLCA010_trial3:stephensi(365)	arabiensis=880;gambiae=595;coluzzii=433;funestus=58;stephensi=723;coustani=31
+SLCA011	barcode34	arabiensis	27.16	27.16	19.59	12.37	20.38	9.02	0.73	0.00	SLCA003_BatchKT:stephensi(8725);SLCA010_trial3:stephensi(249)	arabiensis=1914;gambiae=1024;coluzzii=677;funestus=147;stephensi=2268;coustani=33;Plasmodium=15
+SLCA011	barcode35	stephensi	51.86	11.82	6.36	6.22	9.59	51.86	4.62	0.09	SLCA003_BatchKT:stephensi(26471);SLCA010_trial1:stephensi(299);SLCA010_trial3:stephensi(681)	arabiensis=5419;gambiae=3701;coluzzii=2200;funestus=709;stephensi=8608;coustani=180;Plasmodium=48
+SLCA011	barcode36	funestus	25.13	19.75	13.53	10.78	25.13	15.62	0.62	0.02	SLCA010_trial1:stephensi(356);SLCA010_trial3:stephensi(1089)	arabiensis=2;stephensi=1443
+SLCA011	barcode37	funestus	21.91	14.74	14.32	8.39	21.91	20.21	9.16	0.00	SLCA003_BatchKT:funestus(121164);SLCA010_trial1:stephensi(193);SLCA010_trial3:stephensi(406)	arabiensis=23280;gambiae=10680;coluzzii=15886;funestus=29855;stephensi=10131;coustani=3599;Plasmodium=315
+SLCA011	barcode38	stephensi	53.06	11.89	6.22	6.33	8.78	53.06	3.92	0.10	SLCA003_BatchKT:arabiensis(167313);SLCA010_trial1:stephensi(485);SLCA010_trial3:stephensi(1440)	arabiensis=15515;gambiae=6008;coluzzii=11724;funestus=4618;stephensi=16287;coustani=3196;Plasmodium=84
+SLCA011	barcode39	stephensi	34.08	19.76	8.31	9.59	12.17	34.08	3.67	0.00	SLCA003_BatchKT:coluzzii(76313);SLCA010_trial1:stephensi(119);SLCA010_trial3:stephensi(302)	arabiensis=14506;gambiae=14993;coluzzii=19536;funestus=137;stephensi=14157;coustani=38;Plasmodium=61
+SLCA011	barcode40	arabiensis	20.71	20.71	19.09	10.75	17.76	16.31	1.56	0.00	SLCA003_BatchKT:arabiensis(21567);SLCA010_trial1:stephensi(143);SLCA010_trial3:stephensi(403)	arabiensis=2455;gambiae=1736;coluzzii=1600;funestus=427;stephensi=2592;coustani=634;Plasmodium=51
+SLCA011	barcode41	stephensi	32.65	15.84	8.42	7.10	13.38	32.65	10.00	0.00	SLCA003_BatchKT:gambiae(86584);SLCA010_trial1:stephensi(137);SLCA010_trial3:stephensi(352)	arabiensis=20391;gambiae=31188;coluzzii=25854;funestus=69;stephensi=852
+SLCA011	barcode42	funestus	23.92	21.06	15.88	8.90	23.92	17.40	1.23	0.02	SLCA003_BatchKT:gambiae(86089);SLCA010_trial1:stephensi(105);SLCA010_trial3:stephensi(290)	arabiensis=20421;gambiae=27411;coluzzii=26817;funestus=86;stephensi=894;coustani=17;Plasmodium=34
+SLCA011	barcode43	arabiensis	23.19	23.19	15.11	6.49	11.18	10.35	22.76	0.00	SLCA003_BatchKT:gambiae(15096);SLCA010_trial1:stephensi(176);SLCA010_trial3:stephensi(401)	arabiensis=3629;gambiae=6277;coluzzii=3008;funestus=94;stephensi=874;coustani=14;Plasmodium=3
+SLCA011	barcode44	funestus	29.86	22.60	12.39	8.75	29.86	14.61	0.90	0.04	SLCA003_BatchKT:arabiensis(17971);SLCA010_trial1:stephensi(158);SLCA010_trial3:stephensi(486)	arabiensis=11016;gambiae=3158;coluzzii=2309;funestus=45;stephensi=854
+SLCA011	barcode45	funestus	24.26	15.86	12.59	14.32	24.26	11.20	0.43	0.06	SLCA003_BatchKT:gambiae(19327);SLCA010_trial1:stephensi(293);SLCA010_trial3:stephensi(724)	arabiensis=4412;gambiae=6220;coluzzii=5615;funestus=89;stephensi=2078;coustani=21
+SLCA011	barcode46	funestus	26.36	17.78	13.42	10.54	26.36	16.66	0.46	0.00	SLCA010_trial1:stephensi(256);SLCA010_trial3:stephensi(775)	arabiensis=3;gambiae=1;coluzzii=2;stephensi=1026
+SLCA011	barcode47	arabiensis	27.87	27.87	7.86	8.37	10.68	14.72	22.60	0.00	SLCA003_BatchKT:arabiensis(8541);SLCA010_trial1:stephensi(185);SLCA010_trial3:stephensi(488)	arabiensis=2645;gambiae=1969;coluzzii=1431;funestus=190;stephensi=1349;coustani=35;Plasmodium=9
+SLCA011	barcode48	funestus	20.33	12.42	9.99	8.34	20.33	6.28	1.44	0.27	SLCA003_BatchKT:arabiensis(11539);SLCA010_trial1:stephensi(180);SLCA010_trial3:stephensi(470)	arabiensis=3750;gambiae=2524;coluzzii=2036;funestus=249;stephensi=1543;coustani=32;Plasmodium=6
+SLCA011	barcode49	funestus	28.90	23.06	11.72	7.72	28.90	15.48	1.76	0.02	SLCA003_BatchKT:arabiensis(113433);SLCA010_trial1:stephensi(262);SLCA010_trial3:stephensi(644)	arabiensis=15189;gambiae=5821;coluzzii=6046;funestus=4515;stephensi=13199;coustani=4186;Plasmodium=216
+SLCA011	barcode50	stephensi	45.10	13.29	7.01	6.79	13.16	45.10	3.81	0.00	SLCA003_BatchKT:arabiensis(681094);SLCA010_trial1:stephensi(180);SLCA010_trial3:stephensi(476)	arabiensis=422487;gambiae=112723;coluzzii=117217;funestus=545;stephensi=1597
+SLCA011	barcode51	funestus	27.20	15.15	7.38	8.57	27.20	13.03	3.27	0.19	SLCA003_BatchKT:arabiensis(326439);SLCA010_trial1:stephensi(200);SLCA010_trial3:stephensi(509)	arabiensis=181991;gambiae=47987;coluzzii=38063;funestus=20631;stephensi=19606;coustani=98
+SLCA011	barcode52	funestus	20.96	17.40	7.42	10.28	20.96	11.13	2.10	0.11	SLCA003_BatchKT:arabiensis(180703);SLCA010_trial1:stephensi(248);SLCA010_trial3:stephensi(640)	arabiensis=117785;gambiae=33214;coluzzii=19516;funestus=217;stephensi=1386
+SLCA011	barcode53	funestus	23.73	19.45	18.27	13.21	23.73	11.21	2.10	0.06	SLCA003_BatchKT:arabiensis(153099);SLCA010_trial1:stephensi(312);SLCA010_trial3:stephensi(856)	arabiensis=49620;gambiae=18955;coluzzii=12018;funestus=3201;stephensi=12234;coustani=1485;Plasmodium=230
+SLCA011	barcode54	coustani	23.06	10.51	20.43	8.97	17.56	11.26	23.06	0.02	SLCA003_BatchKT:gambiae(75251);SLCA010_trial1:stephensi(268);SLCA010_trial3:stephensi(665)	arabiensis=23276;gambiae=28212;coluzzii=18722;funestus=60;stephensi=1092;Plasmodium=30
+SLCA011	barcode55	funestus	27.94	21.65	14.24	10.22	27.94	13.03	0.31	0.00	SLCA003_BatchKT:arabiensis(68662);SLCA010_trial1:stephensi(210);SLCA010_trial3:stephensi(544)	arabiensis=23867;gambiae=14117;coluzzii=9593;funestus=1511;stephensi=3856;coustani=426;Plasmodium=21
+SLCA011	barcode56	funestus	23.43	14.90	7.15	12.89	23.43	7.03	1.56	0.00	SLCA010_trial1:stephensi(294);SLCA010_trial3:stephensi(749)	arabiensis=4;coluzzii=2;stephensi=1026
+SLCA011	barcode57	arabiensis	24.90	24.90	10.63	7.69	18.19	11.26	12.85	0.06	SLCA010_trial3:stephensi(227)	gambiae=1;coluzzii=1;stephensi=315
+SLCA011	barcode58	funestus	16.39	11.40	11.21	15.72	16.39	4.99	0.50	0.24	SLCA010_trial1:stephensi(213);SLCA010_trial3:stephensi(644)	arabiensis=4;gambiae=7;coluzzii=1;stephensi=839
+SLCA011	barcode60	stephensi	36.18	19.59	7.24	7.39	18.05	36.18	2.10	0.00	SLCA010_trial1:stephensi(156);SLCA010_trial3:stephensi(361)	gambiae=1;stephensi=504
+SLCA011	barcode61	funestus	38.17	15.60	9.92	8.91	38.17	8.54	1.07	0.04	SLCA003_BatchKT:stephensi(19407);SLCA010_trial1:stephensi(285);SLCA010_trial3:stephensi(728)	arabiensis=842;gambiae=560;coluzzii=335;funestus=45;stephensi=18206;coustani=16
+SLCA011	barcode62	stephensi	58.41	10.98	5.02	4.40	8.81	58.41	2.84	0.03	SLCA010_trial1:stephensi(326);SLCA010_trial3:stephensi(901)	arabiensis=1;gambiae=3;stephensi=1210
+SLCA011	barcode63	stephensi	62.39	9.47	4.76	4.65	8.29	62.39	2.71	0.00	SLCA010_trial1:stephensi(364);SLCA010_trial3:stephensi(960)	arabiensis=2;coluzzii=1;stephensi=1305
+SLCA011	barcode64	stephensi	53.94	11.47	5.85	5.17	10.70	53.94	3.11	0.04	SLCA010_trial1:stephensi(196);SLCA010_trial3:stephensi(518)	arabiensis=3;gambiae=1;stephensi=702
+SLCA011	barcode65	arabiensis	27.57	27.57	20.17	9.55	15.55	16.91	0.52	0.00	SLCA010_trial1:stephensi(212);SLCA010_trial3:stephensi(522)	arabiensis=2;coluzzii=1;stephensi=720
+SLCA011	barcode66	arabiensis	33.69	33.69	17.84	11.62	12.22	9.52	5.80	0.00	SLCA010_trial1:stephensi(183);SLCA010_trial3:stephensi(475)	arabiensis=3;stephensi=650
+SLCA011	barcode67	stephensi	34.92	16.20	15.14	7.52	15.46	34.92	1.65	0.02	SLCA010_trial1:stephensi(185);SLCA010_trial3:stephensi(517)	arabiensis=2;gambiae=1;coluzzii=3;stephensi=694;coustani=1
+SLCA011	barcode69	stephensi	24.25	19.85	12.39	7.84	19.03	24.25	3.06	0.00		stephensi=95
+SLCA011	barcode70	funestus	20.29	20.25	12.18	12.00	20.29	8.27	7.54	0.02	SLCA010_trial1:stephensi(227);SLCA010_trial3:stephensi(598)	coluzzii=1;stephensi=814;Plasmodium=1
+SLCA011	barcode71	stephensi	55.70	10.37	6.79	5.28	9.74	55.70	3.02	0.06	SLCA010_trial1:stephensi(273);SLCA010_trial3:stephensi(669)	gambiae=3;stephensi=929
+SLCA011	barcode72	funestus	34.87	18.31	11.54	10.76	34.87	12.24	1.60	0.04	SLCA010_trial1:stephensi(221);SLCA010_trial3:stephensi(738)	arabiensis=1;coluzzii=2;stephensi=946
+SLCA011	barcode73	stephensi	55.09	11.09	6.19	5.41	9.76	55.09	2.79	0.09	SLCA010_trial1:stephensi(178);SLCA010_trial3:stephensi(491)	coluzzii=1;stephensi=653
+SLCA011	barcode74	arabiensis	22.74	22.74	22.18	11.93	20.56	6.41	1.35	0.00		gambiae=1;stephensi=14
+SLCA011	barcode75	stephensi	26.91	13.21	6.40	5.92	24.75	26.91	7.42	0.00	SLCA010_trial1:stephensi(178);SLCA010_trial3:stephensi(478)	coluzzii=1;stephensi=644
+SLCA011	barcode76	arabiensis	40.49	40.49	13.59	11.14	14.05	7.30	3.62	0.00	SLCA010_trial1:arabiensis(228);SLCA010_trial3:arabiensis(701)	arabiensis=651;gambiae=104;coluzzii=80;stephensi=14
+SLCA011	barcode77	stephensi	21.59	20.05	11.56	9.85	20.31	21.59	3.41	0.09	SLCA010_trial3:stephensi(147)	stephensi=191
+SLCA011	barcode78	funestus	33.97	13.99	9.42	10.16	33.97	8.22	0.13	0.11	SLCA010_trial1:stephensi(359);SLCA010_trial3:stephensi(980)	arabiensis=2;stephensi=1328
+SLCA011	barcode79	stephensi	27.69	17.00	9.29	6.46	12.47	27.69	19.26	0.00	SLCA010_trial1:stephensi(157);SLCA010_trial3:stephensi(415)	stephensi=560
+SLCA011	barcode80	arabiensis	26.15	26.15	16.87	8.06	15.50	3.82	17.79	0.00		coluzzii=1;stephensi=8
+SLCA011	barcode84	arabiensis	100.00	100.00	0.00	0.00	0.00	0.00	0.00	0.00		
+SLCA011	barcode95	arabiensis	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00		
+SLCA012	barcode01	gambiae	27.99	27.00	27.99	4.24	2.12	20.59	0.05	0.00	SLCA003_BatchKT:arabiensis(261960);SLCA010_trial3:stephensi(335);SLCA011:stephensi(2774)	arabiensis=181068;gambiae=39765;coluzzii=22121;funestus=457;stephensi=2773;coustani=117;Plasmodium=52
+SLCA012	barcode02	arabiensis	65.69	65.69	18.30	2.73	0.13	0.61	0.04	0.00	SLCA003_BatchKT:arabiensis(299603);SLCA010_trial3:stephensi(134);SLCA011:funestus(107524)	arabiensis=111299;gambiae=20426;coluzzii=31681;funestus=34854;stephensi=71243;coustani=4114;Plasmodium=980
+SLCA012	barcode03	stephensi	40.00	0.00	20.00	0.00	20.00	40.00	0.00	0.00	SLCA003_BatchKT:stephensi(68516);SLCA010_trial1:stephensi(186);SLCA010_trial3:stephensi(475);SLCA011:funestus(81625)	arabiensis=21411;gambiae=17306;coluzzii=13620;funestus=24627;stephensi=55914;coustani=1277;Plasmodium=85
+SLCA012	barcode05	arabiensis	60.83	60.83	24.58	1.17	0.12	0.08	0.00	0.00	SLCA003_BatchKT:arabiensis(150817);SLCA010_trial1:stephensi(126);SLCA010_trial3:stephensi(397);SLCA011:arabiensis(25219)	arabiensis=61004;gambiae=26841;coluzzii=15860;funestus=23768;stephensi=22433;coustani=435;Plasmodium=151
+SLCA012	barcode06	arabiensis	45.73	45.73	41.08	1.17	0.02	0.42	0.02	0.00	SLCA003_BatchKT:arabiensis(11067);SLCA010_trial1:stephensi(346);SLCA010_trial3:stephensi(1113);SLCA011:arabiensis(45009)	arabiensis=15193;gambiae=7809;coluzzii=7011;funestus=11739;stephensi=7016;coustani=393;Plasmodium=22
+SLCA012	barcode07	gambiae	68.09	19.56	68.09	0.76	0.16	0.34	0.04	0.00	SLCA003_BatchKT:arabiensis(7189);SLCA010_trial1:stephensi(207);SLCA010_trial3:stephensi(539);SLCA011:funestus(43403)	arabiensis=11545;gambiae=5463;coluzzii=4978;funestus=11834;stephensi=5148;coustani=754;Plasmodium=202
+SLCA012	barcode08	arabiensis	82.83	82.83	2.76	0.61	0.06	0.17	0.11	0.13	SLCA003_BatchKT:stephensi(27517);SLCA010_trial3:stephensi(154);SLCA011:stephensi(2710)	arabiensis=1557;gambiae=961;coluzzii=775;funestus=641;stephensi=2510;coustani=219;Plasmodium=198
+SLCA012	barcode09	arabiensis	76.65	76.65	2.29	1.49	0.70	0.78	0.29	0.00	SLCA003_BatchKT:arabiensis(46727);SLCA010_trial1:stephensi(254);SLCA010_trial3:stephensi(644);SLCA011:arabiensis(64537)	arabiensis=27907;gambiae=13656;coluzzii=8377;funestus=14556;stephensi=11915;coustani=2435;Plasmodium=52
+SLCA012	barcode10	arabiensis	44.67	44.67	36.43	3.26	2.75	1.37	0.34	0.00	SLCA003_BatchKT:arabiensis(132895);SLCA010_trial1:stephensi(227);SLCA010_trial3:stephensi(658);SLCA011:arabiensis(23427)	arabiensis=45070;gambiae=34593;coluzzii=14542;funestus=6898;stephensi=13154;coustani=2841;Plasmodium=134
+SLCA012	barcode11	gambiae	43.17	33.55	43.17	1.60	1.60	3.39	0.00	0.00	SLCA003_BatchKT:funestus(41342);SLCA010_trial1:gambiae(254);SLCA010_trial3:gambiae(692);SLCA011:funestus(44223)	arabiensis=11145;gambiae=9060;coluzzii=7955;funestus=23642;stephensi=7979;coustani=2411;Plasmodium=87
+SLCA012	barcode12	arabiensis	43.89	43.89	28.47	2.54	1.62	10.45	0.15	0.00	SLCA003_BatchKT:arabiensis(131959);SLCA010_trial1:stephensi(294);SLCA010_trial3:stephensi(812);SLCA011:stephensi(7840)	arabiensis=34631;gambiae=9743;coluzzii=5387;funestus=3064;stephensi=10734;coustani=3436;Plasmodium=200
+SLCA012	barcode13	arabiensis	71.57	71.57	5.07	13.07	1.08	2.17	0.21	0.00	SLCA003_BatchKT:gambiae(154096);SLCA011:coustani(3459)	arabiensis=47600;gambiae=48996;coluzzii=42133;funestus=378;stephensi=497;coustani=1858;Plasmodium=2
+SLCA012	barcode14	arabiensis	45.36	45.36	39.23	1.60	0.37	0.43	0.02	0.00	SLCA003_BatchKT:stephensi(31311);SLCA011:funestus(80673)	arabiensis=16558;gambiae=11881;coluzzii=10369;funestus=18572;stephensi=10599;coustani=1445;Plasmodium=841
+SLCA012	barcode15	gambiae	100.00	0.00	100.00	0.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:gambiae(314138);SLCA011:funestus(12636)	arabiensis=98540;gambiae=114359;coluzzii=44672;funestus=6170;stephensi=34728;coustani=361;Plasmodium=9
+SLCA012	barcode16	arabiensis	50.00	50.00	0.00	0.00	50.00	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(5749);SLCA011:funestus(65085)	arabiensis=16199;gambiae=10825;coluzzii=5909;funestus=15196;stephensi=4597;coustani=1580;Plasmodium=35
+SLCA012	barcode17	gambiae	50.47	34.21	50.47	0.64	0.41	1.04	0.00	0.00	SLCA003_BatchKT:arabiensis(5305);SLCA010_trial1:stephensi(157);SLCA010_trial3:stephensi(474);SLCA011:stephensi(2640)	arabiensis=1960;gambiae=1338;coluzzii=1064;funestus=338;stephensi=2452;coustani=168;Plasmodium=4
+SLCA012	barcode18	stephensi	53.79	34.04	4.97	0.37	3.23	53.79	0.00	0.00	SLCA003_BatchKT:funestus(127838);SLCA010_trial1:stephensi(214);SLCA010_trial3:stephensi(454);SLCA011:stephensi(5453)	arabiensis=16027;gambiae=5390;coluzzii=3838;funestus=63777;stephensi=9344;coustani=7069;Plasmodium=116
+SLCA012	barcode20	-	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(507266);SLCA010_trial1:stephensi(178);SLCA010_trial3:stephensi(475);SLCA011:stephensi(5441)	arabiensis=352511;gambiae=89834;coluzzii=37628;funestus=1307;stephensi=2290;coustani=757
+SLCA012	barcode23	funestus	33.33	0.00	0.00	0.00	33.33	33.33	0.00	0.00	SLCA003_BatchKT:arabiensis(19363);SLCA010_trial1:stephensi(257);SLCA010_trial3:stephensi(722);SLCA011:arabiensis(12999)	arabiensis=8893;gambiae=7337;coluzzii=4422;funestus=3130;stephensi=4669;coustani=299;Plasmodium=12
+SLCA012	barcode26	funestus	50.00	0.00	16.67	0.00	50.00	16.67	0.00	0.00	SLCA003_BatchKT:stephensi(102131);SLCA010_trial1:stephensi(201);SLCA010_trial3:stephensi(501);SLCA011:arabiensis(100255)	arabiensis=43621;gambiae=25807;coluzzii=20420;funestus=31666;stephensi=37043;coustani=2919;Plasmodium=541
+SLCA012	barcode27	coustani	50.00	0.00	0.00	0.00	0.00	0.00	50.00	0.00	SLCA003_BatchKT:coluzzii(117279);SLCA010_trial1:stephensi(181);SLCA010_trial3:stephensi(454);SLCA011:arabiensis(92436)	arabiensis=38609;gambiae=19991;coluzzii=27703;funestus=18137;stephensi=14194;coustani=7238
+SLCA012	barcode30	arabiensis	50.00	50.00	0.00	0.00	0.00	50.00	0.00	0.00	SLCA003_BatchKT:arabiensis(6664);SLCA010_trial1:stephensi(224);SLCA010_trial3:stephensi(611);SLCA011:stephensi(2815)	arabiensis=2449;gambiae=1598;coluzzii=1250;funestus=401;stephensi=3028;coustani=100;Plasmodium=7
+SLCA012	barcode31	coluzzii	100.00	0.00	0.00	100.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(7630);SLCA010_trial1:stephensi(170);SLCA010_trial3:stephensi(424);SLCA011:coustani(5153)	arabiensis=2821;gambiae=1956;coluzzii=1472;funestus=484;stephensi=2606;coustani=2266;Plasmodium=8
+SLCA012	barcode33	gambiae	50.00	0.00	50.00	0.00	0.00	50.00	0.00	0.00	SLCA003_BatchKT:arabiensis(2757);SLCA010_trial1:stephensi(146);SLCA010_trial3:stephensi(365);SLCA011:arabiensis(20982)	arabiensis=6869;gambiae=3077;coluzzii=2389;funestus=2601;stephensi=2290;coustani=4324;Plasmodium=8
+SLCA012	barcode34	arabiensis	50.00	50.00	0.00	0.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:stephensi(8725);SLCA010_trial3:stephensi(249);SLCA011:arabiensis(15553)	arabiensis=6138;gambiae=4071;coluzzii=2601;funestus=3316;stephensi=3670;coustani=147;Plasmodium=15
+SLCA012	barcode35	-	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:stephensi(26471);SLCA010_trial1:stephensi(299);SLCA010_trial3:stephensi(681);SLCA011:stephensi(3602)	arabiensis=5844;gambiae=3930;coluzzii=2424;funestus=1055;stephensi=10476;coustani=346;Plasmodium=51
+SLCA012	barcode36	gambiae	50.00	0.00	50.00	0.00	0.00	50.00	0.00	0.00	SLCA010_trial1:stephensi(356);SLCA010_trial3:stephensi(1089);SLCA011:funestus(22989)	arabiensis=4542;gambiae=3110;coluzzii=2478;funestus=5777;stephensi=5034;coustani=143;Plasmodium=5
+SLCA012	barcode37	coluzzii	50.00	0.00	0.00	50.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:funestus(121164);SLCA010_trial1:stephensi(193);SLCA010_trial3:stephensi(406);SLCA011:funestus(21162)	arabiensis=26399;gambiae=13710;coluzzii=17661;funestus=34491;stephensi=14408;coustani=5537;Plasmodium=315
+SLCA012	barcode38	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA003_BatchKT:arabiensis(167313);SLCA010_trial1:stephensi(485);SLCA010_trial3:stephensi(1440);SLCA011:stephensi(5662)	arabiensis=16188;gambiae=6360;coluzzii=12082;funestus=5115;stephensi=19291;coustani=3418;Plasmodium=89
+SLCA012	barcode39	arabiensis	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:coluzzii(76313);SLCA010_trial1:stephensi(119);SLCA010_trial3:stephensi(302);SLCA011:stephensi(3555)	arabiensis=15208;gambiae=15288;coluzzii=19877;funestus=570;stephensi=15369;coustani=169;Plasmodium=61
+SLCA012	barcode42	coluzzii	100.00	0.00	0.00	100.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:gambiae(86089);SLCA010_trial1:stephensi(105);SLCA010_trial3:stephensi(290);SLCA011:funestus(9639)	arabiensis=22451;gambiae=28941;coluzzii=27675;funestus=2392;stephensi=2572;coustani=136;Plasmodium=36
+SLCA012	barcode44	gambiae	100.00	0.00	100.00	0.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(17971);SLCA010_trial1:stephensi(158);SLCA010_trial3:stephensi(486);SLCA011:funestus(15922)	arabiensis=14615;gambiae=5130;coluzzii=3702;funestus=4799;stephensi=3180;coustani=143;Plasmodium=6
+SLCA012	barcode46	arabiensis	50.00	50.00	0.00	0.00	50.00	0.00	0.00	0.00	SLCA010_trial1:stephensi(256);SLCA010_trial3:stephensi(775);SLCA011:funestus(52136)	arabiensis=9273;gambiae=6998;coluzzii=5497;funestus=13743;stephensi=9712;coustani=240
+SLCA012	barcode47	arabiensis	50.00	50.00	50.00	0.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(8541);SLCA010_trial1:stephensi(185);SLCA010_trial3:stephensi(488);SLCA011:arabiensis(10085)	arabiensis=5456;gambiae=2762;coluzzii=2275;funestus=1267;stephensi=2833;coustani=2314;Plasmodium=9
+SLCA012	barcode48	coluzzii	33.33	0.00	0.00	33.33	0.00	33.33	0.00	0.00	SLCA003_BatchKT:arabiensis(11539);SLCA010_trial1:stephensi(180);SLCA010_trial3:stephensi(470);SLCA011:funestus(62579)	arabiensis=11522;gambiae=8775;coluzzii=7255;funestus=12971;stephensi=5473;coustani=933;Plasmodium=175
+SLCA012	barcode49	gambiae	50.00	0.00	50.00	50.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(113433);SLCA010_trial1:stephensi(262);SLCA010_trial3:stephensi(644);SLCA011:funestus(24974)	arabiensis=20948;gambiae=8748;coluzzii=7974;funestus=11732;stephensi=17065;coustani=4625;Plasmodium=221
+SLCA012	barcode51	coluzzii	100.00	0.00	0.00	100.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(326439);SLCA010_trial1:stephensi(200);SLCA010_trial3:stephensi(509);SLCA011:funestus(13220)	arabiensis=183994;gambiae=48962;coluzzii=39196;funestus=24227;stephensi=21328;coustani=530;Plasmodium=25
+SLCA012	barcode53	funestus	50.00	0.00	0.00	0.00	50.00	50.00	0.00	0.00	SLCA003_BatchKT:arabiensis(153099);SLCA010_trial1:stephensi(312);SLCA010_trial3:stephensi(856);SLCA011:funestus(45453)	arabiensis=58461;gambiae=27259;coluzzii=18023;funestus=13987;stephensi=17330;coustani=2440;Plasmodium=257
+SLCA012	barcode54	gambiae	50.00	0.00	50.00	0.00	0.00	50.00	0.00	0.00	SLCA003_BatchKT:gambiae(75251);SLCA010_trial1:stephensi(268);SLCA010_trial3:stephensi(665);SLCA011:coustani(45123)	arabiensis=28018;gambiae=37431;coluzzii=22770;funestus=7984;stephensi=6173;coustani=10405;Plasmodium=39
+SLCA012	barcode55	gambiae	100.00	0.00	100.00	0.00	0.00	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(68662);SLCA010_trial1:stephensi(210);SLCA010_trial3:stephensi(544);SLCA011:funestus(46145)	arabiensis=33857;gambiae=20688;coluzzii=14309;funestus=14403;stephensi=9869;coustani=569;Plasmodium=21
+SLCA012	barcode56	funestus	50.00	0.00	0.00	0.00	50.00	0.00	0.00	0.00	SLCA010_trial1:stephensi(294);SLCA010_trial3:stephensi(749);SLCA011:funestus(73008)	arabiensis=10882;gambiae=5220;coluzzii=9413;funestus=17106;stephensi=6158;coustani=1139
+SLCA012	barcode61	arabiensis	50.00	50.00	0.00	0.00	50.00	0.00	0.00	0.00	SLCA003_BatchKT:stephensi(19407);SLCA010_trial1:stephensi(285);SLCA010_trial3:stephensi(728);SLCA011:funestus(33653)	arabiensis=6092;gambiae=3899;coluzzii=3334;funestus=12890;stephensi=21080;coustani=376;Plasmodium=13
+SLCA012	barcode65	arabiensis	50.00	50.00	0.00	0.00	0.00	50.00	0.00	0.00	SLCA010_trial1:stephensi(212);SLCA010_trial3:stephensi(522);SLCA011:arabiensis(41872)	arabiensis=11546;gambiae=8446;coluzzii=4000;funestus=6511;stephensi=7800;coustani=218
+SLCA012	barcode66	arabiensis	100.00	100.00	0.00	0.00	0.00	0.00	0.00	0.00	SLCA010_trial1:stephensi(183);SLCA010_trial3:stephensi(475);SLCA011:arabiensis(28886)	arabiensis=9735;gambiae=5153;coluzzii=3357;funestus=3530;stephensi=3400;coustani=1675
+SLCA012	barcode68	arabiensis	100.00	100.00	0.00	0.00	0.00	0.00	0.00	0.00	SLCA010_trial1:stephensi(211);SLCA010_trial3:stephensi(688)	arabiensis=1;gambiae=2;coluzzii=1;stephensi=885
+SLCA012	barcode70	arabiensis	33.33	33.33	0.00	33.33	0.00	0.00	0.00	0.00	SLCA010_trial1:stephensi(227);SLCA010_trial3:stephensi(598);SLCA011:funestus(40394)	arabiensis=8180;gambiae=4920;coluzzii=4848;funestus=8196;stephensi=4155;coustani=3046;Plasmodium=9
+SLCA012	barcode71	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA010_trial1:stephensi(273);SLCA010_trial3:stephensi(669);SLCA011:stephensi(3427)	arabiensis=355;gambiae=236;coluzzii=181;funestus=334;stephensi=2838;coustani=103;Plasmodium=2
+SLCA012	barcode74	coluzzii	50.00	0.00	0.00	50.00	0.00	0.00	0.00	0.00	SLCA011:arabiensis(41258)	arabiensis=9382;gambiae=9152;coluzzii=4922;funestus=8483;stephensi=2659;coustani=557
+SLCA012	barcode76	funestus	100.00	0.00	0.00	0.00	100.00	0.00	0.00	0.00	SLCA010_trial1:arabiensis(228);SLCA010_trial3:arabiensis(701);SLCA011:arabiensis(62338)	arabiensis=25892;gambiae=8576;coluzzii=7024;funestus=8758;stephensi=4565;coustani=2257
+SLCA012	barcode77	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00	SLCA010_trial3:stephensi(147);SLCA011:stephensi(2401)	arabiensis=481;gambiae=278;coluzzii=236;funestus=488;stephensi=709;coustani=82;Plasmodium=2
+SLCA012	barcode78	stephensi	50.00	0.00	0.00	0.00	0.00	50.00	0.00	0.00	SLCA010_trial1:stephensi(359);SLCA010_trial3:stephensi(980);SLCA011:funestus(109278)	arabiensis=15290;gambiae=10294;coluzzii=11103;funestus=37122;stephensi=10311;coustani=142;Plasmodium=120
+SLCA012	barcode79	stephensi	50.00	0.00	0.00	0.00	0.00	50.00	50.00	0.00	SLCA010_trial1:stephensi(157);SLCA010_trial3:stephensi(415);SLCA011:stephensi(68901)	arabiensis=11713;gambiae=6401;coluzzii=4451;funestus=8592;stephensi=19639;coustani=13270
+SLCA013_BatchCOL	barcode01	arabiensis	32.26	32.26	31.03	23.89	0.41	0.10	0.00	0.07	SLCA003_BatchKT:arabiensis(261960);SLCA010_trial3:stephensi(335);SLCA011:stephensi(2774);SLCA012:gambiae(7639)	arabiensis=183130;gambiae=41903;coluzzii=22445;funestus=619;stephensi=4346;coustani=121;Plasmodium=52
+SLCA013_BatchCOL	barcode02	gambiae	56.70	20.55	56.70	10.59	0.34	0.03	0.00	0.00	SLCA003_BatchKT:arabiensis(299603);SLCA010_trial3:stephensi(134);SLCA011:funestus(107524);SLCA012:arabiensis(14566)	arabiensis=120867;gambiae=23092;coluzzii=32079;funestus=34873;stephensi=71332;coustani=4120;Plasmodium=980
+SLCA013_BatchCOL	barcode03	arabiensis	34.25	34.25	28.73	24.53	0.48	0.03	0.00	0.00	SLCA003_BatchKT:stephensi(68516);SLCA010_trial1:stephensi(186);SLCA010_trial3:stephensi(475);SLCA011:funestus(81625)	arabiensis=21411;gambiae=17307;coluzzii=13620;funestus=24628;stephensi=55916;coustani=1277;Plasmodium=85
+SLCA013_BatchCOL	barcode04	gambiae	41.19	18.44	41.19	29.23	0.71	0.11	0.04	0.00	SLCA003_BatchKT:arabiensis(126732);SLCA010_trial1:stephensi(181);SLCA010_trial3:stephensi(556);SLCA011:coustani(115635)	arabiensis=46550;gambiae=22620;coluzzii=19614;funestus=23679;stephensi=15465;coustani=30312;Plasmodium=249
+SLCA013_BatchCOL	barcode05	stephensi	58.70	2.14	2.20	1.64	3.41	58.70	0.07	0.00	SLCA003_BatchKT:arabiensis(150817);SLCA010_trial1:stephensi(126);SLCA010_trial3:stephensi(397);SLCA011:arabiensis(25219);SLCA012:arabiensis(14821)	arabiensis=70020;gambiae=30484;coluzzii=16033;funestus=23786;stephensi=22445;coustani=435;Plasmodium=151
+SLCA013_BatchCOL	barcode06	arabiensis	34.40	34.40	33.55	8.48	3.77	0.57	0.00	0.00	SLCA003_BatchKT:arabiensis(11067);SLCA010_trial1:stephensi(346);SLCA010_trial3:stephensi(1113);SLCA011:arabiensis(45009);SLCA012:arabiensis(14500)	arabiensis=21824;gambiae=13765;coluzzii=7181;funestus=11742;stephensi=7077;coustani=396;Plasmodium=22
+SLCA013_BatchCOL	barcode07	funestus	94.21	2.60	1.00	1.10	94.21	0.19	0.00	0.00	SLCA003_BatchKT:arabiensis(7189);SLCA010_trial1:stephensi(207);SLCA010_trial3:stephensi(539);SLCA011:funestus(43403);SLCA012:gambiae(13476)	arabiensis=14180;gambiae=14638;coluzzii=5080;funestus=11856;stephensi=5193;coustani=759;Plasmodium=202
+SLCA013_BatchCOL	barcode08	funestus	62.02	11.38	8.77	8.55	62.02	0.13	0.00	3.70	SLCA003_BatchKT:stephensi(27517);SLCA010_trial3:stephensi(154);SLCA011:stephensi(2710);SLCA012:arabiensis(9114)	arabiensis=9107;gambiae=1212;coluzzii=831;funestus=646;stephensi=2526;coustani=229;Plasmodium=210
+SLCA013_BatchCOL	barcode09	gambiae	46.94	25.39	46.94	16.91	0.18	0.06	0.00	0.00	SLCA003_BatchKT:arabiensis(46727);SLCA010_trial1:stephensi(254);SLCA010_trial3:stephensi(644);SLCA011:arabiensis(64537);SLCA012:arabiensis(7137)	arabiensis=33377;gambiae=13820;coluzzii=8483;funestus=14606;stephensi=11971;coustani=2456;Plasmodium=52
+SLCA013_BatchCOL	barcode10	coluzzii	34.07	23.39	32.79	34.07	0.35	0.03	0.00	0.00	SLCA003_BatchKT:arabiensis(132895);SLCA010_trial1:stephensi(227);SLCA010_trial3:stephensi(658);SLCA011:arabiensis(23427);SLCA012:arabiensis(593)	arabiensis=45335;gambiae=34809;coluzzii=14561;funestus=6914;stephensi=13162;coustani=2843;Plasmodium=134
+SLCA013_BatchCOL	barcode11	funestus	80.90	7.76	5.54	3.24	80.90	0.17	0.00	0.00	SLCA003_BatchKT:funestus(41342);SLCA010_trial1:gambiae(254);SLCA010_trial3:gambiae(692);SLCA011:funestus(44223);SLCA012:gambiae(1071)	arabiensis=11505;gambiae=9522;coluzzii=7972;funestus=23659;stephensi=8016;coustani=2411;Plasmodium=87
+SLCA013_BatchCOL	barcode12	gambiae	50.04	17.37	50.04	18.17	0.40	0.15	0.00	0.04	SLCA003_BatchKT:arabiensis(131959);SLCA010_trial1:stephensi(294);SLCA010_trial3:stephensi(812);SLCA011:stephensi(7840);SLCA012:arabiensis(6798)	arabiensis=37615;gambiae=11678;coluzzii=5559;funestus=3174;stephensi=11444;coustani=3446;Plasmodium=200
+SLCA013_BatchCOL	barcode13	gambiae	46.72	17.39	46.72	23.69	0.35	0.08	0.00	0.00	SLCA003_BatchKT:gambiae(154096);SLCA011:coustani(3459);SLCA012:arabiensis(6463)	arabiensis=52226;gambiae=49323;coluzzii=42977;funestus=448;stephensi=637;coustani=1871;Plasmodium=2
+SLCA013_BatchCOL	barcode14	arabiensis	42.39	42.39	30.02	15.73	0.13	0.03	0.00	0.00	SLCA003_BatchKT:stephensi(31311);SLCA011:funestus(80673);SLCA012:arabiensis(30528)	arabiensis=30405;gambiae=23857;coluzzii=10857;funestus=18685;stephensi=10730;coustani=1451;Plasmodium=841
+SLCA013_BatchCOL	barcode15	stephensi	33.10	9.77	17.00	7.48	3.37	33.10	0.00	0.00	SLCA003_BatchKT:gambiae(314138);SLCA011:funestus(12636)	arabiensis=98540;gambiae=114360;coluzzii=44672;funestus=6170;stephensi=34728;coustani=361;Plasmodium=9
+SLCA013_BatchCOL	barcode16	funestus	93.68	2.55	1.39	1.27	93.68	0.08	0.00	0.00	SLCA003_BatchKT:arabiensis(5749);SLCA011:funestus(65085)	arabiensis=16200;gambiae=10825;coluzzii=5909;funestus=15197;stephensi=4597;coustani=1580;Plasmodium=35
+SLCA013_BatchCOL	barcode17	gambiae	33.57	31.12	33.57	21.98	0.46	0.12	0.00	0.00	SLCA003_BatchKT:arabiensis(5305);SLCA010_trial1:stephensi(157);SLCA010_trial3:stephensi(474);SLCA011:stephensi(2640);SLCA012:gambiae(4164)	arabiensis=3384;gambiae=3440;coluzzii=1090;funestus=355;stephensi=2495;coustani=168;Plasmodium=4
+SLCA013_BatchCOL	barcode18	funestus	93.32	3.28	0.99	0.99	93.32	0.00	0.00	0.00	SLCA003_BatchKT:funestus(127838);SLCA010_trial1:stephensi(214);SLCA010_trial3:stephensi(454);SLCA011:stephensi(5453);SLCA012:stephensi(855)	arabiensis=16318;gambiae=5433;coluzzii=3841;funestus=63805;stephensi=9804;coustani=7069;Plasmodium=116
+SLCA013_BatchCOL	barcode19	gambiae	48.47	17.28	48.47	21.91	0.33	0.06	0.00	0.00	SLCA003_BatchKT:arabiensis(143040);SLCA010_trial1:stephensi(171);SLCA010_trial3:stephensi(483);SLCA011:funestus(12282)	arabiensis=27775;gambiae=19883;coluzzii=18345;funestus=7876;stephensi=20065;coustani=5608;Plasmodium=315
+SLCA013_BatchCOL	barcode20	gambiae	24.81	22.48	24.81	14.73	7.75	2.33	0.00	0.00	SLCA003_BatchKT:arabiensis(507266);SLCA010_trial1:stephensi(178);SLCA010_trial3:stephensi(475);SLCA011:stephensi(5441)	arabiensis=352511;gambiae=89834;coluzzii=37628;funestus=1307;stephensi=2290;coustani=757
+SLCA013_BatchCOL	barcode21	funestus	90.44	3.18	2.21	2.42	90.44	0.03	0.00	0.00	SLCA003_BatchKT:gambiae(381806);SLCA010_trial1:stephensi(137);SLCA010_trial3:stephensi(399);SLCA011:coustani(31462)	arabiensis=76518;gambiae=118881;coluzzii=40482;funestus=4575;stephensi=49459;coustani=11035;Plasmodium=961
+SLCA013_BatchCOL	barcode22	gambiae	53.19	16.49	53.19	18.12	0.23	0.03	0.00	0.00	SLCA003_BatchKT:gambiae(378280);SLCA010_trial1:stephensi(231);SLCA010_trial3:stephensi(610);SLCA011:stephensi(3756)	arabiensis=93823;gambiae=152058;coluzzii=44887;funestus=1266;stephensi=30036;coustani=657;Plasmodium=1287
+SLCA013_BatchCOL	barcode23	gambiae	39.87	23.58	39.87	21.44	0.14	0.05	0.00	0.00	SLCA003_BatchKT:arabiensis(19363);SLCA010_trial1:stephensi(257);SLCA010_trial3:stephensi(722);SLCA011:arabiensis(12999)	arabiensis=8893;gambiae=7337;coluzzii=4422;funestus=3132;stephensi=4670;coustani=299;Plasmodium=12
+SLCA013_BatchCOL	barcode24	gambiae	41.11	23.89	41.11	21.58	0.22	0.09	0.00	0.16	SLCA010_trial1:stephensi(118);SLCA010_trial3:stephensi(271);SLCA011:stephensi(3417)	arabiensis=639;gambiae=258;coluzzii=227;funestus=417;stephensi=1350;coustani=612
+SLCA013_BatchCOL	barcode25	gambiae	32.00	30.00	32.00	14.00	11.00	0.00	0.00	0.00	SLCA010_trial1:stephensi(133);SLCA010_trial3:stephensi(398);SLCA011:arabiensis(24428)	arabiensis=6309;gambiae=4072;coluzzii=2594;funestus=4094;stephensi=2651;coustani=3239
+SLCA013_BatchCOL	barcode26	gambiae	37.39	34.36	37.39	18.99	0.26	0.13	0.00	0.00	SLCA003_BatchKT:stephensi(102131);SLCA010_trial1:stephensi(201);SLCA010_trial3:stephensi(501);SLCA011:arabiensis(100255)	arabiensis=43621;gambiae=25808;coluzzii=20420;funestus=31669;stephensi=37044;coustani=2919;Plasmodium=541
+SLCA013_BatchCOL	barcode27	gambiae	50.15	17.48	50.15	18.21	0.52	0.13	0.00	0.04	SLCA003_BatchKT:coluzzii(117279);SLCA010_trial1:stephensi(181);SLCA010_trial3:stephensi(454);SLCA011:arabiensis(92436)	arabiensis=38609;gambiae=19991;coluzzii=27703;funestus=18137;stephensi=14194;coustani=7239
+SLCA013_BatchCOL	barcode28	funestus	51.75	11.27	18.66	12.16	51.75	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(141705);SLCA010_trial1:stephensi(158);SLCA010_trial3:stephensi(433);SLCA011:arabiensis(33725)	arabiensis=75415;gambiae=44867;coluzzii=39589;funestus=2093;stephensi=2584;coustani=223
+SLCA013_BatchCOL	barcode29	gambiae	39.35	29.58	39.35	20.09	0.39	0.08	0.00	0.00	SLCA003_BatchKT:stephensi(48147);SLCA010_trial1:stephensi(158);SLCA010_trial3:stephensi(436);SLCA011:stephensi(3954)	arabiensis=7002;gambiae=3858;coluzzii=3204;funestus=2098;stephensi=8340;coustani=1333;Plasmodium=131
+SLCA013_BatchCOL	barcode30	coluzzii	32.18	19.54	31.90	32.18	6.61	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(6664);SLCA010_trial1:stephensi(224);SLCA010_trial3:stephensi(611);SLCA011:stephensi(2815)	arabiensis=2450;gambiae=1598;coluzzii=1250;funestus=401;stephensi=3029;coustani=100;Plasmodium=7
+SLCA013_BatchCOL	barcode31	gambiae	35.90	25.68	35.90	26.72	0.22	0.05	0.00	0.00	SLCA003_BatchKT:arabiensis(7630);SLCA010_trial1:stephensi(170);SLCA010_trial3:stephensi(424);SLCA011:coustani(5153)	arabiensis=2821;gambiae=1956;coluzzii=1473;funestus=484;stephensi=2606;coustani=2266;Plasmodium=8
+SLCA013_BatchCOL	barcode32	gambiae	52.83	11.88	52.83	23.07	0.61	0.03	0.00	0.00	SLCA003_BatchKT:arabiensis(16158);SLCA010_trial1:stephensi(238);SLCA010_trial3:stephensi(719);SLCA011:stephensi(8078)	arabiensis=6001;gambiae=3508;coluzzii=2827;funestus=1583;stephensi=5090;coustani=1010;Plasmodium=26
+SLCA013_BatchCOL	barcode33	gambiae	32.51	28.26	32.51	23.50	0.30	0.00	0.03	0.00	SLCA003_BatchKT:arabiensis(2757);SLCA010_trial1:stephensi(146);SLCA010_trial3:stephensi(365);SLCA011:arabiensis(20982)	arabiensis=6869;gambiae=3078;coluzzii=2389;funestus=2601;stephensi=2291;coustani=4324;Plasmodium=8
+SLCA013_BatchCOL	barcode34	gambiae	46.26	13.56	46.26	27.54	0.50	0.08	0.00	0.04	SLCA003_BatchKT:stephensi(8725);SLCA010_trial3:stephensi(249);SLCA011:arabiensis(15553)	arabiensis=6139;gambiae=4071;coluzzii=2601;funestus=3316;stephensi=3670;coustani=147;Plasmodium=15
+SLCA013_BatchCOL	barcode35	gambiae	43.00	26.37	43.00	20.06	0.36	0.15	0.00	0.00	SLCA003_BatchKT:stephensi(26471);SLCA010_trial1:stephensi(299);SLCA010_trial3:stephensi(681);SLCA011:stephensi(3602)	arabiensis=5844;gambiae=3930;coluzzii=2424;funestus=1055;stephensi=10476;coustani=346;Plasmodium=51
+SLCA013_BatchCOL	barcode36	gambiae	48.66	15.47	48.66	23.39	3.18	0.00	0.06	0.00	SLCA010_trial1:stephensi(356);SLCA010_trial3:stephensi(1089);SLCA011:funestus(22989)	arabiensis=4542;gambiae=3111;coluzzii=2478;funestus=5777;stephensi=5035;coustani=143;Plasmodium=5
+SLCA013_BatchCOL	barcode37	gambiae	42.36	22.72	42.36	23.31	0.25	0.08	0.00	0.00	SLCA003_BatchKT:funestus(121164);SLCA010_trial1:stephensi(193);SLCA010_trial3:stephensi(406);SLCA011:funestus(21162)	arabiensis=26399;gambiae=13710;coluzzii=17662;funestus=34491;stephensi=14408;coustani=5537;Plasmodium=315
+SLCA013_BatchCOL	barcode38	gambiae	49.68	17.28	49.68	22.50	0.30	0.03	0.00	0.00	SLCA003_BatchKT:arabiensis(167313);SLCA010_trial1:stephensi(485);SLCA010_trial3:stephensi(1440);SLCA011:stephensi(5662)	arabiensis=16188;gambiae=6360;coluzzii=12082;funestus=5115;stephensi=19293;coustani=3418;Plasmodium=89
+SLCA013_BatchCOL	barcode39	coluzzii	26.62	24.03	25.32	26.62	9.09	2.60	0.00	0.65	SLCA003_BatchKT:coluzzii(76313);SLCA010_trial1:stephensi(119);SLCA010_trial3:stephensi(302);SLCA011:stephensi(3555)	arabiensis=15208;gambiae=15288;coluzzii=19877;funestus=570;stephensi=15369;coustani=169;Plasmodium=61
+SLCA013_BatchCOL	barcode40	gambiae	50.01	20.01	50.01	16.87	0.05	0.03	0.00	0.00	SLCA003_BatchKT:arabiensis(21567);SLCA010_trial1:stephensi(143);SLCA010_trial3:stephensi(403);SLCA011:arabiensis(20570)	arabiensis=6715;gambiae=5663;coluzzii=3812;funestus=4080;stephensi=5947;coustani=955;Plasmodium=51
+SLCA013_BatchCOL	barcode41	gambiae	34.07	27.11	34.07	28.33	0.10	0.00	0.00	0.00	SLCA003_BatchKT:gambiae(86584);SLCA010_trial1:stephensi(137);SLCA010_trial3:stephensi(352);SLCA011:stephensi(3530)	arabiensis=20950;gambiae=31485;coluzzii=26105;funestus=542;stephensi=2005;coustani=353
+SLCA013_BatchCOL	barcode42	gambiae	34.41	30.38	34.41	24.41	0.10	0.06	0.00	0.00	SLCA003_BatchKT:gambiae(86089);SLCA010_trial1:stephensi(105);SLCA010_trial3:stephensi(290);SLCA011:funestus(9639)	arabiensis=22451;gambiae=28941;coluzzii=27676;funestus=2392;stephensi=2572;coustani=136;Plasmodium=36
+SLCA013_BatchCOL	barcode43	gambiae	35.42	30.42	35.42	20.00	2.08	1.25	0.00	0.00	SLCA003_BatchKT:gambiae(15096);SLCA010_trial1:stephensi(176);SLCA010_trial3:stephensi(401);SLCA011:arabiensis(32336)	arabiensis=11128;gambiae=11163;coluzzii=5107;funestus=3709;stephensi=4221;coustani=7373;Plasmodium=3
+SLCA013_BatchCOL	barcode44	arabiensis	36.26	36.26	33.16	18.97	0.39	0.19	0.06	0.00	SLCA003_BatchKT:arabiensis(17971);SLCA010_trial1:stephensi(158);SLCA010_trial3:stephensi(486);SLCA011:funestus(15922)	arabiensis=14615;gambiae=5132;coluzzii=3702;funestus=4799;stephensi=3180;coustani=143;Plasmodium=6
+SLCA013_BatchCOL	barcode45	gambiae	43.85	24.96	43.85	19.84	0.15	0.06	0.00	0.00	SLCA003_BatchKT:gambiae(19327);SLCA010_trial1:stephensi(293);SLCA010_trial3:stephensi(724);SLCA011:funestus(40214)	arabiensis=10789;gambiae=11283;coluzzii=11373;funestus=9845;stephensi=6582;coustani=194;Plasmodium=24
+SLCA013_BatchCOL	barcode46	funestus	64.24	13.76	5.41	12.14	64.24	0.00	0.00	0.00	SLCA010_trial1:stephensi(256);SLCA010_trial3:stephensi(775);SLCA011:funestus(52136)	arabiensis=9274;gambiae=6998;coluzzii=5497;funestus=13744;stephensi=9712;coustani=240
+SLCA013_BatchCOL	barcode47	gambiae	42.49	30.04	42.49	17.44	0.28	0.03	0.00	0.00	SLCA003_BatchKT:arabiensis(8541);SLCA010_trial1:stephensi(185);SLCA010_trial3:stephensi(488);SLCA011:arabiensis(10085)	arabiensis=5457;gambiae=2763;coluzzii=2275;funestus=1267;stephensi=2833;coustani=2314;Plasmodium=9
+SLCA013_BatchCOL	barcode48	funestus	95.04	1.60	1.12	1.07	95.04	0.08	0.00	0.00	SLCA003_BatchKT:arabiensis(11539);SLCA010_trial1:stephensi(180);SLCA010_trial3:stephensi(470);SLCA011:funestus(62579)	arabiensis=11522;gambiae=8775;coluzzii=7257;funestus=12971;stephensi=5475;coustani=933;Plasmodium=175
+SLCA013_BatchCOL	barcode49	gambiae	33.69	32.26	33.69	24.30	0.19	0.03	0.00	0.03	SLCA003_BatchKT:arabiensis(113433);SLCA010_trial1:stephensi(262);SLCA010_trial3:stephensi(644);SLCA011:funestus(24974)	arabiensis=20948;gambiae=8749;coluzzii=7975;funestus=11732;stephensi=17065;coustani=4625;Plasmodium=221
+SLCA013_BatchCOL	barcode50	gambiae	61.61	10.49	61.61	15.02	0.44	0.04	0.00	0.00	SLCA003_BatchKT:arabiensis(681094);SLCA010_trial1:stephensi(180);SLCA010_trial3:stephensi(476);SLCA011:stephensi(3246)	arabiensis=422918;gambiae=112951;coluzzii=117438;funestus=972;stephensi=3061;coustani=124
+SLCA013_BatchCOL	barcode51	arabiensis	42.28	42.28	35.72	12.13	0.20	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(326439);SLCA010_trial1:stephensi(200);SLCA010_trial3:stephensi(509);SLCA011:funestus(13220)	arabiensis=183994;gambiae=48962;coluzzii=39197;funestus=24227;stephensi=21328;coustani=530;Plasmodium=25
+SLCA013_BatchCOL	barcode52	arabiensis	30.48	30.48	28.75	29.36	0.61	0.00	0.00	0.00	SLCA003_BatchKT:arabiensis(180703);SLCA010_trial1:stephensi(248);SLCA010_trial3:stephensi(640);SLCA011:funestus(25154)	arabiensis=122162;gambiae=35081;coluzzii=22102;funestus=5489;stephensi=4186;coustani=528;Plasmodium=28
+SLCA013_BatchCOL	barcode53	funestus	85.76	4.78	4.15	3.32	85.76	0.07	0.00	0.00	SLCA003_BatchKT:arabiensis(153099);SLCA010_trial1:stephensi(312);SLCA010_trial3:stephensi(856);SLCA011:funestus(45453)	arabiensis=58461;gambiae=27259;coluzzii=18023;funestus=13988;stephensi=17331;coustani=2440;Plasmodium=257
+SLCA013_BatchCOL	barcode54	gambiae	41.04	16.85	41.04	30.12	0.28	0.14	0.00	0.00	SLCA003_BatchKT:gambiae(75251);SLCA010_trial1:stephensi(268);SLCA010_trial3:stephensi(665);SLCA011:coustani(45123)	arabiensis=28018;gambiae=37432;coluzzii=22770;funestus=7984;stephensi=6175;coustani=10405;Plasmodium=39
+SLCA013_BatchCOL	barcode55	arabiensis	34.04	34.04	32.73	22.39	0.47	0.03	0.03	0.00	SLCA003_BatchKT:arabiensis(68662);SLCA010_trial1:stephensi(210);SLCA010_trial3:stephensi(544);SLCA011:funestus(46145)	arabiensis=33857;gambiae=20689;coluzzii=14309;funestus=14403;stephensi=9869;coustani=569;Plasmodium=21
+SLCA013_BatchCOL	barcode56	gambiae	41.48	19.75	41.48	23.45	0.21	0.00	0.00	0.00	SLCA010_trial1:stephensi(294);SLCA010_trial3:stephensi(749);SLCA011:funestus(73008)	arabiensis=10882;gambiae=5220;coluzzii=9413;funestus=17107;stephensi=6158;coustani=1139
+SLCA013_BatchCOL	barcode57	gambiae	37.72	29.74	37.72	22.91	0.20	0.03	0.00	0.00	SLCA010_trial3:stephensi(227);SLCA011:arabiensis(10740)	arabiensis=2674;gambiae=1143;coluzzii=827;funestus=1954;stephensi=1524;coustani=1380;Plasmodium=6
+SLCA013_BatchCOL	barcode58	gambiae	44.99	18.59	44.99	24.59	0.11	0.04	0.00	0.00	SLCA010_trial1:stephensi(213);SLCA010_trial3:stephensi(644);SLCA011:funestus(197805)	arabiensis=22554;gambiae=22181;coluzzii=31096;funestus=32420;stephensi=10709;coustani=989;Plasmodium=475
+SLCA013_BatchCOL	barcode59	arabiensis	66.38	66.38	16.03	5.76	0.46	0.07	0.00	0.00	SLCA010_trial1:stephensi(253);SLCA010_trial3:stephensi(690)	arabiensis=1;coluzzii=1;stephensi=934
+SLCA013_BatchCOL	barcode60	arabiensis	35.88	35.88	19.28	34.39	0.24	0.12	0.00	0.00	SLCA010_trial1:stephensi(156);SLCA010_trial3:stephensi(361);SLCA011:stephensi(4040)	arabiensis=791;gambiae=294;coluzzii=299;funestus=729;stephensi=1966;coustani=85
+SLCA013_BatchCOL	barcode61	funestus	93.54	2.34	1.17	1.65	93.54	0.07	0.00	0.07	SLCA003_BatchKT:stephensi(19407);SLCA010_trial1:stephensi(285);SLCA010_trial3:stephensi(728);SLCA011:funestus(33653)	arabiensis=6093;gambiae=3899;coluzzii=3334;funestus=12891;stephensi=21080;coustani=376;Plasmodium=13
+SLCA013_BatchCOL	barcode62	funestus	85.31	5.59	3.29	3.29	85.31	0.22	0.00	0.00	SLCA010_trial1:stephensi(326);SLCA010_trial3:stephensi(901);SLCA011:stephensi(3728)	arabiensis=410;gambiae=190;coluzzii=164;funestus=328;stephensi=3387;coustani=106;Plasmodium=1
+SLCA013_BatchCOL	barcode63	gambiae	47.55	16.00	47.55	23.65	0.14	0.06	0.00	0.00	SLCA010_trial1:stephensi(364);SLCA010_trial3:stephensi(960);SLCA011:stephensi(3752)	arabiensis=357;gambiae=179;coluzzii=175;funestus=311;stephensi=3646;coustani=102
+SLCA013_BatchCOL	barcode64	gambiae	46.47	19.14	46.47	20.34	0.03	0.03	0.00	0.00	SLCA010_trial1:stephensi(196);SLCA010_trial3:stephensi(518);SLCA011:stephensi(2551)	arabiensis=296;gambiae=150;coluzzii=132;funestus=273;stephensi=2078;coustani=79;Plasmodium=1
+SLCA013_BatchCOL	barcode65	gambiae	38.47	25.97	38.47	22.31	1.22	0.03	0.00	0.00	SLCA010_trial1:stephensi(212);SLCA010_trial3:stephensi(522);SLCA011:arabiensis(41872)	arabiensis=11547;gambiae=8446;coluzzii=4000;funestus=6511;stephensi=7801;coustani=218
+SLCA013_BatchCOL	barcode66	funestus	92.65	2.25	1.65	1.42	92.65	0.14	0.00	0.00	SLCA010_trial1:stephensi(183);SLCA010_trial3:stephensi(475);SLCA011:arabiensis(28886)	arabiensis=9736;gambiae=5153;coluzzii=3357;funestus=3530;stephensi=3400;coustani=1675
+SLCA013_BatchCOL	barcode67	arabiensis	36.43	36.43	24.92	28.53	0.23	0.04	0.00	0.00	SLCA010_trial1:stephensi(185);SLCA010_trial3:stephensi(517);SLCA011:stephensi(4283)	arabiensis=696;gambiae=649;coluzzii=325;funestus=662;stephensi=2190;coustani=72;Plasmodium=1
+SLCA013_BatchCOL	barcode68	arabiensis	42.52	42.52	23.23	23.15	0.88	0.08	0.00	0.00	SLCA010_trial1:stephensi(211);SLCA010_trial3:stephensi(688)	arabiensis=3;gambiae=2;coluzzii=1;stephensi=885
+SLCA013_BatchCOL	barcode69	gambiae	50.67	19.93	50.67	18.72	0.18	0.00	0.00	0.00	SLCA011:stephensi(1373)	arabiensis=273;gambiae=170;coluzzii=108;funestus=261;stephensi=428;coustani=42
+SLCA013_BatchCOL	barcode70	stephensi	67.36	3.61	2.66	1.67	3.38	67.36	0.03	0.00	SLCA010_trial1:stephensi(227);SLCA010_trial3:stephensi(598);SLCA011:funestus(40394)	arabiensis=8181;gambiae=4920;coluzzii=4849;funestus=8196;stephensi=4155;coustani=3046;Plasmodium=9
+SLCA013_BatchCOL	barcode71	gambiae	44.47	23.47	44.47	20.35	0.38	0.03	0.00	0.00	SLCA010_trial1:stephensi(273);SLCA010_trial3:stephensi(669);SLCA011:stephensi(3427)	arabiensis=355;gambiae=236;coluzzii=181;funestus=334;stephensi=2839;coustani=103;Plasmodium=2
+SLCA013_BatchCOL	barcode72	gambiae	38.43	25.96	38.43	23.63	0.61	0.00	0.00	0.00	SLCA010_trial1:stephensi(221);SLCA010_trial3:stephensi(738);SLCA011:funestus(21559)	arabiensis=3948;gambiae=2488;coluzzii=2322;funestus=7518;stephensi=3585;coustani=345;Plasmodium=9
+SLCA013_BatchCOL	barcode73	gambiae	47.18	22.31	47.18	14.01	2.61	0.30	0.00	0.06	SLCA010_trial1:stephensi(178);SLCA010_trial3:stephensi(491);SLCA011:stephensi(2464)	arabiensis=273;gambiae=153;coluzzii=134;funestus=240;stephensi=2010;coustani=69;Plasmodium=2
+SLCA013_BatchCOL	barcode74	gambiae	47.44	18.00	47.44	21.06	1.24	0.12	0.00	0.00	SLCA011:arabiensis(41258)	arabiensis=9382;gambiae=9152;coluzzii=4923;funestus=8483;stephensi=2659;coustani=557
+SLCA013_BatchCOL	barcode75	gambiae	38.75	27.36	38.75	23.00	1.05	0.04	0.00	0.00	SLCA010_trial1:stephensi(178);SLCA010_trial3:stephensi(478);SLCA011:stephensi(5917)	arabiensis=782;gambiae=379;coluzzii=351;funestus=1464;stephensi=2236;coustani=439
+SLCA013_BatchCOL	barcode76	gambiae	34.85	18.18	34.85	24.24	6.06	0.00	0.00	0.00	SLCA010_trial1:arabiensis(228);SLCA010_trial3:arabiensis(701);SLCA011:arabiensis(62338)	arabiensis=25892;gambiae=8576;coluzzii=7024;funestus=8759;stephensi=4565;coustani=2257
+SLCA013_BatchCOL	barcode77	arabiensis	32.15	32.15	29.24	30.76	0.21	0.04	0.00	0.00	SLCA010_trial3:stephensi(147);SLCA011:stephensi(2401)	arabiensis=481;gambiae=278;coluzzii=236;funestus=488;stephensi=710;coustani=82;Plasmodium=2
+SLCA013_BatchCOL	barcode78	gambiae	37.25	24.43	37.25	26.78	0.22	0.00	0.00	0.00	SLCA010_trial1:stephensi(359);SLCA010_trial3:stephensi(980);SLCA011:funestus(109278)	arabiensis=15290;gambiae=10294;coluzzii=11103;funestus=37122;stephensi=10312;coustani=142;Plasmodium=120
+SLCA013_BatchCOL	barcode79	coluzzii	33.13	31.34	26.23	33.13	0.14	0.00	0.03	0.00	SLCA010_trial1:stephensi(157);SLCA010_trial3:stephensi(415);SLCA011:stephensi(68901)	arabiensis=11713;gambiae=6401;coluzzii=4451;funestus=8592;stephensi=19640;coustani=13271
+SLCA013_BatchCOL	barcode80	arabiensis	36.07	36.07	15.65	27.59	2.92	0.27	0.00	0.00	SLCA011:arabiensis(3005)	arabiensis=786;gambiae=507;coluzzii=243;funestus=466;stephensi=123;coustani=535
+SLCA013_BatchCOL	barcode81	arabiensis	100.00	100.00	0.00	0.00	0.00	0.00	0.00	0.00		
+SLCA013_BatchCOL2	barcode01	gambiae	33.88	32.88	33.88	26.89	0.36	0.22	0.00	0.00	SLCA010_BatchST:stephensi(22094)	arabiensis=31;gambiae=4;coluzzii=75;stephensi=21321
+SLCA013_BatchCOL2	barcode02	gambiae	63.59	18.85	63.59	11.03	0.30	0.02	0.00	0.00	SLCA010_BatchST:stephensi(8385)	arabiensis=37;gambiae=8;coluzzii=10;stephensi=8252
+SLCA013_BatchCOL2	barcode03	arabiensis	38.58	38.58	29.96	23.81	0.28	0.34	0.00	0.00	SLCA010_BatchST:stephensi(33721)	arabiensis=13;gambiae=20;coluzzii=40;funestus=7;stephensi=33438
+SLCA013_BatchCOL2	barcode04	gambiae	45.54	18.51	45.54	30.60	0.48	0.30	0.00	0.00	SLCA010_BatchST:stephensi(34068)	arabiensis=48;gambiae=34;coluzzii=55;stephensi=33451
+SLCA013_BatchCOL2	barcode05	stephensi	51.56	2.12	2.04	1.32	2.28	51.56	0.00	0.00	SLCA010_BatchST:stephensi(24678)	arabiensis=114;gambiae=54;coluzzii=64;funestus=5;stephensi=24362;Plasmodium=5
+SLCA013_BatchCOL2	barcode06	gambiae	37.09	32.11	37.09	7.15	4.44	2.22	0.00	0.00	SLCA010_BatchST:stephensi(75771)	arabiensis=30;gambiae=61;coluzzii=91;funestus=15;stephensi=74112
+SLCA013_BatchCOL2	barcode07	funestus	94.89	1.72	1.32	1.20	94.89	0.42	0.00	0.00	SLCA010_BatchST:stephensi(38209)	arabiensis=84;gambiae=23;coluzzii=46;stephensi=37689
+SLCA013_BatchCOL2	barcode08	funestus	63.89	10.95	10.22	7.35	63.89	0.22	0.00	3.19	SLCA010_BatchST:stephensi(13253)	arabiensis=16;gambiae=8;coluzzii=19;stephensi=13136
+SLCA013_BatchCOL2	barcode09	gambiae	52.72	24.54	52.72	16.66	0.22	0.52	0.00	0.00	SLCA010_BatchST:stephensi(45617)	arabiensis=137;gambiae=155;coluzzii=91;stephensi=44244
+SLCA013_BatchCOL2	barcode10	coluzzii	38.49	23.48	32.78	38.49	0.46	0.30	0.00	0.00	SLCA010_BatchST:stephensi(42508)	arabiensis=9;gambiae=26;coluzzii=60;stephensi=42397
+SLCA013_BatchCOL2	barcode11	funestus	80.46	6.12	5.78	4.60	80.46	0.20	0.00	0.00	SLCA010_BatchST:gambiae(44990)	arabiensis=12534;gambiae=16786;coluzzii=11954;stephensi=1953;Plasmodium=9
+SLCA013_BatchCOL2	barcode12	gambiae	59.11	15.59	59.11	16.25	0.40	0.68	0.00	0.00	SLCA010_BatchST:stephensi(54052)	arabiensis=141;gambiae=43;coluzzii=54;stephensi=53149
+SLCA013_BatchCOL2	barcode13	gambiae	53.51	14.95	53.51	23.89	0.34	0.10	0.00	0.00	SLCA010_BatchST:stephensi(451)	arabiensis=6;gambiae=6;coluzzii=8;stephensi=425
+SLCA013_BatchCOL2	barcode14	arabiensis	47.13	47.13	31.52	14.76	0.16	0.02	0.00	0.00	SLCA010_BatchST:stephensi(5397)	arabiensis=467;gambiae=1674;coluzzii=619;funestus=1;stephensi=2460;Plasmodium=2
+SLCA013_BatchCOL2	barcode15	stephensi	28.44	9.56	18.36	7.09	2.42	28.44	0.00	0.00	SLCA010_BatchST:stephensi(596)	arabiensis=3;gambiae=1;coluzzii=2;stephensi=584
+SLCA013_BatchCOL2	barcode16	funestus	94.70	1.67	1.57	1.18	94.70	0.12	0.00	0.00	SLCA010_BatchST:stephensi(401)	arabiensis=6;gambiae=2;coluzzii=2;stephensi=388
+SLCA013_BatchCOL2	barcode17	gambiae	35.99	32.02	35.99	24.41	0.30	0.24	0.00	0.00	SLCA010_BatchST:stephensi(33490)	arabiensis=27;gambiae=20;coluzzii=27;funestus=13;stephensi=33269
+SLCA013_BatchCOL2	barcode18	funestus	93.13	3.37	1.09	1.07	93.13	0.34	0.00	0.00	SLCA010_BatchST:stephensi(34245)	arabiensis=27;gambiae=41;coluzzii=7;stephensi=34156
+SLCA013_BatchCOL2	barcode19	gambiae	52.82	16.75	52.82	23.10	0.22	0.26	0.00	0.00	SLCA010_BatchST:stephensi(33130)	arabiensis=66;gambiae=33;coluzzii=40;stephensi=32623;coustani=7;Plasmodium=7
+SLCA013_BatchCOL2	barcode20	arabiensis	18.29	18.29	15.55	14.55	13.97	10.23	0.06	0.06	SLCA010_BatchST:stephensi(33792)	arabiensis=14;gambiae=41;coluzzii=41;stephensi=33495
+SLCA013_BatchCOL2	barcode21	funestus	90.62	3.22	2.54	2.23	90.62	0.14	0.00	0.00	SLCA010_BatchST:stephensi(27337)	arabiensis=82;gambiae=44;coluzzii=44;stephensi=27064
+SLCA013_BatchCOL2	barcode22	gambiae	61.13	13.32	61.13	18.58	0.10	0.26	0.00	0.00	SLCA010_BatchST:stephensi(42072)	arabiensis=67;gambiae=42;coluzzii=42;funestus=34;stephensi=41487
+SLCA013_BatchCOL2	barcode23	gambiae	43.67	24.71	43.67	23.42	0.24	0.18	0.00	0.00	SLCA010_BatchST:stephensi(46392)	arabiensis=111;gambiae=65;coluzzii=56;stephensi=45900
+SLCA013_BatchCOL2	barcode24	gambiae	47.92	22.74	47.92	22.62	0.36	0.12	0.00	0.34	SLCA010_BatchST:stephensi(20088)	arabiensis=88;gambiae=8;coluzzii=28;stephensi=19803
+SLCA013_BatchCOL2	barcode25	gambiae	27.78	19.68	27.78	18.49	9.95	17.84	0.00	0.11	SLCA010_BatchST:stephensi(29591)	arabiensis=24;gambiae=47;coluzzii=12;funestus=6;stephensi=29449
+SLCA013_BatchCOL2	barcode26	gambiae	43.70	35.04	43.70	16.74	0.22	0.36	0.00	0.00	SLCA010_BatchST:stephensi(35969)	arabiensis=29;gambiae=14;coluzzii=14;funestus=7;stephensi=35440;coustani=7
+SLCA013_BatchCOL2	barcode27	gambiae	59.35	16.05	59.35	17.03	0.12	0.22	0.00	0.00	SLCA010_BatchST:stephensi(33517)	arabiensis=7518;gambiae=4930;coluzzii=5272;stephensi=14848;Plasmodium=7
+SLCA013_BatchCOL2	barcode28	funestus	51.88	9.79	21.91	12.74	51.88	0.28	0.00	0.00	SLCA010_BatchST:stephensi(32353)	arabiensis=19;gambiae=19;coluzzii=26;stephensi=32004;Plasmodium=6
+SLCA013_BatchCOL2	barcode29	gambiae	46.21	23.68	46.21	25.50	0.24	0.22	0.00	0.00	SLCA010_BatchST:stephensi(27860)	arabiensis=50;gambiae=33;coluzzii=50;stephensi=27545;Plasmodium=6
+SLCA013_BatchCOL2	barcode30	coluzzii	28.01	22.46	26.12	28.01	6.71	7.14	0.03	0.03	SLCA010_BatchST:stephensi(44166)	arabiensis=88;gambiae=53;coluzzii=79;stephensi=43579
+SLCA013_BatchCOL2	barcode31	gambiae	39.21	27.13	39.21	28.12	0.20	0.18	0.00	0.00	SLCA010_BatchST:stephensi(34224)	arabiensis=27;gambiae=21;coluzzii=14;stephensi=33960;Plasmodium=7
+SLCA013_BatchCOL2	barcode32	gambiae	61.77	9.73	61.77	21.75	0.38	0.38	0.00	0.00	SLCA010_BatchST:stephensi(50899)	arabiensis=31;gambiae=20;coluzzii=61;stephensi=50329;Plasmodium=10
+SLCA013_BatchCOL2	barcode33	gambiae	35.50	29.20	35.50	27.61	0.22	0.16	0.00	0.00	SLCA010_BatchST:stephensi(25395)	arabiensis=112;gambiae=33;coluzzii=89;funestus=23;stephensi=23056;coustani=56;Plasmodium=8
+SLCA013_BatchCOL2	barcode34	gambiae	48.99	12.09	48.99	31.99	0.28	0.26	0.00	0.08	SLCA010_BatchST:stephensi(16104)	arabiensis=29;gambiae=13;coluzzii=10;stephensi=15887
+SLCA013_BatchCOL2	barcode35	gambiae	47.54	26.10	47.54	19.89	0.28	0.88	0.00	0.00	SLCA010_BatchST:stephensi(51523)	arabiensis=31;coluzzii=52;stephensi=51389
+SLCA013_BatchCOL2	barcode36	gambiae	54.25	13.23	54.25	21.94	2.24	2.38	0.00	0.06	SLCA010_BatchST:stephensi(77963)	arabiensis=94;coluzzii=16;stephensi=77823
+SLCA013_BatchCOL2	barcode37	gambiae	48.36	23.09	48.36	21.57	0.26	1.26	0.00	0.00	SLCA010_BatchST:stephensi(29120)	arabiensis=151;gambiae=116;coluzzii=111;stephensi=28415
+SLCA013_BatchCOL2	barcode38	gambiae	59.80	13.17	59.80	21.12	0.28	0.60	0.02	0.04	SLCA010_BatchST:stephensi(93466)	arabiensis=262;gambiae=2907;coluzzii=935;stephensi=88924
+SLCA013_BatchCOL2	barcode39	gambiae	31.12	22.68	31.12	19.43	9.49	11.18	0.00	0.13	SLCA010_BatchST:stephensi(22671)	arabiensis=279;gambiae=63;coluzzii=18;stephensi=22018
+SLCA013_BatchCOL2	barcode40	gambiae	63.03	16.79	63.03	13.23	0.20	0.10	0.00	0.00	SLCA010_BatchST:stephensi(29916)	arabiensis=72;gambiae=120;coluzzii=60;funestus=30;stephensi=29545
+SLCA013_BatchCOL2	barcode41	gambiae	37.63	24.61	37.63	33.21	0.20	0.16	0.00	0.00	SLCA010_BatchST:stephensi(27924)	arabiensis=34;gambiae=17;coluzzii=11;funestus=6;stephensi=27357;Plasmodium=6
+SLCA013_BatchCOL2	barcode42	gambiae	39.10	30.86	39.10	24.29	0.20	0.12	0.00	0.00	SLCA010_BatchST:stephensi(20833)	arabiensis=21;gambiae=4;coluzzii=54;stephensi=20266
+SLCA013_BatchCOL2	barcode43	gambiae	37.24	27.76	37.24	17.20	5.02	6.83	0.00	0.04	SLCA010_BatchST:stephensi(30554)	arabiensis=18;gambiae=18;coluzzii=37;funestus=6;stephensi=30224
+SLCA013_BatchCOL2	barcode44	gambiae	38.72	36.83	38.72	18.03	0.34	1.09	0.00	0.00	SLCA010_BatchST:stephensi(31017)	arabiensis=43;gambiae=31;coluzzii=43;stephensi=30794
+SLCA013_BatchCOL2	barcode45	gambiae	50.18	25.22	50.18	18.66	0.12	0.32	0.00	0.00	SLCA010_BatchST:stephensi(51582)	arabiensis=165;gambiae=227;coluzzii=103;stephensi=50690;Plasmodium=10
+SLCA013_BatchCOL2	barcode46	funestus	64.00	13.80	6.06	13.48	64.00	0.30	0.00	0.00	SLCA010_BatchST:stephensi(50244)	arabiensis=20;gambiae=40;coluzzii=40;stephensi=50043;Plasmodium=10
+SLCA013_BatchCOL2	barcode47	gambiae	49.56	28.94	49.56	15.92	0.16	0.16	0.00	0.00	SLCA010_BatchST:stephensi(33929)	arabiensis=434;gambiae=740;coluzzii=258;stephensi=32070;Plasmodium=7
+SLCA013_BatchCOL2	barcode48	funestus	95.12	1.40	1.38	1.18	95.12	0.26	0.00	0.00	SLCA010_BatchST:stephensi(35584)	arabiensis=107;gambiae=50;coluzzii=36;stephensi=34680
+SLCA013_BatchCOL2	barcode49	gambiae	34.21	33.59	34.21	27.22	0.28	0.38	0.00	0.00	SLCA010_BatchST:stephensi(49203)	arabiensis=39;gambiae=39;coluzzii=39;stephensi=48996
+SLCA013_BatchCOL2	barcode50	gambiae	68.45	9.40	68.45	15.02	0.20	0.34	0.00	0.00	SLCA010_BatchST:stephensi(33193)	arabiensis=93;gambiae=27;coluzzii=40;stephensi=32609
+SLCA013_BatchCOL2	barcode51	arabiensis	43.90	43.90	39.67	10.76	0.26	0.64	0.00	0.00	SLCA010_BatchST:stephensi(34298)	arabiensis=75;gambiae=41;coluzzii=48;funestus=14;stephensi=33989
+SLCA013_BatchCOL2	barcode52	coluzzii	33.78	29.77	28.93	33.78	0.22	0.84	0.00	0.00	SLCA010_BatchST:stephensi(47519)	arabiensis=86;gambiae=19;coluzzii=48;stephensi=47158
+SLCA013_BatchCOL2	barcode53	funestus	86.39	4.18	4.12	4.02	86.39	0.46	0.00	0.00	SLCA010_BatchST:stephensi(59400)	arabiensis=131;gambiae=36;coluzzii=48;funestus=36;stephensi=58289
+SLCA013_BatchCOL2	barcode54	gambiae	46.73	15.40	46.73	31.51	0.38	0.26	0.00	0.00	SLCA010_BatchST:stephensi(48862)	arabiensis=2687;gambiae=1046;coluzzii=2580;stephensi=42310
+SLCA013_BatchCOL2	barcode55	gambiae	37.32	32.84	37.32	24.12	0.28	0.32	0.00	0.00	SLCA010_BatchST:stephensi(40519)	arabiensis=24;gambiae=24;coluzzii=49;stephensi=39940
+SLCA013_BatchCOL2	barcode56	gambiae	45.55	19.38	45.55	24.90	0.12	0.30	0.00	0.00	SLCA010_BatchST:stephensi(53430)	arabiensis=267;gambiae=11;coluzzii=11;funestus=11;stephensi=52500;Plasmodium=21
+SLCA013_BatchCOL2	barcode57	gambiae	41.48	27.01	41.48	25.07	0.38	0.22	0.00	0.00	SLCA010_BatchST:stephensi(17116)	arabiensis=17;gambiae=68;coluzzii=21;funestus=7;stephensi=16820
+SLCA013_BatchCOL2	barcode58	gambiae	51.23	16.56	51.23	25.78	0.30	0.34	0.00	0.00	SLCA010_BatchST:stephensi(47038)	arabiensis=301;gambiae=207;coluzzii=122;funestus=9;stephensi=46187;Plasmodium=9
+SLCA013_BatchCOL2	barcode59	arabiensis	71.43	71.43	14.16	4.66	0.26	0.38	0.00	0.00	SLCA010_BatchST:stephensi(49329)	arabiensis=118;gambiae=39;coluzzii=59;funestus=10;stephensi=48742;Plasmodium=10
+SLCA013_BatchCOL2	barcode60	coluzzii	38.03	35.08	19.41	38.03	0.62	0.78	0.00	0.00	SLCA010_BatchST:stephensi(27955)	arabiensis=17;gambiae=39;coluzzii=39;stephensi=27088;Plasmodium=6
+SLCA013_BatchCOL2	barcode61	funestus	91.68	2.15	1.59	1.41	91.68	1.99	0.00	0.02	SLCA010_BatchST:stephensi(50218)	arabiensis=844;gambiae=874;coluzzii=432;stephensi=47782
+SLCA013_BatchCOL2	barcode62	funestus	86.12	5.06	3.76	3.36	86.12	0.48	0.00	0.00	SLCA010_BatchST:stephensi(63595)	arabiensis=76;gambiae=114;coluzzii=64;funestus=13;stephensi=62660
+SLCA013_BatchCOL2	barcode63	gambiae	54.41	13.76	54.41	22.51	0.26	0.56	0.00	0.00	SLCA010_BatchST:stephensi(64044)	arabiensis=51;gambiae=38;coluzzii=38;stephensi=63205;Plasmodium=26
+SLCA013_BatchCOL2	barcode64	gambiae	57.15	15.67	57.15	18.56	0.14	0.32	0.00	0.00	SLCA010_BatchST:stephensi(35300)	arabiensis=49;gambiae=120;coluzzii=113;stephensi=34636;Plasmodium=7
+SLCA013_BatchCOL2	barcode65	gambiae	42.47	25.23	42.47	22.72	1.33	0.36	0.00	0.00	SLCA010_BatchST:stephensi(39249)	arabiensis=165;gambiae=8;coluzzii=47;stephensi=38546
+SLCA013_BatchCOL2	barcode66	funestus	92.89	2.11	1.68	1.48	92.89	0.32	0.00	0.00	SLCA010_BatchST:stephensi(31539)	arabiensis=50;gambiae=25;coluzzii=44;stephensi=31107;Plasmodium=6
+SLCA013_BatchCOL2	barcode67	arabiensis	37.97	37.97	24.63	32.15	0.28	0.44	0.00	0.00	SLCA010_BatchST:stephensi(34205)	arabiensis=48;gambiae=34;coluzzii=89;funestus=7;stephensi=33883;Plasmodium=7
+SLCA013_BatchCOL2	barcode68	arabiensis	45.24	45.24	22.66	25.01	0.85	0.65	0.00	0.00	SLCA010_BatchST:stephensi(46508)	arabiensis=56;gambiae=84;coluzzii=65;stephensi=45829
+SLCA013_BatchCOL2	barcode69	gambiae	59.94	17.98	59.94	16.98	0.18	0.06	0.00	0.00	SLCA010_BatchST:stephensi(5468)	arabiensis=17;gambiae=10;coluzzii=8;stephensi=5369;coustani=1
+SLCA013_BatchCOL2	barcode70	stephensi	67.47	3.62	2.46	2.08	2.08	67.47	0.02	0.00	SLCA010_BatchST:stephensi(39610)	arabiensis=24;gambiae=24;coluzzii=40;funestus=8;stephensi=38945
+SLCA013_BatchCOL2	barcode71	gambiae	52.47	22.33	52.47	18.71	0.26	0.38	0.00	0.00	SLCA010_BatchST:stephensi(48926)	arabiensis=59;gambiae=88;coluzzii=20;stephensi=47903
+SLCA013_BatchCOL2	barcode72	gambiae	44.46	25.03	44.46	22.34	0.52	0.12	0.00	0.00	SLCA010_BatchST:stephensi(49226)	arabiensis=59;gambiae=39;coluzzii=89;stephensi=48502
+SLCA013_BatchCOL2	barcode73	gambiae	54.44	20.35	54.44	12.53	2.68	1.50	0.00	0.06	SLCA010_BatchST:stephensi(32832)	arabiensis=125;gambiae=46;coluzzii=13;funestus=7;stephensi=31850;coustani=7;Plasmodium=7
+SLCA013_BatchCOL2	barcode74	gambiae	50.28	18.45	50.28	20.12	2.25	0.02	0.00	0.00	SLCA010_BatchST:stephensi(808)	arabiensis=20;gambiae=24;coluzzii=24;stephensi=729;coustani=1
+SLCA013_BatchCOL2	barcode75	gambiae	45.21	26.37	45.21	22.32	1.10	0.24	0.00	0.02	SLCA010_BatchST:stephensi(33682)	arabiensis=27;gambiae=27;coluzzii=13;funestus=7;stephensi=33160
+SLCA013_BatchCOL2	barcode76	gambiae	26.32	26.20	26.32	23.85	4.23	1.06	0.00	0.00	SLCA010_BatchST:arabiensis(47705)	arabiensis=34963;gambiae=4980;coluzzii=3263;stephensi=1536
+SLCA013_BatchCOL2	barcode77	coluzzii	33.36	30.76	30.80	33.36	0.40	0.20	0.00	0.00	SLCA010_BatchST:stephensi(9654)	arabiensis=12;gambiae=8;coluzzii=19;stephensi=9487;Plasmodium=2
+SLCA013_BatchCOL2	barcode78	gambiae	44.19	20.54	44.19	28.02	0.26	0.52	0.00	0.00	SLCA010_BatchST:stephensi(69930)	arabiensis=126;gambiae=84;coluzzii=56;funestus=14;stephensi=68699
+SLCA013_BatchCOL2	barcode79	coluzzii	38.56	31.07	24.42	38.56	0.24	0.26	0.00	0.00	SLCA010_BatchST:stephensi(29058)	arabiensis=52;gambiae=17;coluzzii=23;stephensi=28433;Plasmodium=6
+SLCA013_BatchCOL2	barcode80	arabiensis	41.08	41.08	15.63	24.44	3.17	0.64	0.00	0.00	SLCA010_BatchST:stephensi(528)	arabiensis=10;gambiae=9;coluzzii=12;stephensi=490
+SLCA013_BatchCOL2	barcode82	coluzzii	100.00	0.00	0.00	100.00	0.00	0.00	0.00	0.00		
+SLCA013_BatchCOL2	barcode83	gambiae	100.00	0.00	100.00	0.00	0.00	0.00	0.00	0.00		
+SLCA013_BatchCOL2	barcode86	coluzzii	100.00	0.00	0.00	100.00	0.00	0.00	0.00	0.00		
+SLCA013_BatchCOL2	barcode88	coluzzii	100.00	0.00	0.00	100.00	0.00	0.00	0.00	0.00		stephensi=1
+SLCA013_BatchCOL2	barcode94	coluzzii	50.00	25.00	25.00	50.00	0.00	0.00	0.00	0.00		stephensi=1
+SLCA014_BatchINF	barcode01	stephensi	0.52	0.32	0.32	0.34	0.11	0.52	0.00	94.19	SLCA010_BatchST:stephensi(22094);SLCA013_BatchCOL2:gambiae(71854)	arabiensis=23657;gambiae=24349;coluzzii=19397;funestus=259;stephensi=21479
+SLCA014_BatchINF	barcode02	stephensi	0.79	0.25	0.25	0.29	0.04	0.79	0.02	93.86	SLCA010_BatchST:stephensi(8385);SLCA013_BatchCOL2:gambiae(91596)	arabiensis=17303;gambiae=58254;coluzzii=10113;funestus=275;stephensi=8270
+SLCA014_BatchINF	barcode03	stephensi	0.46	0.42	0.38	0.30	0.12	0.46	0.00	93.82	SLCA010_BatchST:stephensi(33721);SLCA013_BatchCOL2:arabiensis(71864)	arabiensis=27739;gambiae=21551;coluzzii=17151;funestus=208;stephensi=33682
+SLCA014_BatchINF	barcode04	stephensi	0.89	0.54	0.12	0.32	0.12	0.89	0.00	86.48	SLCA010_BatchST:stephensi(34068);SLCA013_BatchCOL2:gambiae(55416)	arabiensis=10305;gambiae=25271;coluzzii=17012;funestus=266;stephensi=33618
+SLCA014_BatchINF	barcode05	stephensi	2.82	1.10	0.83	0.89	0.69	2.82	0.04	60.49	SLCA010_BatchST:stephensi(24678);SLCA013_BatchCOL2:stephensi(76146)	arabiensis=1728;gambiae=1608;coluzzii=1069;funestus=1741;stephensi=63623;Plasmodium=5
+SLCA014_BatchINF	barcode06	stephensi	1.12	0.69	0.49	0.87	0.33	1.12	0.04	32.33	SLCA010_BatchST:stephensi(75771);SLCA013_BatchCOL2:gambiae(21399)	arabiensis=6902;gambiae=7998;coluzzii=1621;funestus=965;stephensi=74587
+SLCA014_BatchINF	barcode07	funestus	22.88	7.94	7.84	5.33	22.88	7.37	0.10	34.43	SLCA010_BatchST:stephensi(38209);SLCA013_BatchCOL2:funestus(85482)	arabiensis=1554;gambiae=1151;coluzzii=1072;funestus=81114;stephensi=38048
+SLCA014_BatchINF	barcode08	funestus	61.51	11.99	11.67	6.31	61.51	0.32	0.00	2.84	SLCA010_BatchST:stephensi(13253);SLCA013_BatchCOL2:funestus(84772)	arabiensis=9298;gambiae=8672;coluzzii=6249;funestus=54161;stephensi=13323;Plasmodium=2704
+SLCA014_BatchINF	barcode09	stephensi	1.65	0.63	0.74	1.27	0.33	1.65	0.06	11.01	SLCA010_BatchST:stephensi(45617);SLCA013_BatchCOL2:gambiae(99788)	arabiensis=24625;gambiae=52763;coluzzii=16716;funestus=220;stephensi=44763
+SLCA014_BatchINF	barcode10	gambiae	15.43	14.57	15.43	14.02	5.11	6.96	0.00	31.74	SLCA010_BatchST:stephensi(42508);SLCA013_BatchCOL2:coluzzii(53153)	arabiensis=12489;gambiae=17449;coluzzii=20518;funestus=245;stephensi=42557
+SLCA014_BatchINF	barcode11	stephensi	2.91	1.57	0.55	1.95	0.61	2.91	0.18	16.63	SLCA010_BatchST:gambiae(44990);SLCA013_BatchCOL2:funestus(12193)	arabiensis=13280;gambiae=17491;coluzzii=12515;funestus=9810;stephensi=1977;Plasmodium=9
+SLCA014_BatchINF	barcode12	arabiensis	2.29	2.29	0.55	1.80	0.22	1.41	0.14	3.65	SLCA010_BatchST:stephensi(54052);SLCA013_BatchCOL2:gambiae(51773)	arabiensis=8212;gambiae=30646;coluzzii=8467;funestus=207;stephensi=53501
+SLCA014_BatchINF	barcode13	stephensi	2.14	0.78	0.84	1.61	0.31	2.14	0.08	4.00	SLCA010_BatchST:stephensi(451);SLCA013_BatchCOL2:gambiae(44623)	arabiensis=6677;gambiae=23884;coluzzii=10669;funestus=152;stephensi=470
+SLCA014_BatchINF	barcode14	stephensi	1.27	1.11	0.32	0.83	0.14	1.27	0.06	73.38	SLCA010_BatchST:stephensi(5397);SLCA013_BatchCOL2:arabiensis(181808)	arabiensis=86153;gambiae=58980;coluzzii=27454;funestus=292;stephensi=2496;Plasmodium=2
+SLCA014_BatchINF	barcode15	stephensi	11.27	9.54	10.32	5.92	6.39	11.27	0.05	35.95	SLCA010_BatchST:stephensi(596);SLCA013_BatchCOL2:stephensi(68704)	arabiensis=6571;gambiae=12615;coluzzii=4873;funestus=1663;stephensi=20123
+SLCA014_BatchINF	barcode16	funestus	93.67	1.90	1.27	1.90	93.67	0.00	0.00	0.00	SLCA010_BatchST:stephensi(401);SLCA013_BatchCOL2:funestus(43780)	arabiensis=737;gambiae=689;coluzzii=519;funestus=41460;stephensi=441
+SLCA014_BatchINF	barcode17	stephensi	0.38	0.30	0.20	0.22	0.06	0.38	0.04	95.44	SLCA010_BatchST:stephensi(33490);SLCA013_BatchCOL2:gambiae(85498)	arabiensis=27403;gambiae=30791;coluzzii=20897;funestus=270;stephensi=33474
+SLCA014_BatchINF	barcode18	funestus	0.40	0.16	0.10	0.14	0.40	0.22	0.00	98.06	SLCA010_BatchST:stephensi(34245);SLCA013_BatchCOL2:funestus(62336)	arabiensis=2128;gambiae=721;coluzzii=674;funestus=58054;stephensi=34368
+SLCA014_BatchINF	barcode19	arabiensis	0.95	0.95	0.60	0.91	0.24	0.44	0.00	77.82	SLCA010_BatchST:stephensi(33130);SLCA013_BatchCOL2:gambiae(92844)	arabiensis=15618;gambiae=49073;coluzzii=21487;funestus=204;stephensi=32865;coustani=7;Plasmodium=7
+SLCA014_BatchINF	barcode20	stephensi	2.77	1.40	0.24	1.11	0.36	2.77	0.02	65.28	SLCA010_BatchST:stephensi(33792);SLCA013_BatchCOL2:arabiensis(2342)	arabiensis=442;gambiae=405;coluzzii=381;funestus=327;stephensi=33734;coustani=1;Plasmodium=1
+SLCA014_BatchINF	barcode21	arabiensis	2.74	2.74	0.39	1.98	1.48	2.43	0.02	21.63	SLCA010_BatchST:stephensi(27337);SLCA013_BatchCOL2:funestus(117800)	arabiensis=3875;gambiae=3036;coluzzii=2671;funestus=106750;stephensi=27229
+SLCA014_BatchINF	barcode22	funestus	8.34	2.98	4.95	3.55	8.34	3.02	0.06	9.57	SLCA010_BatchST:stephensi(42072);SLCA013_BatchCOL2:gambiae(180930)	arabiensis=24167;gambiae=110645;coluzzii=33659;funestus=215;stephensi=41958
+SLCA014_BatchINF	barcode23	gambiae	26.04	16.25	26.04	15.19	3.23	4.24	0.05	21.50	SLCA010_BatchST:stephensi(46392);SLCA013_BatchCOL2:gambiae(301006)	arabiensis=74490;gambiae=131514;coluzzii=70551;funestus=722;stephensi=46442
+SLCA014_BatchINF	barcode24	gambiae	47.43	20.60	47.43	22.49	0.27	0.54	0.00	0.54	SLCA010_BatchST:stephensi(20088);SLCA013_BatchCOL2:gambiae(90655)	arabiensis=20703;gambiae=43450;coluzzii=20534;funestus=326;stephensi=19912;Plasmodium=308
+SLCA014_BatchINF	barcode25	arabiensis	35.71	35.71	14.68	8.06	0.42	0.56	0.04	38.61	SLCA010_BatchST:stephensi(29591);SLCA013_BatchCOL2:gambiae(946)	arabiensis=210;gambiae=310;coluzzii=187;funestus=100;stephensi=29618;Plasmodium=1
+SLCA014_BatchINF	barcode26	gambiae	46.88	30.79	46.88	13.50	0.40	0.69	0.42	4.34	SLCA010_BatchST:stephensi(35969);SLCA013_BatchCOL2:gambiae(75398)	arabiensis=26448;gambiae=32963;coluzzii=12636;funestus=173;stephensi=35712;coustani=7
+SLCA014_BatchINF	barcode27	gambiae	31.08	29.12	31.08	18.89	0.46	0.73	0.04	13.36	SLCA010_BatchST:stephensi(33517);SLCA013_BatchCOL2:gambiae(31255)	arabiensis=12534;gambiae=23480;coluzzii=10595;funestus=38;stephensi=14917;Plasmodium=7
+SLCA014_BatchINF	barcode28	gambiae	27.83	26.80	27.83	16.29	3.54	3.97	0.06	8.93	SLCA010_BatchST:stephensi(32353);SLCA013_BatchCOL2:funestus(41885)	arabiensis=4120;gambiae=9196;coluzzii=5362;funestus=21730;stephensi=32121;Plasmodium=6
+SLCA014_BatchINF	barcode29	arabiensis	38.52	38.52	25.69	11.94	1.23	11.46	0.00	1.31	SLCA010_BatchST:stephensi(27860);SLCA013_BatchCOL2:gambiae(41111)	arabiensis=9785;gambiae=19031;coluzzii=10533;funestus=99;stephensi=27636;Plasmodium=6
+SLCA014_BatchINF	barcode30	stephensi	88.84	3.93	1.12	0.85	0.40	88.84	0.06	0.59	SLCA010_BatchST:stephensi(44166);SLCA013_BatchCOL2:coluzzii(3545)	arabiensis=885;gambiae=979;coluzzii=1072;funestus=238;stephensi=43832;coustani=1;Plasmodium=1
+SLCA014_BatchINF	barcode31	gambiae	16.89	15.28	16.89	13.84	4.19	6.26	0.11	28.43	SLCA010_BatchST:stephensi(34224);SLCA013_BatchCOL2:gambiae(147856)	arabiensis=40141;gambiae=57995;coluzzii=41591;funestus=296;stephensi=34227;Plasmodium=7
+SLCA014_BatchINF	barcode32	gambiae	58.60	11.65	58.60	23.48	0.36	0.72	0.00	0.18	SLCA010_BatchST:stephensi(50899);SLCA013_BatchCOL2:gambiae(142856)	arabiensis=13930;gambiae=88263;coluzzii=31132;funestus=543;stephensi=50872;Plasmodium=10
+SLCA014_BatchINF	barcode33	arabiensis	30.02	30.02	25.03	21.07	0.39	6.28	0.00	2.22	SLCA010_BatchST:stephensi(25395);SLCA013_BatchCOL2:gambiae(66446)	arabiensis=19514;gambiae=23621;coluzzii=18435;funestus=169;stephensi=23162;coustani=56;Plasmodium=8
+SLCA014_BatchINF	barcode34	funestus	76.10	0.83	0.55	0.61	76.10	13.06	0.15	1.08	SLCA010_BatchST:stephensi(16104);SLCA013_BatchCOL2:gambiae(42973)	arabiensis=5224;gambiae=21065;coluzzii=13757;funestus=120;stephensi=15998;Plasmodium=34
+SLCA014_BatchINF	barcode35	funestus	76.86	1.04	0.50	0.39	76.86	10.19	0.04	1.02	SLCA010_BatchST:stephensi(51523);SLCA013_BatchCOL2:gambiae(22415)	arabiensis=5881;gambiae=10656;coluzzii=4510;funestus=63;stephensi=51586
+SLCA014_BatchINF	barcode36	stephensi	33.05	4.62	4.78	3.98	7.63	33.05	0.21	8.80	SLCA010_BatchST:stephensi(77963);SLCA013_BatchCOL2:gambiae(16631)	arabiensis=2294;gambiae=9022;coluzzii=3664;funestus=373;stephensi=78218;Plasmodium=10
+SLCA014_BatchINF	barcode37	gambiae	15.56	12.16	15.56	9.48	4.11	6.44	0.00	35.60	SLCA010_BatchST:stephensi(29120);SLCA013_BatchCOL2:gambiae(11490)	arabiensis=2804;gambiae=5673;coluzzii=2589;funestus=30;stephensi=28560
+SLCA014_BatchINF	barcode38	arabiensis	13.00	13.00	12.52	11.09	5.84	10.57	0.50	7.38	SLCA010_BatchST:stephensi(93466);SLCA013_BatchCOL2:gambiae(107173)	arabiensis=14376;gambiae=66996;coluzzii=23570;funestus=300;stephensi=89567;coustani=21;Plasmodium=43
+SLCA014_BatchINF	barcode39	arabiensis	22.29	22.29	17.32	12.68	1.65	10.01	0.19	3.44	SLCA010_BatchST:stephensi(22671);SLCA013_BatchCOL2:gambiae(1570)	arabiensis=635;gambiae=552;coluzzii=323;funestus=149;stephensi=22194;Plasmodium=2
+SLCA014_BatchINF	barcode40	gambiae	30.12	15.18	30.12	10.35	0.56	28.97	0.04	2.39	SLCA010_BatchST:stephensi(29916);SLCA013_BatchCOL2:gambiae(244333)	arabiensis=41095;gambiae=154123;coluzzii=32385;funestus=519;stephensi=29789
+SLCA014_BatchINF	barcode41	gambiae	38.94	24.42	38.94	30.69	0.33	0.66	0.00	0.33	SLCA010_BatchST:stephensi(27924);SLCA013_BatchCOL2:gambiae(73417)	arabiensis=18101;gambiae=27644;coluzzii=24393;funestus=152;stephensi=27475;Plasmodium=6
+SLCA014_BatchINF	barcode42	gambiae	40.88	33.02	40.88	20.75	0.31	0.63	0.00	0.00	SLCA010_BatchST:stephensi(20833);SLCA013_BatchCOL2:gambiae(78527)	arabiensis=24254;gambiae=30708;coluzzii=19128;funestus=157;stephensi=20361
+SLCA014_BatchINF	barcode43	coluzzii	50.00	0.00	12.50	50.00	0.00	25.00	0.00	0.00	SLCA010_BatchST:stephensi(30554);SLCA013_BatchCOL2:gambiae(2512)	arabiensis=716;gambiae=954;coluzzii=469;funestus=132;stephensi=30396;Plasmodium=1
+SLCA014_BatchINF	barcode44	gambiae	34.55	30.91	34.55	20.00	0.00	3.64	0.00	0.00	SLCA010_BatchST:stephensi(31017);SLCA013_BatchCOL2:gambiae(14165)	arabiensis=5260;gambiae=5516;coluzzii=2597;funestus=48;stephensi=30948
+SLCA014_BatchINF	barcode45	gambiae	44.72	25.38	44.72	21.61	0.50	0.50	0.00	0.25	SLCA010_BatchST:stephensi(51582);SLCA013_BatchCOL2:gambiae(100687)	arabiensis=25558;gambiae=50752;coluzzii=18891;funestus=121;stephensi=51012;Plasmodium=10
+SLCA014_BatchINF	barcode46	funestus	60.88	14.88	8.54	12.12	60.88	0.83	0.00	0.28	SLCA010_BatchST:stephensi(50244);SLCA013_BatchCOL2:funestus(88117)	arabiensis=12180;gambiae=5380;coluzzii=11918;funestus=56395;stephensi=50307;Plasmodium=10
+SLCA014_BatchINF	barcode47	gambiae	43.96	29.40	43.96	19.51	0.27	0.55	0.00	0.00	SLCA010_BatchST:stephensi(33929);SLCA013_BatchCOL2:gambiae(82897)	arabiensis=24425;gambiae=41823;coluzzii=13455;funestus=133;stephensi=32202;Plasmodium=7
+SLCA014_BatchINF	barcode48	funestus	94.80	1.59	1.59	0.72	94.80	0.14	0.00	0.00	SLCA010_BatchST:stephensi(35584);SLCA013_BatchCOL2:funestus(185720)	arabiensis=2707;gambiae=2613;coluzzii=2227;funestus=176657;stephensi=35163
+SLCA014_BatchINF	barcode49	arabiensis	35.92	35.92	33.78	24.66	0.27	1.07	0.00	0.27	SLCA010_BatchST:stephensi(49203);SLCA013_BatchCOL2:gambiae(84676)	arabiensis=28482;gambiae=29007;coluzzii=23088;funestus=237;stephensi=49318
+SLCA014_BatchINF	barcode50	gambiae	64.89	12.44	64.89	12.89	0.00	0.89	0.00	0.00	SLCA010_BatchST:stephensi(33193);SLCA013_BatchCOL2:gambiae(51077)	arabiensis=4894;gambiae=34989;coluzzii=7712;funestus=102;stephensi=32782
+SLCA014_BatchINF	barcode51	gambiae	38.92	36.76	38.92	12.97	1.62	1.08	0.00	0.00	SLCA010_BatchST:stephensi(34298);SLCA013_BatchCOL2:arabiensis(39299)	arabiensis=17328;gambiae=15631;coluzzii=4277;funestus=116;stephensi=34241
+SLCA014_BatchINF	barcode52	gambiae	32.74	26.55	32.74	28.32	0.00	4.42	0.00	0.88	SLCA010_BatchST:stephensi(47519);SLCA013_BatchCOL2:coluzzii(26729)	arabiensis=8043;gambiae=7752;coluzzii=9077;funestus=59;stephensi=47382
+SLCA014_BatchINF	barcode53	funestus	81.45	6.18	5.09	3.64	81.45	0.36	0.00	0.36	SLCA010_BatchST:stephensi(59400);SLCA013_BatchCOL2:funestus(76272)	arabiensis=3319;gambiae=3178;coluzzii=3114;funestus=65927;stephensi=58640
+SLCA014_BatchINF	barcode54	gambiae	44.92	16.02	44.92	33.59	0.39	0.00	0.00	0.00	SLCA010_BatchST:stephensi(48862);SLCA013_BatchCOL2:gambiae(65393)	arabiensis=12758;gambiae=31604;coluzzii=23185;funestus=248;stephensi=42480
+SLCA014_BatchINF	barcode55	gambiae	34.21	28.95	34.21	27.82	2.26	0.38	0.00	0.38	SLCA010_BatchST:stephensi(40519);SLCA013_BatchCOL2:gambiae(65482)	arabiensis=21529;gambiae=24462;coluzzii=15843;funestus=183;stephensi=40149
+SLCA014_BatchINF	barcode56	gambiae	44.10	19.84	44.10	27.75	0.00	0.27	0.00	0.00	SLCA010_BatchST:stephensi(53430);SLCA013_BatchCOL2:gambiae(215741)	arabiensis=42078;gambiae=98281;coluzzii=53730;funestus=270;stephensi=53148;Plasmodium=21
+SLCA014_BatchINF	barcode57	gambiae	39.39	28.79	39.39	22.73	0.76	0.00	0.00	0.38	SLCA010_BatchST:stephensi(17116);SLCA013_BatchCOL2:gambiae(61713)	arabiensis=16686;gambiae=25667;coluzzii=15492;funestus=241;stephensi=16956
+SLCA014_BatchINF	barcode58	gambiae	46.25	20.00	46.25	26.25	0.42	3.75	0.00	0.00	SLCA010_BatchST:stephensi(47038);SLCA013_BatchCOL2:gambiae(51261)	arabiensis=8790;gambiae=26468;coluzzii=13337;funestus=163;stephensi=46361;Plasmodium=9
+SLCA014_BatchINF	barcode59	arabiensis	72.69	72.69	16.81	3.36	0.00	0.42	0.00	0.42	SLCA010_BatchST:stephensi(49329);SLCA013_BatchCOL2:arabiensis(59293)	arabiensis=42471;gambiae=8435;coluzzii=2822;funestus=164;stephensi=48967;Plasmodium=10
+SLCA014_BatchINF	barcode60	arabiensis	36.59	36.59	18.29	32.93	2.44	1.22	0.00	0.00	SLCA010_BatchST:stephensi(27955);SLCA013_BatchCOL2:coluzzii(16112)	arabiensis=5669;gambiae=3166;coluzzii=6167;funestus=100;stephensi=27214;Plasmodium=6
+SLCA014_BatchINF	barcode61	funestus	88.89	1.39	2.78	2.78	88.89	2.78	0.00	0.00	SLCA010_BatchST:stephensi(50218);SLCA013_BatchCOL2:funestus(14123)	arabiensis=1147;gambiae=1098;coluzzii=631;funestus=12948;stephensi=48063;Plasmodium=3
+SLCA014_BatchINF	barcode62	funestus	79.61	4.71	7.45	4.31	79.61	0.78	0.00	1.18	SLCA010_BatchST:stephensi(63595);SLCA013_BatchCOL2:funestus(58379)	arabiensis=3030;gambiae=2310;coluzzii=2025;funestus=50289;stephensi=62940
+SLCA014_BatchINF	barcode63	gambiae	51.10	18.06	51.10	23.35	0.22	0.44	0.00	0.66	SLCA010_BatchST:stephensi(64044);SLCA013_BatchCOL2:gambiae(104651)	arabiensis=14451;gambiae=56979;coluzzii=23595;funestus=272;stephensi=63791;Plasmodium=26
+SLCA014_BatchINF	barcode64	gambiae	57.47	16.02	57.47	18.49	0.15	0.00	0.00	0.46	SLCA010_BatchST:stephensi(35300);SLCA013_BatchCOL2:gambiae(185364)	arabiensis=29096;gambiae=106056;coluzzii=34517;funestus=260;stephensi=35230;Plasmodium=7
+SLCA014_BatchINF	barcode65	gambiae	38.83	26.60	38.83	26.06	1.60	0.80	0.00	0.00	SLCA010_BatchST:stephensi(39249);SLCA013_BatchCOL2:gambiae(101063)	arabiensis=25663;gambiae=42929;coluzzii=23009;funestus=1344;stephensi=38910
+SLCA014_BatchINF	barcode66	funestus	89.08	4.20	1.68	1.68	89.08	2.52	0.00	0.00	SLCA010_BatchST:stephensi(31539);SLCA013_BatchCOL2:funestus(28697)	arabiensis=656;gambiae=507;coluzzii=469;funestus=26657;stephensi=31199;Plasmodium=6
+SLCA014_BatchINF	barcode67	arabiensis	39.90	39.90	24.14	26.11	0.99	0.99	0.00	0.00	SLCA010_BatchST:stephensi(34205);SLCA013_BatchCOL2:arabiensis(47235)	arabiensis=17983;gambiae=11668;coluzzii=15275;funestus=139;stephensi=34091;Plasmodium=7
+SLCA014_BatchINF	barcode68	arabiensis	45.79	45.79	21.05	24.21	1.58	1.05	0.00	0.00	SLCA010_BatchST:stephensi(46508);SLCA013_BatchCOL2:arabiensis(41058)	arabiensis=18630;gambiae=9387;coluzzii=10334;funestus=349;stephensi=46096
+SLCA014_BatchINF	barcode69	gambiae	57.52	21.53	57.52	17.11	0.59	0.59	0.00	0.00	SLCA010_BatchST:stephensi(5468);SLCA013_BatchCOL2:gambiae(92167)	arabiensis=16589;gambiae=55255;coluzzii=15658;funestus=166;stephensi=5424;coustani=1
+SLCA014_BatchINF	barcode70	stephensi	71.04	4.78	2.09	1.19	2.69	71.04	0.00	0.30	SLCA010_BatchST:stephensi(39610);SLCA013_BatchCOL2:stephensi(79473)	arabiensis=2901;gambiae=1979;coluzzii=1693;funestus=1661;stephensi=92565;coustani=16
+SLCA014_BatchINF	barcode71	gambiae	49.88	20.47	49.88	20.47	0.71	0.94	0.00	0.71	SLCA010_BatchST:stephensi(48926);SLCA013_BatchCOL2:gambiae(108434)	arabiensis=24272;gambiae=56983;coluzzii=20308;funestus=282;stephensi=48315
+SLCA014_BatchINF	barcode72	gambiae	44.99	24.94	44.99	22.49	1.56	0.67	0.00	0.00	SLCA010_BatchST:stephensi(49226);SLCA013_BatchCOL2:gambiae(113734)	arabiensis=28527;gambiae=50606;coluzzii=25497;funestus=591;stephensi=48639
+SLCA014_BatchINF	barcode73	gambiae	58.33	18.06	58.33	11.11	4.17	1.39	0.00	1.39	SLCA010_BatchST:stephensi(32832);SLCA013_BatchCOL2:gambiae(16848)	arabiensis=3553;gambiae=9218;coluzzii=2124;funestus=458;stephensi=32103;coustani=7;Plasmodium=17
+SLCA014_BatchINF	barcode74	gambiae	53.98	17.05	53.98	13.64	1.14	1.14	0.00	0.00	SLCA010_BatchST:stephensi(808);SLCA013_BatchCOL2:gambiae(41358)	arabiensis=7651;gambiae=20819;coluzzii=8345;funestus=931;stephensi=737;coustani=1
+SLCA014_BatchINF	barcode75	gambiae	41.98	22.17	41.98	28.30	1.89	0.00	0.00	0.47	SLCA010_BatchST:stephensi(33682);SLCA013_BatchCOL2:gambiae(48447)	arabiensis=12802;gambiae=21930;coluzzii=10827;funestus=540;stephensi=33276;Plasmodium=10
+SLCA014_BatchINF	barcode76	arabiensis	75.00	75.00	25.00	0.00	0.00	0.00	0.00	0.00	SLCA010_BatchST:arabiensis(47705);SLCA013_BatchCOL2:gambiae(877)	arabiensis=35193;gambiae=5211;coluzzii=3472;funestus=37;stephensi=1545
+SLCA014_BatchINF	barcode77	coluzzii	33.80	30.28	29.58	33.80	0.00	1.41	0.00	0.00	SLCA010_BatchST:stephensi(9654);SLCA013_BatchCOL2:coluzzii(32112)	arabiensis=9889;gambiae=9898;coluzzii=10732;funestus=128;stephensi=9551;Plasmodium=2
+SLCA014_BatchINF	barcode78	gambiae	45.69	19.80	45.69	28.63	0.00	0.39	0.00	0.39	SLCA010_BatchST:stephensi(69930);SLCA013_BatchCOL2:gambiae(139537)	arabiensis=28787;gambiae=61745;coluzzii=39154;funestus=377;stephensi=69425
+SLCA014_BatchINF	barcode79	coluzzii	37.45	29.34	25.87	37.45	0.00	0.39	0.00	0.39	SLCA010_BatchST:stephensi(29058);SLCA013_BatchCOL2:coluzzii(67615)	arabiensis=21060;gambiae=16529;coluzzii=26096;funestus=162;stephensi=28609;Plasmodium=6
+SLCA014_BatchINF	barcode80	gambiae	33.33	16.67	33.33	25.00	16.67	0.00	0.00	0.00	SLCA010_BatchST:stephensi(528);SLCA013_BatchCOL2:arabiensis(12030)	arabiensis=4952;gambiae=1889;coluzzii=2952;funestus=381;stephensi=567
+SLCA014_BatchINF	barcode91	arabiensis	0.00	0.00	0.00	0.00	0.00	0.00	0.00	100.00		
+SLCA015_BatchFUN	barcode01	funestus	1.64	0.30	0.45	0.60	1.64	0.60	0.00	91.04	SLCA010_BatchST:stephensi(22094);SLCA013_BatchCOL2:gambiae(71854);SLCA014_BatchINF:stephensi(73797)	arabiensis=23893;gambiae=24585;coluzzii=19648;funestus=340;stephensi=21863;Plasmodium=69509
+SLCA015_BatchFUN	barcode02	funestus	2.54	0.44	0.53	0.09	2.54	0.88	0.00	91.59	SLCA010_BatchST:stephensi(8385);SLCA013_BatchCOL2:gambiae(91596);SLCA014_BatchINF:stephensi(120339)	arabiensis=17604;gambiae=58555;coluzzii=10462;funestus=323;stephensi=9221;coustani=24;Plasmodium=112950
+SLCA015_BatchFUN	barcode03	gambiae	0.71	0.48	0.71	0.24	0.48	0.24	0.00	92.87	SLCA010_BatchST:stephensi(33721);SLCA013_BatchCOL2:arabiensis(71864);SLCA014_BatchINF:stephensi(42967)	arabiensis=27919;gambiae=21714;coluzzii=17280;funestus=260;stephensi=33880;Plasmodium=40312
+SLCA015_BatchFUN	barcode04	funestus	1.19	0.47	0.71	0.36	1.19	0.83	0.00	86.36	SLCA010_BatchST:stephensi(34068);SLCA013_BatchCOL2:gambiae(55416);SLCA014_BatchINF:stephensi(91435)	arabiensis=10799;gambiae=25380;coluzzii=17304;funestus=376;stephensi=34431;Plasmodium=79073
+SLCA015_BatchFUN	barcode05	stephensi	9.09	2.27	0.00	1.14	6.82	9.09	0.00	57.95	SLCA010_BatchST:stephensi(24678);SLCA013_BatchCOL2:stephensi(76146);SLCA014_BatchINF:stephensi(8226)	arabiensis=1818;gambiae=1676;coluzzii=1143;funestus=1798;stephensi=63855;coustani=3;Plasmodium=4981
+SLCA015_BatchFUN	barcode06	funestus	9.47	2.37	0.59	1.18	9.47	1.18	0.00	34.32	SLCA010_BatchST:stephensi(75771);SLCA013_BatchCOL2:gambiae(21399);SLCA014_BatchINF:stephensi(21478)	arabiensis=7050;gambiae=8103;coluzzii=1808;funestus=1036;stephensi=74827;coustani=9;Plasmodium=6944
+SLCA015_BatchFUN	barcode07	funestus	41.38	3.45	3.45	0.00	41.38	13.79	0.00	31.03	SLCA010_BatchST:stephensi(38209);SLCA013_BatchCOL2:funestus(85482);SLCA014_BatchINF:funestus(1959)	arabiensis=1710;gambiae=1305;coluzzii=1176;funestus=81562;stephensi=38193;coustani=2;Plasmodium=674
+SLCA015_BatchFUN	barcode08	funestus	71.43	0.00	0.00	28.57	71.43	0.00	0.00	0.00	SLCA010_BatchST:stephensi(13253);SLCA013_BatchCOL2:funestus(84772);SLCA014_BatchINF:funestus(319)	arabiensis=9337;gambiae=8709;coluzzii=6269;funestus=54357;stephensi=13324;Plasmodium=2713
+SLCA015_BatchFUN	barcode09	funestus	1.78	1.37	1.23	1.23	1.78	1.23	0.14	11.93	SLCA010_BatchST:stephensi(45617);SLCA013_BatchCOL2:gambiae(99788);SLCA014_BatchINF:stephensi(90012)	arabiensis=25192;gambiae=53429;coluzzii=17859;funestus=517;stephensi=46248;coustani=54;Plasmodium=9910
+SLCA015_BatchFUN	barcode10	coluzzii	38.46	15.38	23.08	38.46	0.00	15.38	0.00	0.00	SLCA010_BatchST:stephensi(42508);SLCA013_BatchCOL2:coluzzii(53153);SLCA014_BatchINF:gambiae(944)	arabiensis=12626;gambiae=17595;coluzzii=20650;funestus=293;stephensi=42623;Plasmodium=300
+SLCA015_BatchFUN	barcode11	stephensi	3.72	2.29	0.29	2.01	2.01	3.72	0.00	21.78	SLCA010_BatchST:gambiae(44990);SLCA013_BatchCOL2:funestus(12193);SLCA014_BatchINF:stephensi(42258)	arabiensis=13944;gambiae=17723;coluzzii=13339;funestus=10068;stephensi=3207;coustani=76;Plasmodium=7037
+SLCA015_BatchFUN	barcode12	coluzzii	1.65	1.54	0.62	1.65	1.65	1.44	0.10	3.81	SLCA010_BatchST:stephensi(54052);SLCA013_BatchCOL2:gambiae(51773);SLCA014_BatchINF:arabiensis(115514)	arabiensis=10857;gambiae=31282;coluzzii=10546;funestus=461;stephensi=55130;coustani=162;Plasmodium=4216
+SLCA015_BatchFUN	barcode13	stephensi	1.99	0.58	1.05	1.40	1.29	1.99	0.23	3.15	SLCA010_BatchST:stephensi(451);SLCA013_BatchCOL2:gambiae(44623);SLCA014_BatchINF:stephensi(103017)	arabiensis=7481;gambiae=24749;coluzzii=12327;funestus=471;stephensi=2674;coustani=82;Plasmodium=4121
+SLCA015_BatchFUN	barcode14	coluzzii	1.41	1.28	0.90	1.41	1.28	0.51	0.00	74.17	SLCA010_BatchST:stephensi(5397);SLCA013_BatchCOL2:arabiensis(181808);SLCA014_BatchINF:stephensi(81906)	arabiensis=87063;gambiae=59242;coluzzii=28134;funestus=407;stephensi=3537;coustani=49;Plasmodium=60105
+SLCA015_BatchFUN	barcode15	funestus	17.86	3.57	3.57	7.14	17.86	14.29	0.00	25.00	SLCA010_BatchST:stephensi(596);SLCA013_BatchCOL2:stephensi(68704);SLCA014_BatchINF:stephensi(1986)	arabiensis=6761;gambiae=12820;coluzzii=4991;funestus=1790;stephensi=20347;coustani=1;Plasmodium=714
+SLCA015_BatchFUN	barcode16	funestus	100.00	0.00	0.00	0.00	100.00	0.00	0.00	0.00	SLCA010_BatchST:stephensi(401);SLCA013_BatchCOL2:funestus(43780);SLCA014_BatchINF:funestus(159)	arabiensis=740;gambiae=691;coluzzii=522;funestus=41609;stephensi=441
+SLCA015_BatchFUN	barcode17	funestus	1.20	0.20	0.60	0.10	1.20	0.70	0.00	94.09	SLCA010_BatchST:stephensi(33490);SLCA013_BatchCOL2:gambiae(85498);SLCA014_BatchINF:stephensi(96734)	arabiensis=27693;gambiae=30984;coluzzii=21110;funestus=328;stephensi=33842;coustani=39;Plasmodium=92323
+SLCA015_BatchFUN	barcode18	funestus	2.25	0.42	0.14	0.14	2.25	0.42	0.00	95.36	SLCA010_BatchST:stephensi(34245);SLCA013_BatchCOL2:funestus(62336);SLCA014_BatchINF:funestus(67744)	arabiensis=2237;gambiae=788;coluzzii=769;funestus=58324;stephensi=34517;Plasmodium=66430
+SLCA015_BatchFUN	barcode19	arabiensis	1.08	1.08	0.96	1.08	0.84	0.60	0.00	80.43	SLCA010_BatchST:stephensi(33130);SLCA013_BatchCOL2:gambiae(92844);SLCA014_BatchINF:arabiensis(90475)	arabiensis=16477;gambiae=49616;coluzzii=22310;funestus=421;stephensi=33263;coustani=7;Plasmodium=70414
+SLCA015_BatchFUN	barcode20	stephensi	2.51	1.08	0.18	1.26	1.08	2.51	0.00	66.97	SLCA010_BatchST:stephensi(33792);SLCA013_BatchCOL2:arabiensis(2342);SLCA014_BatchINF:stephensi(62705)	arabiensis=1320;gambiae=555;coluzzii=1077;funestus=553;stephensi=35471;coustani=14;Plasmodium=40935
+SLCA015_BatchFUN	barcode21	funestus	3.75	3.25	0.50	2.25	3.75	2.75	0.00	23.25	SLCA010_BatchST:stephensi(27337);SLCA013_BatchCOL2:funestus(117800);SLCA014_BatchINF:arabiensis(47420)	arabiensis=5174;gambiae=3221;coluzzii=3610;funestus=107452;stephensi=28381;coustani=9;Plasmodium=10257
+SLCA015_BatchFUN	barcode22	gambiae	10.53	5.26	10.53	2.11	4.21	5.26	1.05	6.32	SLCA010_BatchST:stephensi(42072);SLCA013_BatchCOL2:gambiae(180930);SLCA014_BatchINF:funestus(9876)	arabiensis=24461;gambiae=111133;coluzzii=34009;funestus=1038;stephensi=42256;coustani=6;Plasmodium=945
+SLCA015_BatchFUN	barcode23	gambiae	36.67	13.33	36.67	20.00	3.33	3.33	0.00	6.67	SLCA010_BatchST:stephensi(46392);SLCA013_BatchCOL2:gambiae(301006);SLCA014_BatchINF:gambiae(2130)	arabiensis=74836;gambiae=132069;coluzzii=70875;funestus=791;stephensi=46532;coustani=1;Plasmodium=458
+SLCA015_BatchFUN	barcode24	coluzzii	40.00	20.00	30.00	40.00	0.00	0.00	0.00	0.00	SLCA010_BatchST:stephensi(20088);SLCA013_BatchCOL2:gambiae(90655);SLCA014_BatchINF:gambiae(374)	arabiensis=20780;gambiae=43627;coluzzii=20618;funestus=327;stephensi=19914;Plasmodium=310
+SLCA015_BatchFUN	barcode25	arabiensis	31.89	31.89	13.28	8.76	1.08	0.72	0.00	38.39	SLCA010_BatchST:stephensi(29591);SLCA013_BatchCOL2:gambiae(946);SLCA014_BatchINF:arabiensis(109300)	arabiensis=39241;gambiae=16355;coluzzii=8996;funestus=559;stephensi=30230;coustani=44;Plasmodium=42202
+SLCA015_BatchFUN	barcode26	gambiae	43.87	32.58	43.87	11.94	1.61	0.32	0.00	3.23	SLCA010_BatchST:stephensi(35969);SLCA013_BatchCOL2:gambiae(75398);SLCA014_BatchINF:gambiae(28153)	arabiensis=35117;gambiae=46161;coluzzii=16437;funestus=286;stephensi=35906;coustani=125;Plasmodium=1222
+SLCA015_BatchFUN	barcode27	gambiae	29.66	27.07	29.66	14.75	2.11	0.49	0.00	16.05	SLCA010_BatchST:stephensi(33517);SLCA013_BatchCOL2:gambiae(31255);SLCA014_BatchINF:gambiae(66354)	arabiensis=31857;gambiae=44103;coluzzii=23129;funestus=343;stephensi=15401;coustani=27;Plasmodium=8872
+SLCA015_BatchFUN	barcode28	arabiensis	26.24	26.24	26.05	16.73	4.18	2.66	0.00	10.84	SLCA010_BatchST:stephensi(32353);SLCA013_BatchCOL2:funestus(41885);SLCA014_BatchINF:gambiae(53580)	arabiensis=18479;gambiae=24108;coluzzii=14090;funestus=23627;stephensi=34248;coustani=32;Plasmodium=4791
+SLCA015_BatchFUN	barcode29	arabiensis	32.82	32.82	27.57	10.07	3.28	11.60	0.00	1.75	SLCA010_BatchST:stephensi(27860);SLCA013_BatchCOL2:gambiae(41111);SLCA014_BatchINF:arabiensis(49395)	arabiensis=28812;gambiae=31720;coluzzii=16431;funestus=706;stephensi=33296;Plasmodium=653
+SLCA015_BatchFUN	barcode30	stephensi	87.18	4.68	1.56	0.78	1.45	87.18	0.00	0.33	SLCA010_BatchST:stephensi(44166);SLCA013_BatchCOL2:coluzzii(3545);SLCA014_BatchINF:stephensi(109019)	arabiensis=5169;gambiae=2200;coluzzii=1999;funestus=674;stephensi=140684;coustani=66;Plasmodium=644
+SLCA015_BatchFUN	barcode31	coluzzii	20.93	16.28	16.28	20.93	0.00	2.33	0.00	13.95	SLCA010_BatchST:stephensi(34224);SLCA013_BatchCOL2:gambiae(147856);SLCA014_BatchINF:gambiae(1792)	arabiensis=40415;gambiae=58298;coluzzii=41839;funestus=371;stephensi=34339;coustani=2;Plasmodium=516
+SLCA015_BatchFUN	barcode32	gambiae	54.55	4.55	54.55	27.27	0.00	4.55	0.00	0.00	SLCA010_BatchST:stephensi(50899);SLCA013_BatchCOL2:gambiae(142856);SLCA014_BatchINF:gambiae(566)	arabiensis=13996;gambiae=88594;coluzzii=31265;funestus=545;stephensi=50876;Plasmodium=11
+SLCA015_BatchFUN	barcode33	gambiae	24.80	24.00	24.80	21.33	1.07	8.00	0.00	1.60	SLCA010_BatchST:stephensi(25395);SLCA013_BatchCOL2:gambiae(66446);SLCA014_BatchINF:arabiensis(37028)	arabiensis=30630;gambiae=32889;coluzzii=26236;funestus=313;stephensi=25488;coustani=56;Plasmodium=830
+SLCA015_BatchFUN	barcode34	funestus	72.66	1.72	0.96	0.57	72.66	13.96	0.19	0.57	SLCA010_BatchST:stephensi(16104);SLCA013_BatchCOL2:gambiae(42973);SLCA014_BatchINF:funestus(56041)	arabiensis=5690;gambiae=21374;coluzzii=14099;funestus=42768;stephensi=23317;coustani=84;Plasmodium=640
+SLCA015_BatchFUN	barcode35	funestus	77.60	0.72	0.48	0.24	77.60	10.78	0.12	1.44	SLCA010_BatchST:stephensi(51523);SLCA013_BatchCOL2:gambiae(22415);SLCA014_BatchINF:funestus(98805)	arabiensis=6909;gambiae=11150;coluzzii=4895;funestus=76004;stephensi=61655;coustani=40;Plasmodium=1008
+SLCA015_BatchFUN	barcode36	stephensi	29.62	5.00	4.62	5.00	9.62	29.62	0.77	6.54	SLCA010_BatchST:stephensi(77963);SLCA013_BatchCOL2:gambiae(16631);SLCA014_BatchINF:stephensi(29093)	arabiensis=3638;gambiae=10413;coluzzii=4822;funestus=2592;stephensi=87834;coustani=61;Plasmodium=2570
+SLCA015_BatchFUN	barcode37	funestus	42.86	14.29	0.00	0.00	42.86	0.00	0.00	28.57	SLCA010_BatchST:stephensi(29120);SLCA013_BatchCOL2:gambiae(11490);SLCA014_BatchINF:gambiae(571)	arabiensis=2874;gambiae=5762;coluzzii=2643;funestus=53;stephensi=28597;Plasmodium=203
+SLCA015_BatchFUN	barcode38	gambiae	14.63	9.76	14.63	7.32	9.76	14.63	0.00	9.76	SLCA010_BatchST:stephensi(93466);SLCA013_BatchCOL2:gambiae(107173);SLCA014_BatchINF:arabiensis(5531)	arabiensis=15095;gambiae=67689;coluzzii=24183;funestus=623;stephensi=90151;coustani=49;Plasmodium=451
+SLCA015_BatchFUN	barcode39	gambiae	20.16	17.74	20.16	8.06	7.26	8.87	0.00	4.03	SLCA010_BatchST:stephensi(22671);SLCA013_BatchCOL2:gambiae(1570);SLCA014_BatchINF:arabiensis(14783)	arabiensis=3930;gambiae=3112;coluzzii=2198;funestus=393;stephensi=23673;coustani=28;Plasmodium=511
+SLCA015_BatchFUN	barcode40	gambiae	28.79	10.61	28.79	19.70	0.00	27.27	0.00	4.55	SLCA010_BatchST:stephensi(29916);SLCA013_BatchCOL2:gambiae(244333);SLCA014_BatchINF:gambiae(7044)	arabiensis=42165;gambiae=156244;coluzzii=33114;funestus=558;stephensi=31830;coustani=3;Plasmodium=168
+SLCA015_BatchFUN	barcode41	coluzzii	38.46	7.69	23.08	38.46	0.00	7.69	0.00	0.00	SLCA010_BatchST:stephensi(27924);SLCA013_BatchCOL2:gambiae(73417);SLCA014_BatchINF:gambiae(304)	arabiensis=18176;gambiae=27762;coluzzii=24486;funestus=153;stephensi=27477;Plasmodium=7
+SLCA015_BatchFUN	barcode42	gambiae	30.00	20.00	30.00	30.00	10.00	0.00	0.00	0.00	SLCA010_BatchST:stephensi(20833);SLCA013_BatchCOL2:gambiae(78527);SLCA014_BatchINF:gambiae(321)	arabiensis=24360;gambiae=30839;coluzzii=19195;funestus=158;stephensi=20363
+SLCA015_BatchFUN	barcode43	funestus	100.00	0.00	0.00	0.00	100.00	0.00	0.00	0.00	SLCA010_BatchST:stephensi(30554);SLCA013_BatchCOL2:gambiae(2512)	arabiensis=716;gambiae=955;coluzzii=473;funestus=132;stephensi=30398;Plasmodium=1
+SLCA015_BatchFUN	barcode44	gambiae	50.00	0.00	50.00	0.00	50.00	0.00	0.00	0.00	SLCA010_BatchST:stephensi(31017);SLCA013_BatchCOL2:gambiae(14165)	arabiensis=5278;gambiae=5535;coluzzii=2609;funestus=48;stephensi=30950
+SLCA015_BatchFUN	barcode45	gambiae	35.00	30.00	35.00	10.00	5.00	0.00	0.00	0.00	SLCA010_BatchST:stephensi(51582);SLCA013_BatchCOL2:gambiae(100687);SLCA014_BatchINF:gambiae(399)	arabiensis=25660;gambiae=50930;coluzzii=18978;funestus=123;stephensi=51014;Plasmodium=11
+SLCA015_BatchFUN	barcode46	funestus	61.54	15.38	7.69	7.69	61.54	0.00	0.00	0.00	SLCA010_BatchST:stephensi(50244);SLCA013_BatchCOL2:funestus(88117);SLCA014_BatchINF:funestus(363)	arabiensis=12234;gambiae=5411;coluzzii=11962;funestus=56616;stephensi=50310;Plasmodium=11
+SLCA015_BatchFUN	barcode47	arabiensis	42.86	42.86	28.57	14.29	7.14	0.00	0.00	0.00	SLCA010_BatchST:stephensi(33929);SLCA013_BatchCOL2:gambiae(82897);SLCA014_BatchINF:gambiae(367)	arabiensis=24533;gambiae=41985;coluzzii=13527;funestus=134;stephensi=32204;Plasmodium=7
+SLCA015_BatchFUN	barcode48	funestus	100.00	0.00	0.00	0.00	100.00	0.00	0.00	0.00	SLCA010_BatchST:stephensi(35584);SLCA013_BatchCOL2:funestus(185720);SLCA014_BatchINF:funestus(695)	arabiensis=2718;gambiae=2624;coluzzii=2232;funestus=177316;stephensi=35164
+SLCA015_BatchFUN	barcode49	funestus	85.84	5.42	3.13	1.46	85.84	2.73	0.02	0.10	SLCA010_BatchST:stephensi(49203);SLCA013_BatchCOL2:gambiae(84676);SLCA014_BatchINF:arabiensis(378)	arabiensis=28618;gambiae=29135;coluzzii=23181;funestus=238;stephensi=49322;Plasmodium=1
+SLCA015_BatchFUN	barcode50	funestus	94.20	2.01	0.84	0.60	94.20	1.43	0.00	0.00	SLCA010_BatchST:stephensi(33193);SLCA013_BatchCOL2:gambiae(51077);SLCA014_BatchINF:gambiae(227)	arabiensis=4922;gambiae=35136;coluzzii=7741;funestus=102;stephensi=32784
+SLCA015_BatchFUN	barcode51	funestus	91.25	3.83	1.94	0.92	91.25	1.68	0.08	0.00	SLCA010_BatchST:stephensi(34298);SLCA013_BatchCOL2:arabiensis(39299);SLCA014_BatchINF:gambiae(186)	arabiensis=17396;gambiae=15703;coluzzii=4301;funestus=119;stephensi=34243
+SLCA015_BatchFUN	barcode52	stephensi	83.39	4.61	3.32	1.90	3.71	83.39	0.23	0.04	SLCA010_BatchST:stephensi(47519);SLCA013_BatchCOL2:coluzzii(26729);SLCA014_BatchINF:gambiae(113)	arabiensis=8073;gambiae=7789;coluzzii=9109;funestus=59;stephensi=47387;Plasmodium=1
+SLCA015_BatchFUN	barcode53	funestus	92.29	2.07	0.98	0.76	92.29	2.49	0.00	0.16	SLCA010_BatchST:stephensi(59400);SLCA013_BatchCOL2:funestus(76272);SLCA014_BatchINF:funestus(277)	arabiensis=3336;gambiae=3192;coluzzii=3124;funestus=66153;stephensi=58641;Plasmodium=1
+SLCA015_BatchFUN	barcode54	funestus	89.57	6.29	2.54	0.60	89.57	0.50	0.00	0.00	SLCA010_BatchST:stephensi(48862);SLCA013_BatchCOL2:gambiae(65393);SLCA014_BatchINF:gambiae(258)	arabiensis=12799;gambiae=31720;coluzzii=23272;funestus=249;stephensi=42480
+SLCA015_BatchFUN	barcode55	funestus	95.35	1.84	0.92	0.36	95.35	1.24	0.04	0.00	SLCA010_BatchST:stephensi(40519);SLCA013_BatchCOL2:gambiae(65482);SLCA014_BatchINF:gambiae(269)	arabiensis=21606;gambiae=24554;coluzzii=15918;funestus=189;stephensi=40150;Plasmodium=1
+SLCA015_BatchFUN	barcode56	funestus	72.48	6.14	2.70	2.70	72.48	4.67	5.41	0.00	SLCA010_BatchST:stephensi(53430);SLCA013_BatchCOL2:gambiae(215741);SLCA014_BatchINF:gambiae(752)	arabiensis=42227;gambiae=98612;coluzzii=53939;funestus=270;stephensi=53150;Plasmodium=21
+SLCA015_BatchFUN	barcode57	funestus	93.30	2.41	1.28	0.70	93.30	1.59	0.00	0.00	SLCA010_BatchST:stephensi(17116);SLCA013_BatchCOL2:gambiae(61713);SLCA014_BatchINF:gambiae(265)	arabiensis=16762;gambiae=25771;coluzzii=15552;funestus=243;stephensi=16956;Plasmodium=1
+SLCA015_BatchFUN	barcode58	funestus	93.08	2.17	1.28	1.30	93.08	1.22	0.00	0.02	SLCA010_BatchST:stephensi(47038);SLCA013_BatchCOL2:gambiae(51261);SLCA014_BatchINF:gambiae(242)	arabiensis=8838;gambiae=26580;coluzzii=13401;funestus=164;stephensi=46370;Plasmodium=9
+SLCA015_BatchFUN	barcode59	funestus	93.09	2.68	1.22	1.34	93.09	1.22	0.00	0.00	SLCA010_BatchST:stephensi(49329);SLCA013_BatchCOL2:arabiensis(59293);SLCA014_BatchINF:arabiensis(239)	arabiensis=42645;gambiae=8476;coluzzii=2830;funestus=164;stephensi=48968;Plasmodium=11
+SLCA015_BatchFUN	barcode60	funestus	84.97	3.95	2.30	1.80	84.97	2.48	0.02	0.14	SLCA010_BatchST:stephensi(27955);SLCA013_BatchCOL2:coluzzii(16112)	arabiensis=5699;gambiae=3181;coluzzii=6194;funestus=102;stephensi=27215;Plasmodium=6
+SLCA015_BatchFUN	barcode61	funestus	94.33	2.52	1.34	0.56	94.33	0.94	0.06	0.00	SLCA010_BatchST:stephensi(50218);SLCA013_BatchCOL2:funestus(14123)	arabiensis=1148;gambiae=1100;coluzzii=633;funestus=13012;stephensi=48065;Plasmodium=3
+SLCA015_BatchFUN	barcode62	funestus	93.27	2.72	1.22	1.06	93.27	0.98	0.08	0.00	SLCA010_BatchST:stephensi(63595);SLCA013_BatchCOL2:funestus(58379);SLCA014_BatchINF:funestus(255)	arabiensis=3042;gambiae=2329;coluzzii=2036;funestus=50492;stephensi=62942;Plasmodium=3
+SLCA015_BatchFUN	barcode63	funestus	92.80	2.51	1.73	0.68	92.80	1.34	0.00	0.00	SLCA010_BatchST:stephensi(64044);SLCA013_BatchCOL2:gambiae(104651);SLCA014_BatchINF:gambiae(457)	arabiensis=14534;gambiae=57213;coluzzii=23702;funestus=273;stephensi=63793;Plasmodium=29
+SLCA015_BatchFUN	barcode64	funestus	75.53	1.32	1.26	0.42	75.53	20.73	0.00	0.00	SLCA010_BatchST:stephensi(35300);SLCA013_BatchCOL2:gambiae(185364);SLCA014_BatchINF:gambiae(651)	arabiensis=29200;gambiae=106430;coluzzii=34637;funestus=260;stephensi=35230;Plasmodium=10
+SLCA015_BatchFUN	barcode65	funestus	91.26	3.49	1.75	0.78	91.26	1.97	0.06	0.02	SLCA010_BatchST:stephensi(39249);SLCA013_BatchCOL2:gambiae(101063);SLCA014_BatchINF:gambiae(379)	arabiensis=25764;gambiae=43076;coluzzii=23107;funestus=1350;stephensi=38913
+SLCA015_BatchFUN	barcode66	funestus	95.19	2.13	0.78	0.38	95.19	1.12	0.00	0.02	SLCA010_BatchST:stephensi(31539);SLCA013_BatchCOL2:funestus(28697);SLCA014_BatchINF:funestus(122)	arabiensis=661;gambiae=509;coluzzii=471;funestus=26765;stephensi=31202;Plasmodium=6
+SLCA015_BatchFUN	barcode67	funestus	93.34	1.98	1.52	0.72	93.34	1.96	0.00	0.02	SLCA010_BatchST:stephensi(34205);SLCA013_BatchCOL2:arabiensis(47235);SLCA014_BatchINF:arabiensis(203)	arabiensis=18064;gambiae=11717;coluzzii=15328;funestus=141;stephensi=34093;Plasmodium=7
+SLCA015_BatchFUN	barcode68	funestus	94.82	2.11	0.86	0.40	94.82	1.18	0.00	0.00	SLCA010_BatchST:stephensi(46508);SLCA013_BatchCOL2:arabiensis(41058);SLCA014_BatchINF:arabiensis(192)	arabiensis=18718;gambiae=9428;coluzzii=10380;funestus=352;stephensi=46098
+SLCA015_BatchFUN	barcode69	funestus	86.20	2.77	1.55	0.64	86.20	8.12	0.00	0.00	SLCA010_BatchST:stephensi(5468);SLCA013_BatchCOL2:gambiae(92167);SLCA014_BatchINF:gambiae(342)	arabiensis=16662;gambiae=55452;coluzzii=15717;funestus=168;stephensi=5426;coustani=1
+SLCA015_BatchFUN	barcode70	funestus	93.65	2.32	1.76	0.46	93.65	1.42	0.02	0.04	SLCA010_BatchST:stephensi(39610);SLCA013_BatchCOL2:stephensi(79473);SLCA014_BatchINF:stephensi(341)	arabiensis=2917;gambiae=1986;coluzzii=1697;funestus=1670;stephensi=92807;coustani=16;Plasmodium=1
+SLCA015_BatchFUN	barcode71	funestus	85.87	6.10	2.32	1.27	85.87	3.46	0.00	0.00	SLCA010_BatchST:stephensi(48926);SLCA013_BatchCOL2:gambiae(108434);SLCA014_BatchINF:gambiae(431)	arabiensis=24360;gambiae=57198;coluzzii=20396;funestus=285;stephensi=48320;Plasmodium=3
+SLCA015_BatchFUN	barcode72	funestus	94.99	1.52	0.74	0.56	94.99	1.14	0.00	0.00	SLCA010_BatchST:stephensi(49226);SLCA013_BatchCOL2:gambiae(113734);SLCA014_BatchINF:gambiae(450)	arabiensis=28639;gambiae=50808;coluzzii=25598;funestus=598;stephensi=48642
+SLCA015_BatchFUN	barcode73	funestus	68.32	10.84	6.08	3.41	68.32	7.65	0.06	0.06	SLCA010_BatchST:stephensi(32832);SLCA013_BatchCOL2:gambiae(16848)	arabiensis=3567;gambiae=9261;coluzzii=2132;funestus=461;stephensi=32104;coustani=7;Plasmodium=18
+SLCA015_BatchFUN	barcode74	funestus	88.24	3.73	1.98	0.70	88.24	4.66	0.00	0.00	SLCA010_BatchST:stephensi(808);SLCA013_BatchCOL2:gambiae(41358);SLCA014_BatchINF:gambiae(177)	arabiensis=7681;gambiae=20915;coluzzii=8370;funestus=933;stephensi=740;coustani=1
+SLCA015_BatchFUN	barcode75	funestus	73.64	5.57	4.45	3.00	73.64	11.36	0.04	0.00	SLCA010_BatchST:stephensi(33682);SLCA013_BatchCOL2:gambiae(48447);SLCA014_BatchINF:gambiae(214)	arabiensis=12850;gambiae=22020;coluzzii=10887;funestus=544;stephensi=33276;Plasmodium=11
+SLCA015_BatchFUN	barcode76	funestus	84.22	3.20	2.08	1.50	84.22	5.90	0.08	0.02	SLCA010_BatchST:arabiensis(47705);SLCA013_BatchCOL2:gambiae(877)	arabiensis=35196;gambiae=5212;coluzzii=3472;funestus=37;stephensi=1545
+SLCA015_BatchFUN	barcode77	gambiae	60.00	0.00	60.00	0.00	0.00	20.00	0.00	0.00	SLCA010_BatchST:stephensi(9654);SLCA013_BatchCOL2:coluzzii(32112);SLCA014_BatchINF:coluzzii(142)	arabiensis=9932;gambiae=9940;coluzzii=10780;funestus=128;stephensi=9553;Plasmodium=2
+SLCA015_BatchFUN	barcode78	gambiae	41.67	25.00	41.67	25.00	0.00	0.00	0.00	0.00	SLCA010_BatchST:stephensi(69930);SLCA013_BatchCOL2:gambiae(139537);SLCA014_BatchINF:gambiae(514)	arabiensis=28889;gambiae=61980;coluzzii=39301;funestus=377;stephensi=69427;Plasmodium=2
+SLCA015_BatchFUN	barcode79	arabiensis	50.00	50.00	0.00	50.00	0.00	0.00	0.00	0.00	SLCA010_BatchST:stephensi(29058);SLCA013_BatchCOL2:coluzzii(67615);SLCA014_BatchINF:coluzzii(261)	arabiensis=21137;gambiae=16597;coluzzii=26193;funestus=162;stephensi=28610;Plasmodium=7
+SLCA015_BatchFUN	barcode88	stephensi	100.00	0.00	0.00	0.00	0.00	100.00	0.00	0.00		coluzzii=1;stephensi=1
+SLCA015_BatchFUN	barcode94	funestus	66.67	0.00	0.00	0.00	66.67	0.00	0.00	0.00		arabiensis=1;gambiae=1;coluzzii=2;stephensi=1
+SLCA015_BatchFUN	barcode95	funestus	100.00	0.00	0.00	0.00	100.00	0.00	0.00	0.00		stephensi=1

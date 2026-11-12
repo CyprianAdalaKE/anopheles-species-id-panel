@@ -1,0 +1,12 @@
+arabiensis  reads  274167  best-identity median 96.5%  >=95%:  77.1%  (those best match: {'arabiensis': 79339, 'gambiae': 61833, 'coluzzii': 55454})
+            reads by locus %: 001804:10 001805:13 002141:31 002151:11 003240:1 003262:12 004422:4 004522:1 005134:4 007827:14
+coluzzii    reads   83167  best-identity median 96.9%  >=95%:  77.9%  (those best match: {'coluzzii': 30346, 'gambiae': 28087, 'arabiensis': 4518})
+            reads by locus %: 001804:9 001805:12 002141:32 002151:11 003240:1 003262:10 004422:4 004522:1 005134:4 007827:17
+coustani    reads  123912  best-identity median 94.3%  >=95%:  40.4%  (those best match: {'funestus': 16914, 'coluzzii': 9552, 'gambiae': 9398})
+            reads by locus %: 001804:10 001805:15 002141:35 002151:10 003240:1 003262:4 004422:2 004522:1 005134:4 007827:19
+funestus    reads  321709  best-identity median 96.8%  >=95%:  74.0%  (those best match: {'funestus': 179680, 'coluzzii': 20145, 'gambiae': 17312})
+            reads by locus %: 001804:6 001805:23 002141:37 002151:4 003240:1 003262:3 004422:2 004522:1 005134:4 007827:20
+gambiae     reads  349062  best-identity median 97.1%  >=95%:  83.5%  (those best match: {'gambiae': 142194, 'coluzzii': 126316, 'arabiensis': 18115})
+            reads by locus %: 001804:8 001805:15 002141:33 002151:8 003240:1 003262:10 004422:5 004522:1 005134:2 007827:17
+stephensi   reads  337594  best-identity median 97.1%  >=95%:  83.6%  (those best match: {'stephensi': 267384, 'coluzzii': 7413, 'gambiae': 4821})
+            reads by locus %: 001804:10 001805:30 002141:15 002151:8 003240:3 003262:1 004422:5 004522:2 005134:4 007827:21

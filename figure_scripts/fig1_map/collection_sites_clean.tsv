@@ -1,0 +1,13 @@
+county	subcounty	village	latitude	longitude	altitude_m	max_gps_accuracy_m	gps_points
+Siaya	Alego Usonga	Bukhoba ABE	0.11314	34.07861	1128	7.8	81
+Siaya	Alego Usonga	Bukhoba CDF	0.11174	34.08591	1133	7.8	130
+Siaya	Alego Usonga	Gendro	0.03448	34.15921	1155	5.2	2
+Siaya	Alego Usonga	Kanyango	0.03302	34.16308	1136	5.7	6
+Siaya	Alego Usonga	Nyadheho	0.09213	34.11967	1135	7.8	41
+Siaya	Alego Usonga	Ulutho	0.06179	34.14795	1135	7.9	3
+Turkana		Arumrum	2.36845	35.42090	651	7.0	49
+Turkana		Lopur	2.23807	35.43762	681	5.9	8
+Turkana		Nakwalele A	2.36560	35.42315	657	8.0	38
+Turkana		Naperobei	2.23428	35.43399	681	6.9	9
+Turkana		Ng'adirkonyen	2.26863	35.43266	673	7.0	3
+Turkana		Tomokia	2.27904	35.43084	664	6.1	2
